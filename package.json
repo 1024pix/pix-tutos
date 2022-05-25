@@ -1,0 +1,25 @@
+{
+  "name": "pix-tutos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "build": "rm -rf dist && node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1024pix/pix-tutos.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1024pix/pix-tutos/issues"
+  },
+  "homepage": "https://github.com/1024pix/pix-tutos#readme",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "prettier": "^2.6.2"
+  }
+}
