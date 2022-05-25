@@ -18,14 +18,12 @@ log_format keyvalue
 access_log off;
 
 server {
+    root /app/dist;
+
     access_log logs/access.log keyvalue;
     server_name localhost;
 
     charset utf-8;
-
-    location = / {
-        root /app/dist/index.html;
-    }
 
     add_header X-Content-Type-Options "nosniff";
     add_header X-Frame-Options "SAMEORIGIN";
