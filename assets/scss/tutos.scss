@@ -1,0 +1,58 @@
+.tuto__title {
+  margin: 0;
+  font-weight: 300;
+  font-size: 3rem;
+  line-height: 1.25;
+  text-align: center;
+  letter-spacing: -0.04em;
+  color: $black-90;
+}
+
+.tuto__description {
+  margin: 1rem 0 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  text-align: center;
+  color: $black-60;
+}
+
+.tuto__video {
+  width: 100%;
+  aspect-ratio: 16/9;
+  margin: 2rem 0;
+}
+
+.tuto__actions {
+  display: flex;
+  list-style-type: none;
+  gap: 1rem;
+  padding: 0;
+  margin: 0;
+}
+
+.tuto-actions__item {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  &--primary {
+    background: $blue-50;
+  }
+  &--light {
+    background: transparent;
+    border: 1px solid $black-50;
+  }
+}
+
+.tuto-actions__link {
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  &--white {
+    color: white;
+  }
+  &--black {
+    color: $black-90;
+  }
+}

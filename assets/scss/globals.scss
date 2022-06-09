@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;600&display=swap');
+
+$black-90: #172b4d;
+$black-60: #505f79;
+$black-50: #5e6c84;
+$blue-50: #3d68ff;
+$background-light: #f4f5f7;
+
+$box-shadow-xs: 0px 4px 8px rgba(7, 20, 46, 0.08);
+
+@import 'normalize';
+@import 'tutos';
+@import 'layout';

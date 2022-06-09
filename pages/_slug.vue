@@ -4,19 +4,26 @@
     <p class="tuto__description">{{ page.description }}</p>
     <iframe class="tuto__video" :src="page.videoEmbedSrc" />
     <ul class="tuto__actions">
-      <li class="tuto-actions__item">
-        <a class="tuto-actions__link" :href="page.videoDLHref">
+      <li class="tuto-actions__item tuto-actions__item--primary">
+        <a
+          class="tuto-actions__link tuto-actions__link--white"
+          :href="page.videoDLHref"
+        >
           Télécharger la video
         </a>
       </li>
-      <li class="tuto-actions__item">
-        <a class="tuto-actions__link" :href="page.fichePdfHref" target="_blank">
+      <li class="tuto-actions__item tuto-actions__item--primary">
+        <a
+          class="tuto-actions__link tuto-actions__link--white"
+          :href="page.fichePdfHref"
+          target="_blank"
+        >
           Télécharger la fiche
         </a>
       </li>
-      <li class="tuto-actions__item">
+      <li class="tuto-actions__item tuto-actions__item--light">
         <a
-          class="tuto-actions__link"
+          class="tuto-actions__link tuto-actions__link--black"
           :href="page.transcriptPdfHref"
           target="_blank"
         >
