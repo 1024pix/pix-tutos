@@ -1,8 +1,30 @@
 <template>
-  <main>
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.description }}</p>
-  </main>
+  <section class="tuto">
+    <h1 class="tuto__title">{{ page.title }}</h1>
+    <p class="tuto__description">{{ page.description }}</p>
+    <iframe class="tuto__video" :src="page.videoEmbedSrc" />
+    <ul class="tuto__actions">
+      <li class="tuto-actions__item">
+        <a class="tuto-actions__link" :href="page.videoDLHref">
+          Télécharger la video
+        </a>
+      </li>
+      <li class="tuto-actions__item">
+        <a class="tuto-actions__link" :href="page.fichePdfHref" target="_blank">
+          Télécharger la fiche
+        </a>
+      </li>
+      <li class="tuto-actions__item">
+        <a
+          class="tuto-actions__link"
+          :href="page.transcriptPdfHref"
+          target="_blank"
+        >
+          Télécharger la retranscription
+        </a>
+      </li>
+    </ul>
+  </section>
 </template>
 
 <script>
