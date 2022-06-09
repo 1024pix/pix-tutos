@@ -1,6 +1,4 @@
 export default {
-  target: "static",
-  modules: [
-    "@nuxt/content"
-  ],
-}
+  target: 'static',
+  modules: ['@nuxt/content'],
+};
