@@ -9,3 +9,4 @@ dist
 .idea
 .editorconfig
 .vscode/*
+nginx.conf
