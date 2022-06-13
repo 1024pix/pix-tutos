@@ -8,12 +8,12 @@
       class="tuto__actions"
     >
       <li v-if="videoDlHref" class="tuto-actions__item">
-        <PixButtonLink :href="videoDlHref" target="_blank">
+        <PixButtonLink :href="videoDlHref" target="_blank" rel="noopener noreferrer">
           Télécharger la video
         </PixButtonLink>
       </li>
       <li v-if="fichePdfHref" class="tuto-actions__item">
-        <PixButtonLink :href="fichePdfHref" target="_blank">
+        <PixButtonLink :href="fichePdfHref" target="_blank" rel="noopener noreferrer">
           Télécharger la fiche
         </PixButtonLink>
       </li>
@@ -22,6 +22,7 @@
           :href="transcriptPdfHref"
           background-color="transparent-light"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Télécharger la retranscription
         </PixButtonLink>
