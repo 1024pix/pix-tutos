@@ -15,7 +15,7 @@
           <img
             src="~/assets/images/pix-logo.svg"
             class="main-header__logo"
-            alt=""
+            alt="Pix"
           />
         </a>
       </div>
