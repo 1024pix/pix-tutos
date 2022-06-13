@@ -41,3 +41,11 @@ Exemples :
 
 - components/AppFooter.vue
 - components/MediaPlayer.vue
+
+## NGINX
+
+```shell
+npm run build:site
+
+PORT=80 erb servers.conf.erb > nginx.conf && docker-compose up
+```
