@@ -1,8 +1,24 @@
 <template>
   <div id="app" class="app-viewport">
     <header class="main-header">
-      <img src="~/assets/images/marianne-logo.svg" class="main-header__logo" alt="République française" />
-      <img src="~/assets/images/pix-logo.svg" class="main-header__logo" alt="Pix" />
+      <div class="main-header__container">
+        <img
+          src="~/assets/images/marianne-logo.svg"
+          class="main-header__logo"
+          alt=""
+        />
+        <a
+          class="main-header__link"
+          href="https://pix.fr"
+          title="Site officiel Pix.fr"
+        >
+          <img
+            src="~/assets/images/pix-logo.svg"
+            class="main-header__logo"
+            alt=""
+          />
+        </a>
+      </div>
     </header>
     <main role="main" class="main-container">
       <nuxt />
@@ -20,12 +36,23 @@
 .main-header {
   background-color: white;
   box-shadow: $box-shadow-xs;
-  padding: 1rem 5rem;
+}
+
+.main-header__container {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 .main-header__logo {
+  display: block;
   height: 60px;
-  margin-right: 1.5rem;
+}
+
+.main-header__link {
+  margin-left: 1.5rem;
 }
 
 .main-container {
