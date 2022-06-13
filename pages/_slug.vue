@@ -1,37 +1,12 @@
 <template>
-  <section class="tuto">
-    <h1 class="tuto__title">{{ page.title }}</h1>
-    <p class="tuto__description">{{ page.description }}</p>
-    <iframe class="tuto__video" :src="page.videoEmbedSrc" />
-    <ul class="tuto__actions">
-      <li class="tuto-actions__item tuto-actions__item--primary">
-        <a
-          class="tuto-actions__link tuto-actions__link--white"
-          :href="page.videoDLHref"
-        >
-          Télécharger la video
-        </a>
-      </li>
-      <li class="tuto-actions__item tuto-actions__item--primary">
-        <a
-          class="tuto-actions__link tuto-actions__link--white"
-          :href="page.fichePdfHref"
-          target="_blank"
-        >
-          Télécharger la fiche
-        </a>
-      </li>
-      <li class="tuto-actions__item tuto-actions__item--light">
-        <a
-          class="tuto-actions__link tuto-actions__link--black"
-          :href="page.transcriptPdfHref"
-          target="_blank"
-        >
-          Télécharger la retranscription
-        </a>
-      </li>
-    </ul>
-  </section>
+  <PixTutorial
+    :title="page.title"
+    :description="page.description"
+    :video-embed-src="page.videoEmbedSrc"
+    :video-dl-href="page.videoDLHref"
+    :fiche-pdf-href="page.fichePdfHref"
+    :transcript-pdf-href="page.transcriptPdfHref"
+  />
 </template>
 
 <script>
