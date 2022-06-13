@@ -25,5 +25,17 @@ export default {
       page,
     };
   },
+  head() {
+    return {
+      title: this.page.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.page.description
+        }
+      ]
+    }
+  }
 };
 </script>
