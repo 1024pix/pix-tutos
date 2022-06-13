@@ -7,10 +7,6 @@
   background-color: white;
   box-shadow: $box-shadow-xs;
   padding: 1rem 5rem;
-
-  @include device-is('tablet') {
-    padding: 1rem 1.5rem;
-  }
 }
 
 .main-header__logo {
