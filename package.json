@@ -5,6 +5,7 @@
     "dev": "nuxt",
     "build": "nuxt generate",
     "generate": "nuxt generate",
+    "start": "nuxt start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint:fix": "npm run lint -- --fix"
   },
