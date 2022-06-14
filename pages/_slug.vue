@@ -1,8 +1,12 @@
 <template>
-  <main>
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.description }}</p>
-  </main>
+  <PixTutorial
+    :title="page.title"
+    :description="page.description"
+    :video-embed-src="page.videoEmbedSrc"
+    :video-dl-href="page.videoDLHref"
+    :fiche-pdf-href="page.fichePdfHref"
+    :transcript-pdf-href="page.transcriptPdfHref"
+  />
 </template>
 
 <script>
@@ -21,5 +25,17 @@ export default {
       page,
     };
   },
+  head() {
+    return {
+      title: this.page.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.page.description
+        }
+      ]
+    }
+  }
 };
 </script>
