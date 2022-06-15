@@ -1,0 +1,27 @@
+---
+version: 2.0
+
+jobs:
+  test:
+    docker:
+      - image: cimg/node:16.14.0
+    steps:
+      - checkout
+      - run: cat package*.json > cachekey
+      - restore_cache:
+          keys:
+            - pix-tutos-npm-{{ checksum "cachekey" }}
+      - run: npm ci
+      - save_cache:
+          key: pix-tutos-npm-{{ checksum "cachekey" }}
+          paths:
+            - ~/.npm
+      - run:
+          name: Lint
+          command: |
+            npm run lint
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - test
