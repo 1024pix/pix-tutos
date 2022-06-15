@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="app-viewport">
-    <PixHeader :is-connected="isConnected" />
+    <PixHeader :hide-actions="shouldDisplayActions" />
     <main role="main" class="main-container">
       <nuxt />
     </main>
@@ -11,16 +11,21 @@
 export default {
   data() {
     return {
-      isConnected: false,
+      isConnected: undefined,
     };
+  },
+
+  computed: {
+    // Hide actions while loading to avoid layout shift
+    shouldDisplayActions() {
+      return this.isConnected ?? true;
+    },
   },
 
   // The `mounted` lifecycle hook is called client side
   // https://nuxtjs.org/docs/concepts/nuxt-lifecycle/#client
   mounted() {
-    if (location.search.includes('connecte')) {
-      this.isConnected = true;
-    }
+    this.isConnected = location.search.startsWith('?c');
   },
 };
 </script>

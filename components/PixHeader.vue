@@ -20,7 +20,7 @@
         </a>
       </div>
 
-      <div v-if="!isConnected" class="main-header__actions">
+      <div v-if="!hideActions" class="main-header__actions">
         <PixButtonLink
           href="https://app.pix.fr/connexion"
           background-color="transparent-light"
@@ -38,9 +38,9 @@
 <script>
 export default {
   props: {
-    isConnected: {
+    hideActions: {
       type: Boolean,
-      default: false,
+      default: true,
     },
   },
 };
