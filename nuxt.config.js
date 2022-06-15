@@ -4,7 +4,7 @@ export default {
   target: 'static',
   components: true,
   generate: {
-    fallback: '404.html'
+    fallback: '404.html',
   },
   head: {
     title: 'Pix+Edu tutos',
