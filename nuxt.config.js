@@ -1,3 +1,5 @@
+import isSeoIndexingEnabled from './services/is-seo-indexing-enabled';
+
 export default {
   target: 'static',
   components: true,
@@ -15,6 +17,7 @@ export default {
         content:
           'Pix est le service public en ligne pour évaluer, développer et certifier ses compétences numériques tout au long de la vie.',
       },
+      isSeoIndexingEnabled() ? {} : { name: 'robots', content: 'noindex' },
     ],
   },
   modules: ['@nuxt/content', '@nuxtjs/style-resources'],
