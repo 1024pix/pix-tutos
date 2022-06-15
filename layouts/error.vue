@@ -2,9 +2,9 @@
   <div class="error">
     <a href="https://pix.fr/">
       <img
-        class="error__logo"
-        src="~/assets/images/pix-logo.svg"
-        alt="Lien pour revenir à l'accueil"
+          class="error__logo"
+          src="../assets/images/pix-logo.svg"
+          alt="Lien pour revenir à l'accueil"
       />
     </a>
     <p class="error__message">{{ error.message }}</p>
@@ -13,6 +13,7 @@
 
 <script>
 export default {
+  layout: 'simple',
   props: {
     error: {
       type: Object,
@@ -22,21 +23,20 @@ export default {
   head() {
     return {
       title: 'Erreur | Pix-tutos',
-    };
+    }
   },
-};
+}
 </script>
 
 <style lang="scss">
 .error {
   width: 300px;
-  margin-left: auto;
-  margin-right: auto;
+  padding-top: 48px;
+  margin: auto;
 
   &__logo {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
   }
 
   &__message {
