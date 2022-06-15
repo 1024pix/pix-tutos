@@ -22,4 +22,6 @@ server {
   access_log logs/access.log keyvalue;
   listen <%= ENV['PORT'] %>;
   root /app/dist;
+
+  error_page 400 401 403 404 418 500 502 503 504 /404.html;
 }

@@ -3,6 +3,9 @@ import isSeoIndexingEnabled from './services/is-seo-indexing-enabled';
 export default {
   target: 'static',
   components: true,
+  generate: {
+    fallback: '404.html'
+  },
   head: {
     title: 'Pix+Edu tutos',
     htmlAttrs: {
