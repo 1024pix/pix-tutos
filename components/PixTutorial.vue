@@ -96,6 +96,7 @@ export default {
 
 .tuto__video {
   width: 100%;
+  max-height: 95vmin;
   aspect-ratio: 16/9;
   margin: 2rem 0;
 }
