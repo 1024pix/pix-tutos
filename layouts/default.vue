@@ -57,7 +57,7 @@
 
 .main-container {
   padding: 4rem 1rem;
-  max-width: 1280px;
+  max-width: 980px;
   margin: 0 auto;
 }
 </style>
