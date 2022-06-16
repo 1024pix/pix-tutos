@@ -11,6 +11,8 @@
     "signal-jira": "node ./scripts/jira/comment-with-review-app-url.js"
   },
   "dependencies": {
+    "@fontsource/open-sans": "^4.5.10",
+    "@fontsource/roboto": "^4.5.7",
     "nuxt": "^2.15.8"
   },
   "devDependencies": {
