@@ -60,7 +60,7 @@ async function main() {
   } else {
     const text =
       "Je viens de déployer la Review App. Elle sera consultable sur l'URL suivante :\n" +
-      `- Tutos : ${raTutosURL}\n` +
+      `- Tutos : ${raTutosURL}\n\n` +
       `Le lien Github de la PR : ${prGithubURL}`;
 
     console.log(
