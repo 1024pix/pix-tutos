@@ -23,6 +23,7 @@ const nuxtConfig = {
       },
       isSeoIndexingEnabled() ? {} : { name: 'robots', content: 'noindex' },
     ],
+    script: [],
   },
   modules: ['@nuxt/content', '@nuxtjs/style-resources'],
   styleResources: {
