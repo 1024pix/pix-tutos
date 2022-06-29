@@ -1,6 +1,7 @@
+import { config } from './config/environment';
 import isSeoIndexingEnabled from './services/is-seo-indexing-enabled';
 
-export default {
+const nuxtConfig = {
   target: 'static',
   components: true,
   generate: {
@@ -31,3 +32,21 @@ export default {
     ],
   },
 };
+
+if (config.matomo.containerUrl) {
+  nuxtConfig.head.script.push(
+    {
+      type: 'text/javascript',
+      src: config.matomo.containerUrl,
+      async: true,
+      defer: true,
+    },
+    {
+      type: 'text/javascript',
+      src: '/scripts/start-matomo-event.js',
+      'data-matomo-debug-mode': config.matomo.debug,
+    }
+  );
+}
+
+export default nuxtConfig;
