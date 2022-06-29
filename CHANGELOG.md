@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v0.2.1 (29/06/2022)
+
+
+### :bug: Correction
+- [#25](https://github.com/1024pix/pix-tutos/pull/25) [BUGFIX] Ajouter le script Matomo Tag Manager
+
 ## v0.2.0 (29/06/2022)
 
 
