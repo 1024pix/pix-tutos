@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v0.2.0 (29/06/2022)
+
+
+### :rocket: Amélioration
+- [#23](https://github.com/1024pix/pix-tutos/pull/23) [FEATURE] Ajouter Matomo Tag Manager comme suivie d'audience (PIX-5328).
+
+### :building_construction: Tech
+- [#24](https://github.com/1024pix/pix-tutos/pull/24) [TECH] Ajoute un saut de ligne dans le commentaire Jira (PIX-5243)
+
 
 
 ## v0.1.0 (20/06/2022)
