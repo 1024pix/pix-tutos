@@ -27,7 +27,7 @@ export default {
   },
   head() {
     return {
-      title: this.page.title,
+      title: `Pix+Édu : ${this.page.title}`,
       meta: [
         {
           hid: 'description',
