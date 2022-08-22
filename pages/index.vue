@@ -16,5 +16,10 @@ export default {
       tutos,
     };
   },
+  head() {
+    return {
+      title: 'Accueil',
+    };
+  },
 };
 </script>
