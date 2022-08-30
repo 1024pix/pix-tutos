@@ -1,5 +1,50 @@
 # pix-tutos Changelog
 
+## v0.3.0 (30/08/2022)
+
+
+### :coffee: Autre
+- [#66](https://github.com/1024pix/pix-tutos/pull/66) Nouveau tuto (37) : Le site Cap école inclusive
+- [#67](https://github.com/1024pix/pix-tutos/pull/67) Nouveau tuto (38) : Les systèmes robotisés de téléprésence
+- [#65](https://github.com/1024pix/pix-tutos/pull/65) Nouveau tuto (36) : Outils pour rendre un document accessible
+- [#58](https://github.com/1024pix/pix-tutos/pull/58) Nouveau tuto (29) : Connaître des applications à vidéoprojeter pour animer et gérer sa classe
+- [#60](https://github.com/1024pix/pix-tutos/pull/60) Nouveau tuto (31) : Utiliser les outils de quiz en ligne pour diversifier son évaluation
+- [#64](https://github.com/1024pix/pix-tutos/pull/64) Nouveau tuto (35) : Sites ressources pour l'école inclusive
+- [#53](https://github.com/1024pix/pix-tutos/pull/53) Nouveau tuto (24) : Méthodes et outils pour le montage d'une capsule vidéo
+- [#41](https://github.com/1024pix/pix-tutos/pull/41) Nouveau tuto (13) : Le droit à l'image des élèves
+- [#49](https://github.com/1024pix/pix-tutos/pull/49) Nouveau tuto (20) : Comprendre les Creative Commons pour une utilisation pédagogique
+- [#51](https://github.com/1024pix/pix-tutos/pull/51) Nouveau tuto (22) : Savoir indexer une ressource en ligne pour la partager
+- [#46](https://github.com/1024pix/pix-tutos/pull/46) Nouveau tuto (17) : Le principe de l'exception pédagogique
+- [#62](https://github.com/1024pix/pix-tutos/pull/62) Nouveau tuto (33) : Learning analytics et intelligence artificielle dans l'éducation
+- [#63](https://github.com/1024pix/pix-tutos/pull/63) Nouveau tuto (34) : Repérer une copie ayant eu recours au plagiat
+- [#61](https://github.com/1024pix/pix-tutos/pull/61) Nouveau tuto (32) : Les fonctionnalités de rétroaction des outils de quiz en ligne
+- [#59](https://github.com/1024pix/pix-tutos/pull/59) Nouveau tuto (30) : Connaître des outils de quiz en ligne
+- [#57](https://github.com/1024pix/pix-tutos/pull/57) Nouveau tuto (28) : Utiliser un TBI/TNI
+- [#56](https://github.com/1024pix/pix-tutos/pull/56) Nouveau tuto (27) : La classe inversée
+- [#55](https://github.com/1024pix/pix-tutos/pull/55) Create scenariser-une-capsule-video.json
+- [#54](https://github.com/1024pix/pix-tutos/pull/54) Nouveau tuto (25) : Utiliser des capsules vidéo en classe
+- [#52](https://github.com/1024pix/pix-tutos/pull/52) Nouveau tuto (23) : Méthodes et outils pour concevoir une capsule vidéo
+- [#50](https://github.com/1024pix/pix-tutos/pull/50) Nouveau tuto (21) : Le droit d'auteur des élèves
+- [#48](https://github.com/1024pix/pix-tutos/pull/48) Nouveau tuto (19) : Utiliser une illustration en licence libre
+- [#47](https://github.com/1024pix/pix-tutos/pull/47) Nouveau tuto (18) : Appliquer l'exception pédagogique et les exceptions aux droits d'auteur
+- [#45](https://github.com/1024pix/pix-tutos/pull/45) Nouveau tuto (16) : Suivre les avancées de la recherche sur le numérique éducatif
+- [#44](https://github.com/1024pix/pix-tutos/pull/44) Nouveau tuto (15) : Le modèle SAMR pour intégrer le numérique dans la pédagogie
+- [#43](https://github.com/1024pix/pix-tutos/pull/43) Nouveau tuto (14) : Le cyberharcèlement
+- [#42](https://github.com/1024pix/pix-tutos/pull/42) Nouveau tuto (12) : Le RGPD en milieu scolaire
+- [#40](https://github.com/1024pix/pix-tutos/pull/40) Nouveau tuto (11) : Les données à caractère personnel en milieu scolaire
+- [#39](https://github.com/1024pix/pix-tutos/pull/39) Nouveau tuto (10) : Les acteurs de la formation en ligne des enseignants
+- [#38](https://github.com/1024pix/pix-tutos/pull/38) Nouveau tuto (9) : Identifier des sources de veille incontournables
+- [#37](https://github.com/1024pix/pix-tutos/pull/37) Nouveau tuto (8) : Utiliser les réseaux sociaux comme outils de veille informationnelle
+- [#36](https://github.com/1024pix/pix-tutos/pull/36) Nouveau tuto (7) : Les lieux d'échange en ligne entre professionnels
+- [#35](https://github.com/1024pix/pix-tutos/pull/35) Nouveau tuto (6) : Les acteurs institutionnels du numérique éducatif dans le 2nd degré
+- [#34](https://github.com/1024pix/pix-tutos/pull/34) Nouveau tuto (5) : Les référents numériques pour le second degré
+- [#33](https://github.com/1024pix/pix-tutos/pull/33) Nouveau tuto (4) : Communiquer efficacement par différents canaux auprès de ses élèves
+- [#28](https://github.com/1024pix/pix-tutos/pull/28) build(deps): bump parse-url from 6.0.0 to 6.0.5
+- [#29](https://github.com/1024pix/pix-tutos/pull/29) build(deps): bump terser from 4.8.0 to 4.8.1
+- [#32](https://github.com/1024pix/pix-tutos/pull/32) Create communiquer-par-voie-numerique-aupres-de-la-communaute-educati…
+- [#31](https://github.com/1024pix/pix-tutos/pull/31) Create configurer-son-client-de-messagerie-pour-recevoir-ses-mails-ac…
+- [#30](https://github.com/1024pix/pix-tutos/pull/30) Ajout tuto "Se connecter à sa messagerie académique"
+
 ## v0.2.1 (29/06/2022)
 
 
