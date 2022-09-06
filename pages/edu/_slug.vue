@@ -14,7 +14,7 @@ export default {
   async asyncData({ $content, params, error }) {
     const slug = params.slug || 'index';
 
-    const page = await $content(slug)
+    const page = await $content('edu', slug)
       .fetch()
       .catch((err) => {
         console.error(err);
