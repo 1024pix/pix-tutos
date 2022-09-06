@@ -11,6 +11,7 @@
 
 <script>
 export default {
+  layout: 'edu',
   async asyncData({ $content, params, error }) {
     const slug = params.slug || 'index';
 

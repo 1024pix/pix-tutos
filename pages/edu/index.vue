@@ -10,6 +10,7 @@
 
 <script>
 export default {
+  layout: 'edu',
   async asyncData({ $content }) {
     const tutos = await $content('edu').fetch();
     return {

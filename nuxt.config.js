@@ -8,7 +8,7 @@ const nuxtConfig = {
     fallback: '404.html',
   },
   head: {
-    titleTemplate: '%s - Pix+Édu',
+    titleTemplate: '%s - Tutos Pix',
     htmlAttrs: {
       lang: 'fr',
     },
