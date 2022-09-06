@@ -1,8 +1,8 @@
 const path = require('path');
 const fs = require('fs');
 
-describe('Verification du contenu dans le dossier `content`', function () {
-  const contentPath = path.join(__dirname, '../content');
+describe('Verification du contenu dans le dossier `content/edu`', function () {
+  const contentPath = path.join(__dirname, '../content/edu');
   const dirContent = fs.readdirSync(contentPath);
 
   dirContent.forEach((file) => {
