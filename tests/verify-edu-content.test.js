@@ -27,6 +27,15 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
         }
       });
 
+      it('doit avoir un champ `area`', function () {
+        try {
+          expect(tutoFileContent.area).toBeDefined();
+          expect(typeof tutoFileContent.area).toBe('string');
+        } catch {
+          throw new Error('Le champ "area" est obligatoire.');
+        }
+      });
+
       it('doit avoir un champ `title`', function () {
         try {
           expect(tutoFileContent.title).toBeDefined();
