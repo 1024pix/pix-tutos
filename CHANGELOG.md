@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v1.0.0 (08/09/2022)
+
+
+### :rocket: Amélioration
+- [#69](https://github.com/1024pix/pix-tutos/pull/69) [FEATURE] Déplacement des tutos Pix+Edu dans `/edu`
+
+### :coffee: Autre
+- [#68](https://github.com/1024pix/pix-tutos/pull/68) [CLEANUP] Utilise l'action commune d'automerge
+
 ## v0.3.0 (30/08/2022)
 
 
