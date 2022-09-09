@@ -9,11 +9,24 @@
 </template>
 
 <script>
+import getAreas from '../../services/get-areas';
+
 export default {
   layout: 'edu',
   async asyncData({ $content }) {
-    const tutos = await $content('edu').fetch();
+    const tutos = await $content('edu').sortBy('area').fetch();
+
+    const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
+      if (!acc[tuto.area]) {
+        acc[tuto.area] = [];
+      }
+      acc[tuto.area].push(tuto);
+      return acc;
+    }, {});
+
     return {
+      areas: getAreas(),
+      tutosGroupedByArea,
       tutos,
     };
   },
