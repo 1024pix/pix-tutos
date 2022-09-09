@@ -1,5 +1,6 @@
-const path = require('path');
-const fs = require('fs');
+import path from 'path';
+import fs from 'fs';
+import getAreas from '../services/get-areas';
 
 describe('Verification du contenu dans le dossier `content/edu`', function () {
   const contentPath = path.join(__dirname, '../content/edu');
@@ -27,12 +28,21 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
         }
       });
 
-      it('doit avoir un champ `area`', function () {
+      it('doit avoir un champ `area` existant', function () {
         try {
           expect(tutoFileContent.area).toBeDefined();
           expect(typeof tutoFileContent.area).toBe('string');
         } catch {
           throw new Error('Le champ "area" est obligatoire.');
+        }
+        try {
+          expect(getAreas()).toHaveProperty(tutoFileContent.area);
+        } catch {
+          throw new Error(
+            `Cette valeur d'"area" n'est pas permise. Valeurs permises : ${Object.keys(
+              getAreas()
+            )}`
+          );
         }
       });
 
@@ -63,19 +73,22 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
       });
 
       it('ne doit pas contenir des champs inconnus', function () {
+        const acceptedFields = [
+          'area',
+          'title',
+          'description',
+          'videoEmbedSrc',
+          'videoDLHref',
+          'fichePdfHref',
+          'transcriptPdfHref',
+        ];
         try {
-          expect([
-            'area',
-            'title',
-            'description',
-            'videoEmbedSrc',
-            'videoDLHref',
-            'fichePdfHref',
-            'transcriptPdfHref',
-          ]).toEqual(expect.arrayContaining(Object.keys(tutoFileContent)));
+          expect(acceptedFields).toEqual(
+            expect.arrayContaining(Object.keys(tutoFileContent))
+          );
         } catch {
           throw new Error(
-            `Des champs inconnus sont présents. Champs attendus : "area", "title", "description", "videoEmbedSrc", "videoDLHref", "fichePdfHref", "transcriptPdfHref".`
+            `Des champs inconnus sont présents. Champs attendus : ${acceptedFields}.`
           );
         }
       });
