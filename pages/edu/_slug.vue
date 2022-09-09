@@ -1,12 +1,16 @@
 <template>
-  <PixTutorial
-    :title="page.title"
-    :description="page.description"
-    :video-embed-src="page.videoEmbedSrc"
-    :video-dl-href="page.videoDLHref"
-    :fiche-pdf-href="page.fichePdfHref"
-    :transcript-pdf-href="page.transcriptPdfHref"
-  />
+  <article>
+    <NuxtLink :to="{ name: 'edu' }"> ‹ Retour à la liste </NuxtLink>
+
+    <PixTutorial
+      :title="page.title"
+      :description="page.description"
+      :video-embed-src="page.videoEmbedSrc"
+      :video-dl-href="page.videoDLHref"
+      :fiche-pdf-href="page.fichePdfHref"
+      :transcript-pdf-href="page.transcriptPdfHref"
+    />
+  </article>
 </template>
 
 <script>
@@ -40,3 +44,20 @@ export default {
   },
 };
 </script>
+
+<style lang="scss" scoped>
+a {
+  font-family: $roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: $black-90;
+  margin: 0;
+
+  &:hover {
+    color: $blue-hover;
+    text-decoration-color: $blue-hover;
+  }
+}
+</style>
