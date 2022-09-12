@@ -5,7 +5,7 @@
     <PixTutorial
       :title="page.title"
       :description="page.description"
-      :video-embed-src="page.videoEmbedSrc"
+      :video-embed-src="videoEmbedSrc"
       :video-dl-href="page.videoDLHref"
       :fiche-pdf-href="page.fichePdfHref"
       :transcript-pdf-href="page.transcriptPdfHref"
@@ -14,6 +14,8 @@
 </template>
 
 <script>
+import customizeEmbedVideo from '~/services/customizing-embed-video';
+
 export default {
   layout: 'edu',
   async asyncData({ $content, params, error }) {
@@ -41,6 +43,11 @@ export default {
         },
       ],
     };
+  },
+  computed: {
+    videoEmbedSrc() {
+      return customizeEmbedVideo(this.page.videoEmbedSrc);
+    },
   },
 };
 </script>
