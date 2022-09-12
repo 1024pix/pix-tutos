@@ -5,7 +5,7 @@
       description
     }}</PixTypography>
 
-    <iframe class="tuto__video" :src="videoEmbedSrc" />
+    <iframe class="tuto__video" :src="videoEmbedSrc" allowfullscreen />
 
     <ul
       v-if="videoDlHref || fichePdfHref || transcriptPdfHref"
