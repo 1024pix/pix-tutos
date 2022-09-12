@@ -1,8 +1,12 @@
 <template>
   <section class="tuto">
-    <h1 class="tuto__title">{{ title }}</h1>
-    <p class="tuto__description">{{ description }}</p>
+    <PixTypography tag="h1" class="tuto__title">{{ title }}</PixTypography>
+    <PixTypography tag="p" class="tuto__description">{{
+      description
+    }}</PixTypography>
+
     <iframe class="tuto__video" :src="videoEmbedSrc" />
+
     <ul
       v-if="videoDlHref || fichePdfHref || transcriptPdfHref"
       class="tuto__actions"
@@ -74,39 +78,26 @@ export default {
 </script>
 
 <style lang="scss">
-.tuto__title {
-  margin: 0;
-  font-weight: 300;
-  font-size: 3rem;
-  line-height: 1.25;
-  text-align: center;
-  letter-spacing: -0.04em;
-  color: $black-90;
-}
+.tuto {
+  .tuto__description {
+    margin: 1rem 0 0;
+  }
 
-.tuto__description {
-  margin: 1rem 0 0;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 1.25rem;
-  line-height: 1.4;
-  text-align: center;
-  color: $black-60;
-}
+  &__video {
+    width: 100%;
+    max-height: 95vmin;
+    aspect-ratio: 16/9;
+    margin: 2rem 0;
+  }
 
-.tuto__video {
-  width: 100%;
-  max-height: 95vmin;
-  aspect-ratio: 16/9;
-  margin: 2rem 0;
-}
-
-.tuto__actions {
-  display: flex;
-  flex-wrap: wrap;
-  list-style-type: none;
-  gap: 1rem;
-  padding: 0;
-  margin: 0;
+  &__actions {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap: 1rem;
+    padding: 0;
+    margin: 0;
+  }
 }
 </style>
