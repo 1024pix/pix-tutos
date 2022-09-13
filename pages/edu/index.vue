@@ -1,12 +1,12 @@
 <template>
   <div>
     <PixTypography tag="h1" class="header__title"
-      >Tutoriels Canopé</PixTypography
+      >Tutoriels Réseau Canopé-Pix</PixTypography
     >
 
     <PixTypography tag="p" class="header__description">
-      Améliorez vos compétences abordées par les parcours Pix+Edu grâce aux
-      tutoriels vidéos du réseau Canopé.
+      Améliorez vos connaissances sur les thèmes abordés dans Pix+Édu à l'aide
+      de tutoriels vidéo produits par le Réseau Canopé, en partenariat avec Pix.
     </PixTypography>
 
     <section>
