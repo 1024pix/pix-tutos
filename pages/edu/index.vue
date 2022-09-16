@@ -5,8 +5,8 @@
     >
 
     <PixTypography tag="p" class="header__description">
-      Améliorez vos connaissances sur les thèmes abordés dans Pix+Édu à l'aide
-      de tutoriels vidéo produits par le Réseau Canopé, en partenariat avec Pix.
+      Améliorez vos compétences sur les thèmes abordés dans Pix+Édu à l'aide de
+      tutoriels vidéo produits par le Réseau Canopé, en partenariat avec Pix.
     </PixTypography>
 
     <section>
