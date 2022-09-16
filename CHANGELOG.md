@@ -1,5 +1,17 @@
 # pix-tutos Changelog
 
+## v1.0.1 (16/09/2022)
+
+
+### :rocket: Amélioration
+- [#74](https://github.com/1024pix/pix-tutos/pull/74) [FEATURE] Ajustements lien retour à la liste + libellé (PIX-5676)
+- [#73](https://github.com/1024pix/pix-tutos/pull/73) [FEATURE] Amélioration libellés page d'accueil Pix+Édu
+- [#72](https://github.com/1024pix/pix-tutos/pull/72) [FEATURE] Customiser le lecteur vidéo (PIX-5659).
+- [#71](https://github.com/1024pix/pix-tutos/pull/71) [FEATURE] Intégration page d'accueil Pix+Édu (PIX-5631)
+
+### :coffee: Autre
+- [#70](https://github.com/1024pix/pix-tutos/pull/70) Ajout et remplissage du champ "area" sur tous les .json des tutos edu
+
 ## v1.0.0 (08/09/2022)
 
 
