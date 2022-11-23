@@ -1,5 +1,5 @@
 <template>
-  <component :is="tag"><slot /></component>
+  <component :is="tag" :class="`pix-${scale}`"><slot /></component>
 </template>
 
 <script>
@@ -7,6 +7,10 @@ export default {
   name: 'PixTypography',
   props: {
     tag: {
+      type: String,
+      required: true,
+    },
+    scale: {
       type: String,
       required: true,
     },
