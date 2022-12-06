@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v1.0.2 (06/12/2022)
+
+
+### :rocket: Amélioration
+- [#85](https://github.com/1024pix/pix-tutos/pull/85) [FEATURE] Amélioration design typographies (PIX-6421)
+
 ## v1.0.1 (16/09/2022)
 
 
