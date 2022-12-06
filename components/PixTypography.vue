@@ -1,5 +1,7 @@
 <template>
-  <component :is="tag"><slot /></component>
+  <component :is="tag" :class="`pix-typography pix-typography--scale-${scale}`">
+    <slot />
+  </component>
 </template>
 
 <script>
@@ -10,48 +12,99 @@ export default {
       type: String,
       required: true,
     },
+    scale: {
+      type: String,
+      required: true,
+    },
   },
 };
 </script>
 
-<style lang="scss" scoped>
-h1 {
-  font-family: $open-sans;
-  font-weight: 300;
-  font-size: 3.75rem;
-  line-height: 4.5rem;
+<style lang="scss">
+.pix-typography {
+  color: $black-90;
+  margin: 0;
+}
+
+/**
+* Scales
+*/
+
+// Titles
+[class*='pix-typography--scale-title'] {
+  line-height: 1.25;
+  font-weight: 500;
   letter-spacing: -0.04em;
-  color: $black-90;
-  margin: 0;
 }
 
-h2 {
+.pix-typography--scale-title-large {
   font-family: $open-sans;
-  font-weight: 600;
-  font-size: 1.5rem;
-  line-height: 2rem;
+  font-size: 2rem;
+
+  @media (min-width: 768px) {
+    font-size: 2.5rem;
+  }
+
+  @media (min-width: 980px) {
+    font-size: 3rem;
+  }
+}
+
+.pix-typography--scale-title-medium {
+  font-family: $open-sans;
+  font-size: 1.625rem;
   letter-spacing: -0.02em;
-  color: $black-90;
-  margin: 0;
+
+  @media (min-width: 768px) {
+    letter-spacing: -0.04em;
+    font-size: 2rem;
+  }
+
+  @media (min-width: 980px) {
+    font-size: 2.25rem;
+  }
 }
 
-h3 {
+.pix-typography--scale-title-small {
   font-family: $open-sans;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-  letter-spacing: 0em;
-  color: $black-90;
-  margin: 0;
+  font-size: 1.375rem;
+  letter-spacing: -0.02em;
+
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+  }
+
+  @media (min-width: 980px) {
+    font-size: 1.75rem;
+  }
 }
 
-p {
+.pix-typography--scale-title-extra-small {
+  font-family: $open-sans;
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+// Bodys
+[class*='pix-typography--scale-body'] {
   font-family: $roboto;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 1.5rem;
-  line-height: 2rem;
-  color: $black-90;
-  margin: 0;
+  line-height: 1.5;
+}
+
+.pix-typography--scale-body-large {
+  font-size: 1.125rem;
+}
+
+.pix-typography--scale-body-medium {
+  font-size: 1rem;
+}
+
+.pix-typography--scale-body-small {
+  font-size: 0.875rem;
+}
+
+.pix-typography--scale-body-extra-small {
+  font-size: 0.75rem;
+  letter-spacing: 0.02rem;
 }
 </style>

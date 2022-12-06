@@ -1,7 +1,9 @@
 <template>
   <section class="tuto">
-    <PixTypography tag="h1" class="tuto__title">{{ title }}</PixTypography>
-    <PixTypography tag="p" class="tuto__description">{{
+    <PixTypography tag="h1" scale="title-medium" class="tuto__title">{{
+      title
+    }}</PixTypography>
+    <PixTypography tag="p" scale="body-large" class="tuto__description">{{
       description
     }}</PixTypography>
 
