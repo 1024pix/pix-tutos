@@ -1,5 +1,20 @@
 # pix-tutos Changelog
 
+## v1.0.3 (13/12/2022)
+
+
+### :coffee: Autre
+- [#87](https://github.com/1024pix/pix-tutos/pull/87) Bump decode-uri-component from 0.2.0 to 0.2.2
+- [#88](https://github.com/1024pix/pix-tutos/pull/88) Bump parse-url and @nuxt/telemetry
+- [#84](https://github.com/1024pix/pix-tutos/pull/84) Bump loader-utils from 1.4.0 to 1.4.2
+- [#82](https://github.com/1024pix/pix-tutos/pull/82) Update sites-ressources-pour-l-ecole-inclusive.json
+- [#81](https://github.com/1024pix/pix-tutos/pull/81) Update outils-pour-rendre-un-document-accessible.json
+- [#80](https://github.com/1024pix/pix-tutos/pull/80) Update les-systemes-robotises-de-telepresence.json
+- [#79](https://github.com/1024pix/pix-tutos/pull/79) Update connaitre-des-outils-de-quiz-en-ligne.json
+- [#78](https://github.com/1024pix/pix-tutos/pull/78) Update savoir-indexer-une-ressource-en-ligne-pour-la-partager.json
+- [#77](https://github.com/1024pix/pix-tutos/pull/77) Update les-lieux-d-echange-en-ligne-entre-professionnels.json
+- [#76](https://github.com/1024pix/pix-tutos/pull/76) Update les-acteurs-institutionnels-du-numerique-educatif-dans-le-2nd-…
+
 ## v1.0.2 (06/12/2022)
 
 
