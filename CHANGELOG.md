@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v1.1.0 (20/12/2022)
+
+
+### :building_construction: Tech
+- [#93](https://github.com/1024pix/pix-tutos/pull/93) [TECH] Relaxe les versions de Node.js et npm (PIX-6574)
+
 ## v1.0.3 (13/12/2022)
 
 
