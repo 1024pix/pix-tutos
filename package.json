@@ -12,6 +12,10 @@
     "signal-jira": "node ./scripts/jira/comment-with-review-app-url.js",
     "test": "jest"
   },
+  "engines": {
+    "node": "16",
+    "npm": ">=8.13.2 <9"
+  },
   "dependencies": {
     "@fontsource/open-sans": "^4.5.10",
     "@fontsource/roboto": "^4.5.7",
