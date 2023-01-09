@@ -96,11 +96,11 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
       it('le champ `videoEmbedSrc` doit avoir un format précis', function () {
         try {
           expect(tutoFileContent.videoEmbedSrc).toMatch(
-            /^https:\/\/tube-numerique-educatif\.apps\.education\.fr\/videos\/embed\/(\w|-)+$/
+            /^https:\/\/tube\.reseau-canope\.fr\/videos\/embed\/(\w|-)+$/
           );
         } catch {
           throw new Error(
-            `Le format du lien "videoEmbedSrc" est invalide (format attendu : "https://tube-numerique-educatif.apps.education.fr/videos/embed/{ID_VIDEO}", valeur reçue : "${
+            `Le format du lien "videoEmbedSrc" est invalide (format attendu : "https://tube.reseau-canope.fr/videos/embed/{ID_VIDEO}", valeur reçue : "${
               tutoFileContent.videoEmbedSrc ?? ''
             }")`
           );
@@ -111,11 +111,11 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
         if (!tutoFileContent.videoDLHref) return;
         try {
           expect(tutoFileContent.videoDLHref).toMatch(
-            /^https:\/\/tube-numerique-educatif\.apps\.education\.fr\/download\/videos\/(\w|-)+\.mp4$/
+            /^https:\/\/tube\.reseau-canope\.fr\/download\/streaming-playlists\/hls\/videos\/(\w|-)+\.mp4$/
           );
         } catch {
           throw new Error(
-            `Le format du lien "videoDLHref" est invalide (format attendu : "https://tube-numerique-educatif.apps.education.fr/download/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileContent.videoDLHref}")`
+            `Le format du lien "videoDLHref" est invalide (format attendu : "https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileContent.videoDLHref}")`
           );
         }
       });
