@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v1.2.0 (11/01/2023)
+
+
+### :coffee: Autre
+- [#92](https://github.com/1024pix/pix-tutos/pull/92) Bascule liens Pix <-- liens Canopé
+
 ## v1.1.0 (20/12/2022)
 
 
