@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v1.2.1 (18/01/2023)
+
+
+### :building_construction: Tech
+- [#96](https://github.com/1024pix/pix-tutos/pull/96) [TECH] Ne plus ajouter de lien vers la review-app dans la pull-request
+
+### :coffee: Autre
+- [#95](https://github.com/1024pix/pix-tutos/pull/95) Création pages tutos.pix pour nouveaux tutos Canopé
+
 ## v1.2.0 (11/01/2023)
 
 
