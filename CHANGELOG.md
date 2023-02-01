@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v1.2.2 (01/02/2023)
+
+
+### :building_construction: Tech
+- [#100](https://github.com/1024pix/pix-tutos/pull/100) [TECH] Ajouter la config pour renovate
+
+### :coffee: Autre
+- [#97](https://github.com/1024pix/pix-tutos/pull/97) Ajout des descriptions courtes pour les nouveaux tutoriels Canopé
+
 ## v1.2.1 (18/01/2023)
 
 
