@@ -1,9 +1,9 @@
 import path from 'path';
 import fs from 'fs';
-import getAreas from '../services/get-areas';
+import getAreas from '../../services/get-areas';
 
 describe('Verification du contenu dans le dossier `content/edu`', function () {
-  const contentPath = path.join(__dirname, '../content/edu');
+  const contentPath = path.join(__dirname, '../../content/edu');
   const dirContent = fs.readdirSync(contentPath);
 
   dirContent.forEach((file) => {
