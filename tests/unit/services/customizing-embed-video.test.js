@@ -1,4 +1,4 @@
-import customizeEmbedVideo from '../../services/customizing-embed-video';
+import customizeEmbedVideo from '../../../services/customizing-embed-video';
 
 describe('Unit | Services | Customizing Embed Video', function () {
   describe('#customizeEmbedVideo', function () {
