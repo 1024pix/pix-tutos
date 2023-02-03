@@ -1,5 +1,24 @@
 # pix-tutos Changelog
 
+## v1.2.3 (03/02/2023)
+
+
+### :building_construction: Tech
+- [#116](https://github.com/1024pix/pix-tutos/pull/116) [TECH] Ajouter des tests de non régressions (PIX-7000).
+
+### :coffee: Autre
+- [#117](https://github.com/1024pix/pix-tutos/pull/117) chore(deps): update mcr.microsoft.com/playwright docker tag to v1.30.0
+- [#113](https://github.com/1024pix/pix-tutos/pull/113) chore(deps): update npm to v9
+- [#112](https://github.com/1024pix/pix-tutos/pull/112) chore(deps): update node.js to v19
+- [#108](https://github.com/1024pix/pix-tutos/pull/108) chore(deps): update dependency jest to v29
+- [#107](https://github.com/1024pix/pix-tutos/pull/107) chore(deps): update dependency eslint-plugin-nuxt to v4
+- [#106](https://github.com/1024pix/pix-tutos/pull/106) chore(deps): update dependency eslint-plugin-jest to v27
+- [#105](https://github.com/1024pix/pix-tutos/pull/105) chore(deps): update dependency axios to v1
+- [#104](https://github.com/1024pix/pix-tutos/pull/104) chore(deps): update dependency @nuxtjs/eslint-config to v12
+- [#103](https://github.com/1024pix/pix-tutos/pull/103) chore(deps): update dependency @nuxt/content to v2
+- [#102](https://github.com/1024pix/pix-tutos/pull/102) chore(deps): update node.js to v16.19.0
+- [#101](https://github.com/1024pix/pix-tutos/pull/101) chore(deps): update dependency prettier to v2.8.3
+
 ## v1.2.2 (01/02/2023)
 
 
