@@ -1,5 +1,15 @@
 # pix-tutos Changelog
 
+## v1.2.4 (28/02/2023)
+
+
+### :coffee: Autre
+- [#123](https://github.com/1024pix/pix-tutos/pull/123) Création d'une page pour un nouveau tuto
+- [#122](https://github.com/1024pix/pix-tutos/pull/122) Correctifs coquilles (titre / domaine)
+- [#121](https://github.com/1024pix/pix-tutos/pull/121) [BUMP] Update Node.js to v19.6.1 (.circleci)
+- [#120](https://github.com/1024pix/pix-tutos/pull/120) [BUMP] Update dependency prettier to v2.8.4
+- [#118](https://github.com/1024pix/pix-tutos/pull/118) chore(deps): update node.js to v19.6.0
+
 ## v1.2.3 (03/02/2023)
 
 
