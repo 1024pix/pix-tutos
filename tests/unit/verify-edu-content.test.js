@@ -1,5 +1,6 @@
 import path from 'path';
 import fs from 'fs';
+import { describe, beforeEach, it, expect } from 'vitest';
 import getAreas from '../../services/get-areas';
 
 describe('Verification du contenu dans le dossier `content/edu`', function () {

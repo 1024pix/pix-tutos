@@ -16,14 +16,14 @@ import customizeEmbedVideo from '~/services/customizing-embed-video';
 
 export default {
   layout: 'edu',
-  async asyncData({ $content, params, error }) {
-    const slug = params.slug || 'index';
+  async setup() {
+    const slug = useRoute().params.slug || 'index';
 
-    const page = await $content('edu', slug)
-      .fetch()
+    const page = await queryContent(`/edu/${slug}`)
+      .findOne()
       .catch((err) => {
         console.error(err);
-        error({ statusCode: 404, message: "Ce tuto n'existe pas." });
+        useError({ statusCode: 404, message: "Ce tuto n'existe pas." });
       });
 
     return {

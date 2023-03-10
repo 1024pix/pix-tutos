@@ -9,12 +9,12 @@ test.describe('content', () => {
     const response = await page.goto(pageToVisit);
 
     // then
-    expect(response.status()).toBe(200);
-    await expect(
-      page.getByRole('heading', { name: 'Tutoriels Réseau Canopé-Pix' })
-    ).toBeVisible();
+    expect.soft(response.status()).toBe(200);
+    await expect
+      .soft(page.getByRole('heading', { name: 'Tutoriels Réseau Canopé-Pix' }))
+      .toBeVisible();
     for (const link of await page.getByRole('link').all()) {
-      await expect(link).toBeVisible();
+      await expect.soft(link).toBeVisible();
     }
   });
 });

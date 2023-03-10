@@ -4,10 +4,6 @@ module.exports = {
     node: true,
     'jest/globals': true,
   },
-  parserOptions: {
-    parser: '@babel/eslint-parser',
-    requireConfigFile: false,
-  },
   extends: [
     '@nuxtjs',
     'plugin:prettier/recommended',

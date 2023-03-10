@@ -2,7 +2,7 @@
   <div id="app" class="app-viewport">
     <PixHeader :hide-actions="shouldDisplayActions" />
     <main role="main" class="main-container">
-      <nuxt />
+      <slot />
     </main>
   </div>
 </template>
