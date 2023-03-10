@@ -1,0 +1,24 @@
+// ToDo fix fontsource imports
+// @import './fonts/open-sans';
+// @import './fonts/roboto';
+
+$open-sans: 'Open Sans', Arial, sans-serif;
+$roboto: 'Roboto', Arial, sans-serif;
+
+$pix-neutral-90: #172b4d;
+$pix-neutral-70: #344563;
+$pix-neutral-50: #5e6c84;
+$pix-neutral-22: #c1c7d0;
+$pix-neutral-20: #dfe1e6;
+$pix-neutral-10: #f4f5f7;
+$pix-neutral-0: #ffffff;
+
+$black-90: #172b4d;
+$black-60: #505f79;
+$black-50: #5e6c84;
+$blue-50: #3d68ff;
+$blue-hover: darken($blue-50, 12%);
+$background-light: $pix-neutral-10;
+$hover-grey: rgba(7, 20, 46, 0.1);
+
+$box-shadow-xs: 0px 4px 8px rgba(7, 20, 46, 0.08);

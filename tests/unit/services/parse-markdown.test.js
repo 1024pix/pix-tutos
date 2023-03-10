@@ -1,4 +1,5 @@
 import parseMarkdownMetadata from '../../../services/parse-markdown';
+import { describe, it, expect } from 'vitest';
 
 describe('Unit | Services | Parse Markdown Metadata', function () {
   describe('#parseMarkdownMetadata', function () {

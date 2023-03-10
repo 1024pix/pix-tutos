@@ -1,3 +1,4 @@
+import { describe, it, expect } from 'vitest';
 import customizeEmbedVideo from '../../../services/customizing-embed-video';
 
 describe('Unit | Services | Customizing Embed Video', function () {

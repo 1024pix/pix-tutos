@@ -26,10 +26,10 @@
         <ul class="tutorial-list">
           <li
             v-for="tuto in areaTutos"
-            :key="tuto.slug"
+            :key="tuto._id"
             class="tutorial-list__item"
           >
-            <nuxt-link :to="{ name: 'edu-slug', params: { slug: tuto.slug } }">
+            <nuxt-link :to="tuto._path">
               <PixTypography
                 tag="h3"
                 scale="title-extra-small"
@@ -52,8 +52,8 @@ import getAreas from '../../services/get-areas';
 export default {
   components: { PixTypography },
   layout: 'edu',
-  async asyncData({ $content }) {
-    const tutos = await $content('edu').sortBy('area').fetch();
+  async setup() {
+    const tutos = await queryContent('edu').sort('area').find();
 
     const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
       if (!acc[tuto.area]) {
