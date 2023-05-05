@@ -89,6 +89,7 @@ export default {
 .tuto {
   .tuto__description {
     margin: 1rem 0 0;
+    color: $pix-neutral-50;
   }
 
   &__video {
@@ -100,12 +101,26 @@ export default {
 
   &__actions {
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
     list-style-type: none;
     gap: 1rem;
     padding: 0;
     margin: 0;
+  }
+}
+
+.nuxt-content {
+  margin-top: 32px;
+  color: $pix-neutral-70;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  border-top: 1px solid $pix-neutral-22;
+
+  h2 {
+    margin: 32px 0 8px;
+    color: $pix-neutral-90;
+    font-size: 1.25rem;
+    font-weight: 500;
   }
 }
 </style>
