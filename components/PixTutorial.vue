@@ -42,6 +42,8 @@
         </PixButtonLink>
       </li>
     </ul>
+
+    <nuxt-content :document="page" />
   </section>
 </template>
 
@@ -51,6 +53,10 @@ export default {
   name: 'PixTutorial',
   components: { PixButtonLink },
   props: {
+    page: {
+      type: Object,
+      required: true,
+    },
     title: {
       type: String,
       required: true,
