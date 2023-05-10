@@ -21,7 +21,7 @@
   "dependencies": {
     "@fontsource/open-sans": "^4.5.10",
     "@fontsource/roboto": "^4.5.7",
-    "nuxt": "^2.15.8"
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.18.2",
