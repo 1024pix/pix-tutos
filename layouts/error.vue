@@ -5,9 +5,11 @@
         class="error__logo"
         src="../assets/images/pix-logo.svg"
         alt="Lien pour revenir à l'accueil"
-      />
+      >
     </a>
-    <p class="error__message">{{ error.message }}</p>
+    <p class="error__message">
+      {{ error.message }}
+    </p>
   </div>
 </template>
 

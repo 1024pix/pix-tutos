@@ -1,19 +1,34 @@
 <template>
   <section class="tuto">
-    <PixTypography tag="h1" scale="title-medium" class="tuto__title">{{
-      title
-    }}</PixTypography>
-    <PixTypography tag="p" scale="body-large" class="tuto__description">{{
-      description
-    }}</PixTypography>
+    <PixTypography
+      tag="h1"
+      scale="title-medium"
+      class="tuto__title"
+    >
+      {{ title }}
+    </PixTypography>
+    <PixTypography
+      tag="p"
+      scale="body-large"
+      class="tuto__description"
+    >
+      {{ description }}
+    </PixTypography>
 
-    <iframe class="tuto__video" :src="videoEmbedSrc" allowfullscreen />
+    <iframe
+      class="tuto__video"
+      :src="videoEmbedSrc"
+      allowfullscreen
+    />
 
     <ul
       v-if="videoDlHref || fichePdfHref || transcriptPdfHref"
       class="tuto__actions"
     >
-      <li v-if="videoDlHref" class="tuto-actions__item">
+      <li
+        v-if="videoDlHref"
+        class="tuto-actions__item"
+      >
         <PixButtonLink
           :href="videoDlHref"
           target="_blank"
@@ -22,7 +37,10 @@
           Télécharger la video
         </PixButtonLink>
       </li>
-      <li v-if="fichePdfHref" class="tuto-actions__item">
+      <li
+        v-if="fichePdfHref"
+        class="tuto-actions__item"
+      >
         <PixButtonLink
           :href="fichePdfHref"
           target="_blank"
@@ -31,7 +49,10 @@
           Télécharger la fiche
         </PixButtonLink>
       </li>
-      <li v-if="transcriptPdfHref" class="tuto-actions__item">
+      <li
+        v-if="transcriptPdfHref"
+        class="tuto-actions__item"
+      >
         <PixButtonLink
           :href="transcriptPdfHref"
           background-color="transparent-light"

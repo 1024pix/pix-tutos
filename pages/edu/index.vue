@@ -4,23 +4,41 @@
       <img
         src="~/assets/images/partners.png"
         alt="Financé par le Gouvernement de la République française, liberté égalité fraternité, le plan France Relance et l'Union européenne (NextGenerationEU)"
-      />
+      >
     </section>
 
-    <PixTypography tag="h1" scale="title-large" class="header__title"
-      >Tutoriels Réseau Canopé-Pix</PixTypography
+    <PixTypography
+      tag="h1"
+      scale="title-large"
+      class="header__title"
     >
+      Tutoriels Réseau Canopé-Pix
+    </PixTypography>
 
-    <PixTypography tag="p" scale="body-large" class="header__description">
+    <PixTypography
+      tag="p"
+      scale="body-large"
+      class="header__description"
+    >
       Améliorez vos compétences sur les thèmes abordés dans Pix+Édu à l'aide de
       tutoriels vidéo produits par le Réseau Canopé, en partenariat avec Pix.
     </PixTypography>
 
     <section>
-      <article v-for="(areaTutos, area) of tutosGroupedByArea" :key="area">
-        <PixTypography tag="h2" scale="title-small" class="area__title">
+      <article
+        v-for="(areaTutos, area) of tutosGroupedByArea"
+        :key="area"
+      >
+        <PixTypography
+          tag="h2"
+          scale="title-small"
+          class="area__title"
+        >
           <span class="area__number">{{ area }}</span>
-          <span v-if="areas[area]" class="area__name">{{ areas[area] }}</span>
+          <span
+            v-if="areas[area]"
+            class="area__name"
+          >{{ areas[area] }}</span>
         </PixTypography>
 
         <ul class="tutorial-list">

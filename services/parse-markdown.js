@@ -16,7 +16,7 @@ export default function parseMarkdownMetadata(markdown) {
   // Use reduce to accumulate the metadata as an object
   const metadata = metadataLines.reduce((acc, line) => {
     // Split the line into key-value pairs
-    const [key, ...value] = line.split(':').map((part, value) => part.trim());
+    const [key, ...value] = line.split(':').map((part) => part.trim());
     // If the line is not empty add the key-value pair to the metadata object
     if (key) acc[key] = value.join(':');
     return acc;
