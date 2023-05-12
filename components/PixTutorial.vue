@@ -64,7 +64,9 @@
       </li>
     </ul>
 
-    <nuxt-content :document="page" />
+    <ContentDoc :value="page">
+      <template #empty />
+    </ContentDoc>
   </section>
 </template>
 
