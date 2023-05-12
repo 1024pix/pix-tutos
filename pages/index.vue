@@ -1,6 +1,11 @@
 <template>
-  <PixTypography tag="h1" scale="title-large">
-    <nuxt-link to="edu">Tutos Pix+Édu</nuxt-link>
+  <PixTypography
+    tag="h1"
+    scale="title-large"
+  >
+    <nuxt-link to="edu">
+      Tutos Pix+Édu
+    </nuxt-link>
   </PixTypography>
 </template>
 

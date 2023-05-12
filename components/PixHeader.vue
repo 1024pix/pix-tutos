@@ -6,7 +6,7 @@
           src="~/assets/images/marianne-logo.svg"
           class="main-header__logo"
           alt=""
-        />
+        >
         <a
           class="main-header__link"
           href="https://pix.fr"
@@ -16,11 +16,14 @@
             src="~/assets/images/pix-logo.svg"
             class="main-header__logo"
             alt="Pix"
-          />
+          >
         </a>
       </div>
 
-      <div v-if="!hideActions" class="main-header__actions">
+      <div
+        v-if="!hideActions"
+        class="main-header__actions"
+      >
         <PixButtonLink
           href="https://app.pix.fr/connexion"
           background-color="transparent-light"

@@ -6,7 +6,7 @@ test.describe('content', () => {
     const pageToVisit = '/edu';
 
     // when
-    const response = await page.goto(pageToVisit);
+    await page.goto(pageToVisit);
 
     // then
     await expect
