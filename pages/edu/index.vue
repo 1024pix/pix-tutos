@@ -46,6 +46,8 @@ export default {
   components: { PixTypography },
   layout: 'edu',
   async setup() {
+    useHead({ title: 'Accueil' });
+
     const tutos = await queryContent('edu').sort('area').find();
 
     const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
@@ -59,11 +61,6 @@ export default {
     return {
       areas: getAreas(),
       tutosGroupedByArea,
-    };
-  },
-  head() {
-    return {
-      title: 'Accueil',
     };
   },
 };

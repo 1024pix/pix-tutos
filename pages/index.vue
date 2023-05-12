@@ -8,10 +8,8 @@
 import PixTypography from '../components/PixTypography.vue';
 export default {
   components: { PixTypography },
-  head() {
-    return {
-      title: 'Accueil',
-    };
+  setup() {
+    useHead({ title: 'Accueil' });
   },
 };
 </script>

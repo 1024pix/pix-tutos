@@ -26,20 +26,19 @@ export default {
         useError({ statusCode: 404, message: "Ce tuto n'existe pas." });
       });
 
-    return {
-      page,
-    };
-  },
-  head() {
-    return {
-      title: this.page.title,
+    useHead({
+      title: page.title,
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: this.page.description,
+          content: page.description,
         },
       ],
+    });
+
+    return {
+      page,
     };
   },
   computed: {
