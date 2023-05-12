@@ -16,7 +16,7 @@
     "postinstall": "nuxt prepare"
   },
   "engines": {
-    "node": "16",
+    "node": "18",
     "npm": "<10"
   },
   "dependencies": {
