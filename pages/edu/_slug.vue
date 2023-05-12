@@ -1,6 +1,7 @@
 <template>
   <article>
     <PixTutorial
+      :page="page"
       :title="page.title"
       :description="page.description"
       :video-embed-src="videoEmbedSrc"
