@@ -1,5 +1,16 @@
 # pix-tutos Changelog
 
+## v1.3.0 (12/05/2023)
+
+
+### :rocket: Amélioration
+- [#131](https://github.com/1024pix/pix-tutos/pull/131) [FEATURE] Permettre l'ajout de la retranscription écrite des vidéos des tutos (PIX-7395)
+- [#130](https://github.com/1024pix/pix-tutos/pull/130) [FEATURE] Ajouter les logos des partenaires au dessus du listing des tutos edu (PIX-7396)
+
+### :coffee: Autre
+- [#127](https://github.com/1024pix/pix-tutos/pull/127) [BUMP] Update dependency @nuxtjs/eslint-module to v4 - autoclosed
+- [#129](https://github.com/1024pix/pix-tutos/pull/129) [BUMP] Update Node.js to v20 (.circleci) - autoclosed
+
 ## v1.2.4 (28/02/2023)
 
 
