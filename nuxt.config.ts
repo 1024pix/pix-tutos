@@ -22,7 +22,7 @@ export default defineNuxtConfig({
         },
         isSeoIndexingEnabled() ? {} : { name: 'robots', content: 'noindex' },
       ],
-      script: [],
+      script: [{ src: '/scripts/start-matomo-event.js' }],
     },
   },
 
