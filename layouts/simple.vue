@@ -1,5 +1,8 @@
 <template>
-  <div id="app" class="app-viewport">
+  <div
+    id="app"
+    class="app-viewport"
+  >
     <nuxt />
   </div>
 </template>

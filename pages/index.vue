@@ -1,6 +1,11 @@
 <template>
-  <PixTypography tag="h1" scale="title-large">
-    <nuxt-link to="edu">Tutos Pix+Édu</nuxt-link>
+  <PixTypography
+    tag="h1"
+    scale="title-large"
+  >
+    <nuxt-link to="edu">
+      Tutos Pix+Édu
+    </nuxt-link>
   </PixTypography>
 </template>
 
@@ -8,10 +13,8 @@
 import PixTypography from '../components/PixTypography.vue';
 export default {
   components: { PixTypography },
-  head() {
-    return {
-      title: 'Accueil',
-    };
+  setup() {
+    useHead({ title: 'Accueil' });
   },
 };
 </script>

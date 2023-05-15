@@ -1,8 +1,14 @@
 <template>
-  <div id="app" class="app-viewport">
+  <div
+    id="app"
+    class="app-viewport"
+  >
     <PixHeader :hide-actions="shouldDisplayActions" />
-    <main role="main" class="main-container">
-      <nuxt />
+    <main
+      role="main"
+      class="main-container"
+    >
+      <slot />
     </main>
   </div>
 </template>
