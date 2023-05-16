@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v2.0.0 (16/05/2023)
+
+
+### :coffee: Autre
+- [#141](https://github.com/1024pix/pix-tutos/pull/141) chore: bump nuxt
+
 ## v1.3.0 (12/05/2023)
 
 
