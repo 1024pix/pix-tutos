@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@fontsource/open-sans": "^4.5.10",
-    "@fontsource/roboto": "^4.5.7"
+    "@fontsource/roboto": "^5.0.0"
   },
   "devDependencies": {
     "@nuxt/content": "^2.4.3",
