@@ -119,7 +119,7 @@ export default {
     width: 100%;
     max-height: 95vmin;
     aspect-ratio: 16/9;
-    margin: 2rem 0;
+    margin: 2rem 0 1rem;
   }
 
   &__actions {
@@ -128,7 +128,7 @@ export default {
     list-style-type: none;
     gap: 1rem;
     padding: 0;
-    margin: 0;
+    margin: 0 0 2rem;
   }
 }
 
