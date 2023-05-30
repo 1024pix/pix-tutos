@@ -1,0 +1,21 @@
+@import './typography';
+
+h1 {
+  @extend %pix-title-l;
+}
+
+h2 {
+  @extend %pix-title-m;
+}
+
+h3 {
+  @extend %pix-title-s;
+}
+
+h4 {
+  @extend %pix-title-xs;
+}
+
+p, li {
+  @extend %pix-body-m;
+}
