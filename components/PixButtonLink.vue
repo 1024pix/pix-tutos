@@ -31,7 +31,7 @@ export default {
 .pix-button {
   display: block;
   text-decoration: none;
-  font-family: $roboto;
+  font-family: $font-roboto;
   font-size: 0.875rem;
   font-weight: 500;
   line-height: 1.25rem;
