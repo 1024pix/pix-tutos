@@ -73,7 +73,7 @@ export default {
   async setup() {
     useHead({ title: 'Accueil' });
 
-    const tutos = await queryContent('edu').sort('area').find();
+    const tutos = await queryContent('edu').sort({ area: 1, title: 1 }).find();
 
     const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
       if (!acc[tuto.area]) {
