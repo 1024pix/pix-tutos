@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v2.0.1 (30/05/2023)
+
+
+### :bug: Correction
+- [#145](https://github.com/1024pix/pix-tutos/pull/145) [BUGFIX] Rétablir l'ordre des domaines (PIX-8149).
+
 ## v2.0.0 (16/05/2023)
 
 
