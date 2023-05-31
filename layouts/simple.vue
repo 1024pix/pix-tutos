@@ -3,7 +3,7 @@
     id="app"
     class="app-viewport"
   >
-    <nuxt />
+    <slot />
   </div>
 </template>
 

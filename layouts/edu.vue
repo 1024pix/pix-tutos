@@ -8,36 +8,13 @@
       role="main"
       class="main-container"
     >
-      <nuxt />
+      <slot />
     </main>
   </div>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      isConnected: undefined,
-    };
-  },
-
-  head: {
-    titleTemplate: '%s - Pix+Édu',
-  },
-
-  computed: {
-    // Hide actions while loading to avoid layout shift
-    shouldDisplayActions() {
-      return this.isConnected ?? true;
-    },
-  },
-
-  // The `mounted` lifecycle hook is called client side
-  // https://nuxtjs.org/docs/concepts/nuxt-lifecycle/#client
-  mounted() {
-    this.isConnected = location.search.startsWith('?c');
-  },
-};
+<script setup>
+  useHead({ titleTemplate: '%s - Pix+Édu' })
 </script>
 
 <style lang="scss">
