@@ -1,19 +1,11 @@
 <template>
   <section class="tuto">
-    <PixTypography
-      tag="h1"
-      scale="title-m"
-      class="tuto__title"
-    >
+    <h1 class="pix-title-m tuto__title">
       {{ title }}
-    </PixTypography>
-    <PixTypography
-      tag="p"
-      scale="body-l"
-      class="tuto__description"
-    >
+    </h1>
+    <p class="pix-body-l tuto__description">
       {{ description }}
-    </PixTypography>
+    </p>
 
     <iframe
       class="tuto__video"
