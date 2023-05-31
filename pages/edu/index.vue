@@ -9,7 +9,7 @@
 
     <PixTypography
       tag="h1"
-      scale="title-large"
+      scale="title-l"
       class="header__title"
     >
       Tutoriels Réseau Canopé-Pix
@@ -17,7 +17,7 @@
 
     <PixTypography
       tag="p"
-      scale="body-large"
+      scale="body-l"
       class="header__description"
     >
       Améliorez vos compétences sur les thèmes abordés dans Pix+Édu à l'aide de
@@ -31,7 +31,7 @@
       >
         <PixTypography
           tag="h2"
-          scale="title-small"
+          scale="title-s"
           class="area__title"
         >
           <span class="area__number">{{ area }}</span>
@@ -50,7 +50,7 @@
             <nuxt-link :to="tuto._path">
               <PixTypography
                 tag="h3"
-                scale="title-extra-small"
+                scale="title-xs"
                 class="tuto-block"
               >
                 {{ tuto.title }}

@@ -1,7 +1,7 @@
 <template>
   <component
     :is="tag"
-    :class="`pix-typography pix-typography--scale-${scale}`"
+    :class="`pix-typography pix-${scale}`"
   >
     <slot />
   </component>

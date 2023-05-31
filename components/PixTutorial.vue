@@ -2,14 +2,14 @@
   <section class="tuto">
     <PixTypography
       tag="h1"
-      scale="title-medium"
+      scale="title-m"
       class="tuto__title"
     >
       {{ title }}
     </PixTypography>
     <PixTypography
       tag="p"
-      scale="body-large"
+      scale="body-l"
       class="tuto__description"
     >
       {{ description }}

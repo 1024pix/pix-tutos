@@ -1,7 +1,7 @@
 <template>
   <PixTypography
     tag="h1"
-    scale="title-large"
+    scale="title-l"
   >
     <nuxt-link to="edu">
       Tutos Pix+Édu
