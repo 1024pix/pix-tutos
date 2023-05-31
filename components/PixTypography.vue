@@ -41,7 +41,7 @@ export default {
 }
 
 .pix-typography--scale-title-large {
-  font-family: $open-sans;
+  font-family: $font-open-sans;
   font-size: 2rem;
 
   @media (min-width: 768px) {
@@ -54,7 +54,7 @@ export default {
 }
 
 .pix-typography--scale-title-medium {
-  font-family: $open-sans;
+  font-family: $font-open-sans;
   font-size: 1.625rem;
   letter-spacing: -0.02em;
 
@@ -69,7 +69,7 @@ export default {
 }
 
 .pix-typography--scale-title-small {
-  font-family: $open-sans;
+  font-family: $font-open-sans;
   font-size: 1.375rem;
   letter-spacing: -0.02em;
 
@@ -83,14 +83,14 @@ export default {
 }
 
 .pix-typography--scale-title-extra-small {
-  font-family: $open-sans;
+  font-family: $font-open-sans;
   font-size: 1.25rem;
   letter-spacing: -0.02em;
 }
 
 // Bodys
 [class*='pix-typography--scale-body'] {
-  font-family: $roboto;
+  font-family: $font-roboto;
   line-height: 1.5;
 }
 

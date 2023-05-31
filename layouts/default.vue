@@ -39,7 +39,7 @@ export default {
 <style lang="scss">
 #app {
   min-height: 100vh;
-  font-family: $open-sans;
+  font-family: $font-roboto;
   background-color: $background-light;
 }
 
