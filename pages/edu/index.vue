@@ -50,6 +50,8 @@
 <script>
 import getAreas from '../../services/get-areas';
 
+definePageMeta({ layout: 'edu' })
+
 export default {
   layout: 'edu',
   async setup() {
