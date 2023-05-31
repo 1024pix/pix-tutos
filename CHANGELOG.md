@@ -1,5 +1,16 @@
 # pix-tutos Changelog
 
+## v2.0.2 (31/05/2023)
+
+
+### :building_construction: Tech
+- [#142](https://github.com/1024pix/pix-tutos/pull/142) [TECH] Corriger le .slugignore
+
+### :bug: Correction
+- [#148](https://github.com/1024pix/pix-tutos/pull/148) [BUGFIX] Utiliser les Design Tokens dans le rendu du transcript (PIX-8201)
+- [#147](https://github.com/1024pix/pix-tutos/pull/147) [BUGFIX] Resserrer le bouton de téléchargement et le bloc vidéo (PIX-8155)
+- [#146](https://github.com/1024pix/pix-tutos/pull/146) [BUGFIX] Supprimer le lien d'ancrage des transcripts (PIX-8156)
+
 ## v2.0.1 (30/05/2023)
 
 
