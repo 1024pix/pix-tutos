@@ -7,39 +7,27 @@
       >
     </section>
 
-    <PixTypography
-      tag="h1"
-      scale="title-large"
-      class="header__title"
-    >
+    <h1 class="header__title">
       Tutoriels Réseau Canopé-Pix
-    </PixTypography>
+    </h1>
 
-    <PixTypography
-      tag="p"
-      scale="body-large"
-      class="header__description"
-    >
+    <p class="pix-body-l header__description">
       Améliorez vos compétences sur les thèmes abordés dans Pix+Édu à l'aide de
       tutoriels vidéo produits par le Réseau Canopé, en partenariat avec Pix.
-    </PixTypography>
+    </p>
 
     <section>
       <article
         v-for="(areaTutos, area) of tutosGroupedByArea"
         :key="area"
       >
-        <PixTypography
-          tag="h2"
-          scale="title-small"
-          class="area__title"
-        >
+        <h2 class="pix-title-s area__title">
           <span class="area__number">{{ area }}</span>
           <span
             v-if="areas[area]"
             class="area__name"
           >{{ areas[area] }}</span>
-        </PixTypography>
+        </h2>
 
         <ul class="tutorial-list">
           <li
@@ -48,13 +36,9 @@
             class="tutorial-list__item"
           >
             <nuxt-link :to="tuto._path">
-              <PixTypography
-                tag="h3"
-                scale="title-extra-small"
-                class="tuto-block"
-              >
+              <h3 class="pix-title-xs tuto-block">
                 {{ tuto.title }}
-              </PixTypography>
+              </h3>
             </nuxt-link>
           </li>
         </ul>
@@ -64,11 +48,9 @@
 </template>
 
 <script>
-import PixTypography from '../../components/PixTypography.vue';
 import getAreas from '../../services/get-areas';
 
 export default {
-  components: { PixTypography },
   layout: 'edu',
   async setup() {
     useHead({ title: 'Accueil' });

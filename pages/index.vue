@@ -1,18 +1,13 @@
 <template>
-  <PixTypography
-    tag="h1"
-    scale="title-large"
-  >
+  <h1>
     <nuxt-link to="edu">
       Tutos Pix+Édu
     </nuxt-link>
-  </PixTypography>
+  </h1>
 </template>
 
 <script>
-import PixTypography from '../components/PixTypography.vue';
 export default {
-  components: { PixTypography },
   setup() {
     useHead({ title: 'Accueil' });
   },
