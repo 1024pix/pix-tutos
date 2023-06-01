@@ -6,10 +6,6 @@
   </h1>
 </template>
 
-<script>
-export default {
-  setup() {
-    useHead({ title: 'Accueil' });
-  },
-};
+<script setup>
+useHead({ title: 'Accueil' });
 </script>

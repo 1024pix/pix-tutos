@@ -13,14 +13,23 @@
 </template>
 
 <script>
+import { ref, computed } from 'vue';
 import customizeEmbedVideo from '~/services/customizing-embed-video';
 
+definePageMeta({ layout: 'edu' })
+
 export default {
-  layout: 'edu',
   async setup() {
+    const page = ref(null);
+
+    const videoEmbedSrc = computed(() => {
+        return customizeEmbedVideo(page.value.videoEmbedSrc);
+    });
+
+
     const slug = useRoute().params.slug || 'index';
 
-    const page = await queryContent(`/edu/${slug}`)
+    page.value = await queryContent(`/edu/${slug}`)
       .findOne()
       .catch((err) => {
         console.error(err);
@@ -28,24 +37,20 @@ export default {
       });
 
     useHead({
-      title: page.title,
+      title: page.value.title,
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: page.description,
+          content: page.value.description,
         },
       ],
     });
 
     return {
       page,
+      videoEmbedSrc,
     };
-  },
-  computed: {
-    videoEmbedSrc() {
-      return customizeEmbedVideo(this.page.videoEmbedSrc);
-    },
   },
 };
 </script>
