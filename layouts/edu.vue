@@ -3,7 +3,7 @@
     id="app"
     class="app-viewport"
   >
-    <PixHeader :hide-actions="shouldDisplayActions" />
+    <PixHeader :hide-actions="false" />
     <main
       role="main"
       class="main-container"
