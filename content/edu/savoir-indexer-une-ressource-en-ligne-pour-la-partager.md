@@ -5,6 +5,7 @@ description: "Une étape indispensable pour permettre à des collègues de trouv
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/3ad05af3-1ed3-4db7-8944-ff1286ed0d68
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/3ad05af3-1ed3-4db7-8944-ff1286ed0d68-1080-fragmented.mp4
 ---
+
 ## Script
 
 Ça y est, j’ai créé ma séance d'aquaponey sur mon blog. Mais, pour la partager avec d’autres enseignants, sur certaines plate-formes, on me demande de l’indexer. Ohoh… Comment faire ? 
@@ -71,7 +72,6 @@ Par une standardisation au niveau national, le référentiel d’indexation perm
 
 L’indexation est une étape indispensable pour faire connaitre votre travail. 
 Grâce à une bonne indexation pour pourrez partager vos ressources et les rendre visibles aux autres enseignants.
-
 
 ## Crédits
 
