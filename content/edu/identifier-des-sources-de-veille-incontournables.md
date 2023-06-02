@@ -7,6 +7,7 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 ---
 
 ## Script
+
 Réforme des programmes, nouvelles recherches en neurosciences, différenciation, inclusion... Il peut être déroutant et chronophage de chercher des informations sur tous ces sujets, pourtant essentiels. Et si l'information venait à vous ? Avec une bonne stratégie et des sources pertinentes, on peut rester informé sans y passer trop de temps. C'est ce que l'on appelle la veille informationnelle.
 
 Quelles sont les sources incontournables en éducation du point de vue 
@@ -25,8 +26,8 @@ En plus d’Éduscol, on peut consulter les sites académiques pour accéder à 
 
 Comme nous venons de le voir, une multitude de sources peut alimenter la veille en éducation. Alors, à vos souris !
 
-
 ## Crédits
+
 - **Scénario** : Corentine Gasquet, Fernando Worcel, Caroline Guédan
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
