@@ -35,7 +35,7 @@ Il est donc indispensable de se renseigner pour chaque domaine afin d'être sûr
 
 ## Crédits
 
-- **Scénario** : -
+- **Scénario** : Mélinée Chanard, Kimi Do, Rémy Massé, Nicolas Chevallier
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
