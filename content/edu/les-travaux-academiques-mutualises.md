@@ -28,7 +28,6 @@ Les travaux académiques mutualisés vous accompagnent pour développer vos usag
 et maîtriser les outils numériques.
 Face aux champs de connaissance à défricher, c’est en mettant en commun nos expériences que nous pourrons mieux les explorer.
 
-
 ## Crédits
 
 - **Scénario** : Baptiste Caron, Stéphanie Vassort
