@@ -7,6 +7,7 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 ---
 
 ## Script
+
 Être enseignant demande de mettre à jour régulièrement ses connaissances didactiques et d’enrichir sa pédagogie.  
 En plus des formations en présentiel, de nombreuses formations à distance sont aujourd’hui proposées par l’Éducation Nationale. 
  
