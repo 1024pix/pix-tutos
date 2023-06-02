@@ -53,6 +53,7 @@ Elle fait alors partie du domaine public et pourra être réutilisée librement 
 Les internautes pourront ainsi réutiliser vos productions, continuer à faire vivre vos œuvres et encourager la créativité en ligne.
 
 ## Crédits
+
 - **Scénario** :Christophe Gabbani, Crystel Junca-Alfonso
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
