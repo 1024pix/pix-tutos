@@ -5,6 +5,7 @@ description: Le modèle théorique SAMR est issu de la recherche. Il permet d'in
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/fb9ee01b-1d22-404d-8496-d14c0c698796
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/fb9ee01b-1d22-404d-8496-d14c0c698796-1080-fragmented.mp4
 ---
+
 ## Script
 
 Pour explorer la mer, il existe de nombreuses approches permettant d’atteindre différents buts. Pour explorer le numérique en classe, c’est la même chose. Selon les objectifs pédagogiques, l’enseignant doit questionner les outils et les pratiques numériques qu’il peut intégrer.
@@ -27,7 +28,6 @@ L’outil fait partie intégrante du processus d’exécution de la tâche et le
 Le dernier degré est celui de la redéfinition. Par exemple, c’est le cas où l’enseignant propose aux élèves de recueillir leurs contes dans un livre numérique. Les élèves peuvent enrichirent leur travail avec des images, des bruitages et des dialogues enregistrés. L'utilisation du numérique redéfinit alors le projet final. L’élève devient producteur de savoirs et de contenus, il met en œuvre des compétences créatives, collaboratives et de communication. Dans le cas de la redéfinition, l’impact pédagogique est très fort.
 Avec le numérique, on ne fait pas que substituer des usages : on les augmente, on les modifie, on les redéfinit ! De nombreux logiciels, sites et applications permettent d’enrichir les activités pédagogiques. Il incombe aux enseignants de questionner la pertinence de chacun d’eux : quels outils ? Pour quelles finalités ?
 Et le Modèle SAMR aide à garder le cap !
-
 
 ## Crédits
 
