@@ -50,7 +50,6 @@ C’est par sa mise en œuvre que l’École deviendra pleinement inclusive.
 
 L’École inclusive vise à accueillir la diversité des élèves dans leur hétérogénéité et au sein des classes. Elle ne concerne pas seulement les élèves en situation de handicap reconnus, mais plus précisément la prise en compte des besoins éducatifs de chacun.
 
-
 ## Crédits
 
 - **Scénario** : Christophe Gabbani, Sophie Augmard-Marcon, Solenn Monnier
