@@ -6,19 +6,72 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/3ad05af3-1ed3-4db7-894
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/3ad05af3-1ed3-4db7-8944-ff1286ed0d68-1080-fragmented.mp4
 ---
 ## Script
-Quand on est enseignant, il est indispensable de pratiquer une veille régulière pour enrichir ses cours et rester au courant des derniers programmes, recherches et tendances en éducation. Cela signifie mettre en place des stratégies pour rester informé sans y passer trop de temps. Pour cela, les réseaux sociaux peuvent être un outil précieux : ils permettent d'accéder à de multiples sources, tout en automatisant les remontées d’informations.
-Mais, comment se repérer parmi les réseaux sociaux ? Quelles sont les fonctionnalités à connaître ? Quelles sont les spécificités des principaux réseaux ?
 
-Pour mener une veille efficace, il est important de sélectionner des sources pertinentes. Quel que soit le réseau social, certains comptes sont essentiels. Citons en particulier : Éducation_gouv, Éduscol, ÉduNum, la DANE de son académie et Réseau Canopé. En fonction des contenus déjà consultés, le système de recommandation suggèrent d’autres comptes ou d’autres hashtags, permettant ainsi d’élargir ses sources. Mais attention à ne pas se laisser enfermer dans des bulles de filtres, au risque de se couper de la diversité des contenus. Gardons notre esprit critique ! Avant de s’abonner, il est recommandé d’évaluer la pertinence de la source à partir de différents critères. Le compte de l’émetteur est-il certifié selon les règles du réseau ? Depuis quand l'émetteur est-il inscrit ? Quelle est la régularité des publications ? Combien de personnes le suivent ? Qui sont ces personnes ? Quels sont les abonnements de l’émetteur ? Il faut ensuite se pencher plus en détail sur les contenus : la qualité des posts et les commentaires.
+Ça y est, j’ai créé ma séance d'aquaponey sur mon blog. Mais, pour la partager avec d’autres enseignants, sur certaines plate-formes, on me demande de l’indexer. Ohoh… Comment faire ? 
+ 
+Qu’est-ce que l’indexation ? 
+Quelle est son utilité ? 
+Sur quoi s’appuyer pour indexer ? 
+C’est ce que nous allons voir dans cette vidéo.
 
-Pour rester focalisé, on gagne à maîtriser certains outils, en particulier le fil d’actualité.  Sur les réseaux sociaux, le fil d’actualité est un aperçu des derniers sujets postés par les comptes et les pages que nous suivons. Le fil d’actualité nous suggère également des contenus en lien avec nos préférences et notre historique de navigation. Il est donc différent d’un utilisateur à l’autre. Attention, on y trouve aussi des contenus sponsorisés qu’il faut bien distinguer des autres. Les informations n'étant ni hiérarchisées ni vérifiées, il est d'autant plus important de bien sélectionner vos sources et de paramétrer le fil d’actualité en fonction de vos objectifs. 
+L'indexation consiste à marquer des documents ou des médias avec des informations permettant par la suite de retrouver facilement ces ressources quand on fait une recherche. 
+ 
+Il s’agit de réaliser une description synthétique de la ressource : c’est la notice descriptive, la “carte d’identité” du document. 
 
-Parmi les réseaux sociaux, Twitter est un outil très intéressant pour la veille. On y trouve tous les acteurs institutionnels de l’éducation, des chercheurs, des enseignants, des journalistes... On peut suivre l'information en temps réel, avec de nombreux articles de recherche et des cas d’usages pédagogiques. Pour chercher des comptes qui suivent un thème en particulier, on peut saisir des hashtags précis dans le moteur de recherche.  Si les résultats sont pertinents, on peut enregistrer sa recherche pour la retrouver et la consulter régulièrement. La fonctionnalité « Listes » est particulièrement intéressante pour regrouper des comptes selon des sujets donnés, par exemple « Inclusion et numérique ». Elle permet aussi de suivre une liste d’un autre compte.
+Cette description va venir alimenter des métadonnées, c’est à dire des données qui n'apparaissent pas dans la ressource mais qui sont vues par les moteurs de recherche.  
+ 
+En sciences de l’information, on parle alors d'indexation. Ce processus permet de réaliser un index des termes, comme à la fin d'un livre par exemple. 
+C’est l'index à la fin du livre qui va permettre au lecteur d’accéder directement aux termes et aux notions rencontrés au fil de sa lecture. 
 
+En informatique, c’est pareil. Une fois mise en ligne, votre ressource va se perdre parmi un nombre très important d’autres ressources. L’indexation va permettre alors de la retrouver.  
 
-Tout réseau social peut être utilisé pour la veille. Sur Youtube, une multitude de chaînes permettent de visionner des vidéos ou de les classer pour les regarder plus tard. On peut s'abonner à des comptes institutionnels, des laboratoires de recherche ou encore des « influenceurs ». Selon sa discipline, d’autres réseaux pourront être utiles. Par exemple, un enseignant en art plastique aura tendance à suivre des comptes Instagram. LinkedIn est un réseau professionnel sur lequel on retrouve entre autres des entreprises du numérique éducatif. D’autres réseaux sociaux, comme TikTok ou Snapchat, très utilisés par les élèves, sont intéressants à étudier pour comprendre les usages numériques des jeunes et mieux les sensibiliser à l’identité numérique,  aux données personnelles et à l’esprit critique. Enfin, des réseaux comme Facebook peuvent permettre d’échanger avec de nombreuses communautés d’enseignants autour de thèmes très variés.
+Concrètement, pour décrire une ressource, il faut remplir un formulaire avec les informations les plus claires et pertinentes possibles ; en levant toute ambiguïté. 
 
-Lorsqu’on en maîtrise les fonctionnalités, les réseaux sociaux révèlent ainsi toutes leurs potentialités en matière d'information, de diffusion, de veille et de recherche.
+Certaines informations sont déjà présentes par défaut quand on récupère la ressource, mais une bonne description doit aussi contenir :  
+- un titre fort sémantiquement 
+- le nom de l’auteur 
+- le nom du lieu 
+- un résumé
+- et des mots-clés bien pensés pour réaliser l’indexation de la ressource. 
+ 
+Il ne faut être ni trop vague ni trop précis dans le choix de ces mots-clés. 
+Par exemple, si ma ressource traite des baleines en mer du Nord, je vais l'indexer avec “baleine” et “mer du Nord” et non avec “mammifère marin” et “mer” qui sont des termes beaucoup trop larges. 
+ 
+On complète donc avec des mots-clés s’appuyant souvent sur une liste de sujets, ce peut être un thésaurus. 
+Cette liste est directement accessible depuis le formulaire de saisie. 
+Un thésaurus est un répertoire de mots-clés hiérarchisés entre eux.  
+ 
+A noter que le thésaurus MOTBIS produit par les documentalistes de Réseau Canopé fait référence pour indexer le sujet d’une ressource.  
+Par exemple, quand je recherche “bicyclette” dans MOTBIS, j’apprends que le mot “vélo” est le descripteur choisi au lieu de “bicyclette”. 
+Je renseigne donc le mot “vélo” lors de l’indexation. 
+ 
+Si l’on analyse cet organigramme autour du concept de vélo , on peut dire : 
+- que vélo a comme générique, comme père, le terme véhicule terrestre,
+- que vélo a un spécifique, un fils, qui est vélo électrique,
+- que vélo est employé à la place de bicyclette, 
+- et que vélo a des termes associés, des amis, qui sont industrie du cycle, piste cyclable. 
+
+On peut aussi choisir ses mots clés sans s’appuyer sur un référentiel. Dans ce cas, attention aux ambiguïtés.  
+Exemple : pour ma séance “Faire pousser un avocat” il y a le fruit “avocat”  ou le métier “d’avocat”... 
+Pour résoudre ce problème, un thésaurus lèvera ces ambiguïtés. 
+Dans certains cas, un automate peut aussi détecter la polysémie et renvoyer une question pour demander à l’utilisateur de préciser son mot-clé. 
+ 
+ 
+Il faut bien sûr aussi décrire le contexte scolaire de la ressource pédagogique numérique : 
+- A quel public s’adresse-t-on ? 
+- Quel niveau scolaire ? (cycle, classe) 
+- Quelle discipline ? 
+- Quel point du programme ? 
+- Dans quel cadre pédagogique ? 
+  
+Certaines banques de ressources pédagogiques en ligne utilisent à cet effet un référentiel d'indexation spécifique à l'éducation, nommé ScoLOMFR. 
+Il est utilisé au niveau national dans Édubase, Étincel, le GAR et préconisé auprès de la plupart des producteurs de ressources pédagogiques numérique.  
+
+Par une standardisation au niveau national, le référentiel d’indexation permet aux systèmes de communiquer entre eux.  
+
+L’indexation est une étape indispensable pour faire connaitre votre travail. 
+Grâce à une bonne indexation pour pourrez partager vos ressources et les rendre visibles aux autres enseignants.
+
 
 ## Crédits
 
