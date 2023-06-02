@@ -38,7 +38,6 @@ Il est à noter qu’un robot de télé présence ne dispense jamais de l'aide p
 S’il facilite l’inclusion de l’élève distant et donc son futur retour en classe, le système robotisé de télé présence peut avoir aussi un impact positif sur le comportement de certains élèves présents : ils se montrent, responsables, solidaires et plus attentifs.
 À l’école, travailler ensemble à distance et en interaction avec des systèmes robotisés de télé présence, c’est désormais possible !
 
-
 ## Crédits
 
 - **Scénario** : Sybille Paumier, Loïc Nataf, Véronique Raze, Marie-Alexandra Valorge
