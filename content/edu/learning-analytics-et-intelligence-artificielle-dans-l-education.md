@@ -6,6 +6,8 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/d66e9416-39ee-4d25-bac
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/d66e9416-39ee-4d25-bac8-80552dcc463b-1080-fragmented.mp4
 ---
 
+## Script
+
 Avec le développement du numérique éducatif, les traces laissées par les élèves génèrent une masse de données considérable. Les Learning analytics – ou analyses des traces d’apprentissage – permettent de collecter, d’analyser et de communiquer ces données.  
 On associe par ailleurs aux Learning analytics l’intelligence artificielle, que l’on peut définir comme un système autonome et adaptatif capable de comprendre, prévoir et prescrire les actions de l’élève grâce à l'analyse de grandes quantités de données. 
 Mais comment ces traces d’apprentissage sont-elles traitées ?  
