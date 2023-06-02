@@ -52,8 +52,6 @@ La licence « CC0 », généralisée sur le site Pixabay par exemple, stipule qu
 Elle fait alors partie du domaine public et pourra être réutilisée librement et sans même avoir à citer son créateur. Vous aussi, n’hésitez pas à partager les contenus numériques que vous créez avec les licences Creative Commons. 
 Les internautes pourront ainsi réutiliser vos productions, continuer à faire vivre vos œuvres et encourager la créativité en ligne.
 
-
-
 ## Crédits
 - **Scénario** :Christophe Gabbani, Crystel Junca-Alfonso
 - **Direction de publication** : Marie-Caroline Missir
