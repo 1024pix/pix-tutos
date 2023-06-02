@@ -43,7 +43,7 @@ De nombreux outils en ligne permettent donc d’accéder simplement à des trava
 
 ## Crédits
 
-- **Scénario** : -
+- **Scénario** : Fernando Worcel, Marie-Alexandra Valorge
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
