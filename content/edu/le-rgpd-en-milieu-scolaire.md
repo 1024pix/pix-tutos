@@ -5,6 +5,7 @@ description: 'Au programme de cette vidéo : une présentation du RGPD et le rô
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/80dcdd6b-5c58-4846-9943-1c0d8f6866b9
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/80dcdd6b-5c58-4846-9943-1c0d8f6866b9-1080-fragmented.mp4
 ---
+
 ## Script
 
 Pour un projet autour de la mobilité au collège, une classe voudrait créer un sondage en ligne.
@@ -37,7 +38,6 @@ Aujourd’hui, il peut décider lui-même d’autoriser ou d’interdire certain
 Revenons à la classe qui souhaite utiliser un outil en ligne pour un sondage dans le collège. L’enseignant doit donc se référer au chef d’établissement qui peut décider de déployer cet outil, à condition d’avoir documenté sa conformité dans le registre de traitement.
 Par exemple, en vérifiant qui collecte les données, pour combien de temps, pour quels usages.
 Ainsi, le RGPD concerne tous les personnels de l’établissement scolaire qui utilisent ou génèrent des données personnelles. C’est un travail d’équipe avant tout !
-
 
 ## Crédits
 
