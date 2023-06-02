@@ -1,5 +1,16 @@
 # pix-tutos Changelog
 
+## v2.1.0 (02/06/2023)
+
+
+### :building_construction: Tech
+- [#152](https://github.com/1024pix/pix-tutos/pull/152) [TECH] Utiliser les nouveautés de Nuxt3 et de Vue3 (PIX-8163).
+- [#151](https://github.com/1024pix/pix-tutos/pull/151) [TECH] Remplacer les usages de `PixTypography` par les classes css ou placeholders SCSS (PIX-8202).
+
+### :coffee: Autre
+- [#150](https://github.com/1024pix/pix-tutos/pull/150) [BUMP] Update all non-major dependencies (dossier racine)
+- [#149](https://github.com/1024pix/pix-tutos/pull/149) [BUMP] Lock file maintenance (dossier racine)
+
 ## v2.0.2 (31/05/2023)
 
 
