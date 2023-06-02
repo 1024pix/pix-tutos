@@ -5,6 +5,7 @@ description: Qu'elles soient administratives ou pédagogiques, les données à c
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4d2fd5f5-adca-4ccb-9208-a4796f68d038
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4d2fd5f5-adca-4ccb-9208-a4796f68d038-1080-fragmented.mp4
 ---
+
 ## Script
 
 Martin est directeur d’école primaire. Il a repéré un outil numérique de communication entre l’école et les familles qui lui semble vraiment intéressant. Mais il s’interroge sur son droit à utiliser cet outil.
