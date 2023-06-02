@@ -38,7 +38,7 @@ Action !
 
 ## Crédits
 
-- **Scénario** : -
+- **Scénario** : Mélinée Chanard, Rémy Massé, Jean-Noël Vogrig, Pierre-Olivier Pilon
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
