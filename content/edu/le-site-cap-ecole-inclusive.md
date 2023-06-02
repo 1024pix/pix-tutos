@@ -36,8 +36,6 @@ En fin d’année, Tristan souhaite réfléchir à son parcours Avenir. Accompag
 
 Évolutive, la plateforme s’enrichit continuellement de nouveaux contenus. Aux côtés d’autres acteurs de l’école inclusive, elle répond aux attentes et besoins de la communauté éducative et de tous les élèves, quelle que soit leur singularité. Alors, cap vers l'École inclusive !
 
-
-
 ## Crédits
 
 - **Scénario** : Sybille Paumier, Loïc Nataf, Sophie Augmard-Marcon, Julien Perrot
