@@ -38,7 +38,6 @@ Pour ne pas mettre en jeu la responsabilité de votre établissement, il faut é
 Le droit à l’image permet à l’élève d’être protégé en cas d’utilisation illicite de celle-ci.
 Le respecter, c’est s’assurer de pouvoir partager ces beaux souvenir de classe !
 
-
 ## Crédits
 
 - **Scénario** : Baptiste Caron, Jean-François Spelle
