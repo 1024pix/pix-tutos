@@ -20,8 +20,8 @@ La curation ne se limite donc pas à la sélection de contenus. Le veilleur appo
 La curation, tout comme la veille, peut également s’inscrire dans une démarche pédagogique avec sa classe. Par exemple, Pascal, professeur d’histoire-géographie, utilise la plateforme de curation Pearltrees accessible par le GAR. Au début de l’année, il a créé une équipe « Médias » autour du thème de la Maison des enfants d'Izieu. Grâce à un travail de veille et de recherche, les 50 élèves de l‘équipe agrègent et organisent leur contenu très facilement, que ce soient des images, des audios, des textes ou des vidéos… Chacun peut intervenir sur les contenus : les remettre en forme, les questionner et les commenter. En fin d’année, les élèves partagent ainsi près de 800 ressources sur le thème « Izieu ». Pascal peut également constituer des équipes avec chaque élève individuellement pour les aider dans la préparation du Grand oral.
 La veille informationnelle est donc une compétence clé pour les enseignants comme pour les élèves. Partager cette veille, c’est partager la connaissance, bénéficier de l’intelligence collective et se former tout au long de la vie.
 
-
 ## Crédits
+
 - **Scénario** : Mathias Perrette, Corentine Gasquet, Caroline Guédan
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
