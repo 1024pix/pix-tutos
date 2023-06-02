@@ -7,6 +7,7 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 ---
 
 ## Script
+
 Derrière son écran, on surfe d'un site à l’autre, on partage des photos avec ses amis, on échange sur des réseaux sociaux… Si le web est un formidable espace de communication, celle-ci n’est pas toujours bienveillante malheureusement.
 Qu’appelle-t-on cyberharcèlement ?
 Quelles formes prend-il ?
@@ -34,7 +35,6 @@ En cas de cyberviolences graves et incessantes, il faut signaler le problème au
 Les numéros 3020 et 3018 permettent d’accompagner les victimes de manière anonyme et la plateforme Pharos, mise en place en 2009, permet de signaler tous comportements illicites repérés en ligne.
 Enfin, si nous avons connaissance d’une personne harcelée en ligne, n’oublions pas qu’un signalement peut l’aider.
 Être à l’écoute et aller vers les personnes victimes de cyberharcèlement est une responsabilité qui incombe à chacun dans l'équipe éducative.
-
 
 ## Crédits
 
