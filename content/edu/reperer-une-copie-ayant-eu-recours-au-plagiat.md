@@ -61,7 +61,6 @@ Il existe différentes normes bibliographiques, selon les domaines d'études. En
 
 De quoi citer en toute tranquillité ! 
 
-
 ## Crédits
 
 - **Scénario** : Mélinée Chanard, Kimi Do, Rémy Massé, Sébastien Damien
