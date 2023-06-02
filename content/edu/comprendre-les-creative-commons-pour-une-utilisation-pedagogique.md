@@ -55,8 +55,7 @@ Les internautes pourront ainsi réutiliser vos productions, continuer à faire v
 
 
 ## Crédits
-
-- **Scénario** : -
+- **Scénario** :Christophe Gabbani, Crystel Junca-Alfonso
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
