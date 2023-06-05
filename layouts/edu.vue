@@ -29,4 +29,19 @@
   max-width: 980px;
   margin: 0 auto;
 }
+
+@media print {
+  #app {
+    background-color: $pix-neutral-0;
+  }
+
+  .main-container {
+    padding: 0;
+  }
+
+  // Nous mettons le !important pour éviter la surcharge du style par celui de la page qui est appliqué ensuite.
+  .main-header, .tuto__description, .tuto__video, .tuto__actions {
+    display: none !important;
+  }
+}
 </style>

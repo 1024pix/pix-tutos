@@ -19,3 +19,26 @@ h4 {
 p, li {
   @extend %pix-body-m;
 }
+
+// We cannot extend placeholders when using a media query.
+// We chose to copy typography styles manually.
+@media print {
+  h1 {
+    font-size: 1.375rem;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    line-height: 1.4;
+    letter-spacing: -0.02em;
+  }
+
+  p, li {
+    font-size: 0.75rem;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: justify;
+  }
+}
