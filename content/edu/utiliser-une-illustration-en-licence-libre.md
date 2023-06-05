@@ -10,13 +10,13 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 
 « Un bon croquis vaut mieux qu’un long discours. »
 En utilisant des images pour illustrer vos enseignements, vous pourrez étoffer votre propos et obtenir davantage d’attention de la part de vos élèves.
-Mais on ne peut pas faire tout ce qu’on veut avec les images que l’on trouve par exemple sur Internet ! 
+Mais on ne peut pas faire tout ce qu’on veut avec les images que l’on trouve par exemple sur Internet !
 Comme elles sont soumises au droit d'auteur et au code de la propriété intellectuelle, il peut être plus simple et rassurant de recourir aux illustrations en licence libre.
 Peut-on utiliser librement n'importe quelle illustration ?
 Qu’est-ce qu’une illustration en licence libre et pourquoi privilégier leur utilisation ?
 Comment chercher une illustration en licence libre sur internet ?
 C’est ce que nous allons voir dans cette vidéo.
-Toute image, et par extension, toute œuvre de l’esprit, est protégée par le droit d’auteur. 
+Toute image, et par extension, toute œuvre de l’esprit, est protégée par le droit d’auteur.
 Même si de nombreuses images sont accessibles en ligne, elles ne peuvent pas être utilisées à loisir ; leur auteur doit avoir donné son accord au préalable.
 Ce n’est pas parce qu’une photographie ne mentionne pas son auteur qu’elle est libre d’usage pour autant. Dans le code de la propriété intellectuelle, elle est protégée par le droit d’auteur même sans mention « droits réservés », « copyright » ou toute indication d’un dépôt quelconque.
 En droit français, la notion « libre de droits », tout comme le « copyright » n'existent pas.
@@ -39,7 +39,7 @@ Ils résument clairement les choix faits par l’auteur pour partager son œuvre
 Par exemple, la mention « BY » précise que l’auteur doit être indiqué en cas de reproduction de son illustration.
 Les moteurs de recherche sur Internet, comme Google ou Qwant+, proposent une recherche d’images.
 Cherchons le mot-clé « classe ».
-Les options proposées permettent de filtrer par « droits d’usage », pour Google, ou par « toute licence », pour Qwant. 
+Les options proposées permettent de filtrer par « droits d’usage », pour Google, ou par « toute licence », pour Qwant.
 Grâce à ce filtre, on peut limiter les résultats obtenus à des images soumises aux licences Creative commons ou provenant du domaine public.
 Une petite vérification supplémentaire s’impose en cliquant sur l’image puis sur « Voir le site »
 Le site qui héberge l’image doit normalement mentionner toutes les informations qui seront nécessaires pour pouvoir réutiliser et partager cette illustration.
@@ -58,5 +58,6 @@ Si Internet regorge d’images détournées de leur cadre légal, on y trouve é
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

@@ -16,10 +16,10 @@ Comment fonctionne-t-il ?
 Quelles sont les bonnes pratiques à suivre ?
 C’est ce que nous allons voir dans cette vidéo.
 Un robot de télé présence ressemble souvent à une tablette sur roulettes. Il est équipé d’un système de visioconférence, d’un moteur et parfois de roues.
-Il permet à un élève distant d’être en immersion complète dans sa classe pour suivre les cours en direct et interagir. 
+Il permet à un élève distant d’être en immersion complète dans sa classe pour suivre les cours en direct et interagir.
 Cependant, il n’est pas possible de faire des enregistrements audios ou vidéo.
 Prenons un exemple.
-Lili, une élève de CM1 récemment hospitalisée, est en convalescence à son domicile pour deux mois  
+Lili, une élève de CM1 récemment hospitalisée, est en convalescence à son domicile pour deux mois
 Grâce au programme TED-i, porté par le ministère de l’Éducation nationale, elle bénéficie d’un robot de télé présence, le Buddy.
 Elle peut ainsi poursuivre sa scolarité malgré son éloignement.
 Depuis chez elle et à l'aide d'une tablette tactile    connectée à internet, elle peut contrôler le robot qui se trouve en classe. Cela lui permet de suivre le cours en direct, prendre la parole, poser des questions, être visible et se déplacer dans la salle pour présenter un exposé, par exemple.
@@ -31,7 +31,7 @@ Lors de la première séance, l'enseignante et Lili ont pu présenter le robot B
 Pendant la classe, Madame Vatel vérifie que Lili entend bien et que le robot est positionné pour qu'elle voit bien le tableau.
 Elle demande aux élèves référents de vérifier que la connexion wifi est active et que la batterie du robot est suffisamment chargée.
 Elle interroge Lili, la sollicite comme tous les autres élèves, lui demande de montrer son travail et la fait participer aux travaux de groupe et aux évaluations.
-Elle est à l’écoute de ses besoins particuliers comme son niveau de fatigue ou son agenda médical. 
+Elle est à l’écoute de ses besoins particuliers comme son niveau de fatigue ou son agenda médical.
 La famille de Lili et les personnels soignants sont aussi à son écoute et se tiennent à distance du système de télé présence sur les temps d’enseignement.
 L’enseignante peut également compter sur ses collègues et le référent numérique 1er degré pour échanger avec eux sur les bonnes pratiques à mettre en place au sein de l’établissement.  C’est un vrai travail d’équipe !
 Il est à noter qu’un robot de télé présence ne dispense jamais de l'aide présentielle apportée par les enseignants d'APADHE (l’Accompagnement pédagogique à domicile à l’hôpital et à l’école).
@@ -44,5 +44,6 @@ S’il facilite l’inclusion de l’élève distant et donc son futur retour en
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

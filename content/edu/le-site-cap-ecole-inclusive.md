@@ -12,18 +12,18 @@ Lorsqu'on accueille dans sa classe un élève à besoins éducatifs particuliers
 L’année scolaire commence, Mathieu est professeur d’histoire. Dans son cours il accueille Tristan, accompagné de Françoise, son AESH.
 Mathieu remarque que le passage à l’écrit est compliqué pour Tristan. Françoise quant à elle constate qu’il comprend difficilement un texte à cause d’un déchiffrage des mots trop lent.
 Spécialiste de l’inclusion scolaire, Françoise propose à Matthieu de consulter la plateforme Cap école inclusive qui pourrait les aider.
-Quels sont les différents espaces de cette plateforme ? 
-De quelle manière peut-on les utiliser ? 
-Comment permet-elle de répondre aux besoins des élèves ? 
+Quels sont les différents espaces de cette plateforme ?
+De quelle manière peut-on les utiliser ?
+Comment permet-elle de répondre aux besoins des élèves ?
 C’est ce que nous allons voir dans cette vidéo.
 
-La plateforme Cap école inclusive a été créée en 2019 dans le prolongement de la loi pour L’école de la confiance où priorité est donnée à l’école inclusive. 
+La plateforme Cap école inclusive a été créée en 2019 dans le prolongement de la loi pour L’école de la confiance où priorité est donnée à l’école inclusive.
 La volonté est de former et de soutenir les enseignants pour favoriser l’apprentissage pour tous.
-Plus de 70 personnes contribuent à la plateforme : enseignants, inspecteur, chercheurs, spécialistes du médico-social. 
+Plus de 70 personnes contribuent à la plateforme : enseignants, inspecteur, chercheurs, spécialistes du médico-social.
 Portée par Réseau Canopé et ouverte à tous, elle présente l’avantage d’une entrée par les besoins rencontrés et non par les troubles.
-Mathieu se rend sur la rubrique « Observer » de la plateforme. Il remplit une grille qui s’appuie sur les 5 domaines du Socle commun de connaissances, de compétences et de culture. 
+Mathieu se rend sur la rubrique « Observer » de la plateforme. Il remplit une grille qui s’appuie sur les 5 domaines du Socle commun de connaissances, de compétences et de culture.
 Il sélectionne l’axe d’observation « Production d’écrits » dans le domaine « Les langages pour penser et communiquer ». Il positionne le niveau de maîtrise de Tristan sur différentes compétences pour être au plus près de ses besoins.
-Une liste de fiches pédagogiques lui est proposée :  
+Une liste de fiches pédagogiques lui est proposée :
 des outils variés : alternatives visuelles, dictée vocale, enregistrement audio, outils pour compenser le geste ;
 des conseils : faciliter l’écriture manuscrite, accepter les réponses orales, limiter la prise de note...
 Françoise opère la même démarche   pour trouver des outils qui compensent les difficultés de lecture de Tristan.
@@ -42,5 +42,6 @@ En fin d’année, Tristan souhaite réfléchir à son parcours Avenir. Accompag
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

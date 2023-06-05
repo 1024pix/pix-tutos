@@ -11,7 +11,7 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 Vous souhaitez mettre en place une webtv au sein de votre établissement ?
 Vous aimeriez que vos élèves enregistrent des journaux et que les émissions soient ensuite diffusées sur Internet ?
 Pour agrémenter leurs productions, les élèves vont avoir besoin d’images, de sons voire de vidéo déjà existants.
-Pour accéder à des contenus librement utilisables, ils peuvent s'intéresser aux œuvres sous licence “Creative Commons”. 
+Pour accéder à des contenus librement utilisables, ils peuvent s'intéresser aux œuvres sous licence “Creative Commons”.
 Nés dans le sillon des mouvements open source et des logiciels libres, impulsés par Lawrence Lessig, professeur à Stanford,
 les licences Creative Commons proposent aux auteurs de partager librement leurs œuvres sur Internet en choisissant eux-mêmes de quelle manière celles-ci peuvent être utilisées : une libération du droit d'auteur comme alternative au copyright !
 Cette liberté ne s'oppose pas à la propriété intellectuelle, bien au contraire !
@@ -48,8 +48,8 @@ Rien ne les empêche de fabriquer ces tee-shirts pour l’équipe de la webtv, m
 La mention « NC » (Non-Commercial) peut être combinée avec les options « SA » ou « ND », ce qui la rend encore plus restrictive.
 Après une nouvelle vérification, les élèves se rendent compte que l’image utilisée pour leur logo étaient finalement sous licence CC-BY-NC-ND.
 Cette licence très restrictive les empêche, non seulement de vendre leurs tee-shirts, mais leur interdit également de modifier l’image qu’ils ont choisie, de l’utiliser partiellement et d’y ajouter des indications comme le terme « WEB TV ».
-La licence « CC0 », généralisée sur le site Pixabay par exemple, stipule que l’auteur a renoncé à tous ses droits sur son œuvre. 
-Elle fait alors partie du domaine public et pourra être réutilisée librement et sans même avoir à citer son créateur. Vous aussi, n’hésitez pas à partager les contenus numériques que vous créez avec les licences Creative Commons. 
+La licence « CC0 », généralisée sur le site Pixabay par exemple, stipule que l’auteur a renoncé à tous ses droits sur son œuvre.
+Elle fait alors partie du domaine public et pourra être réutilisée librement et sans même avoir à citer son créateur. Vous aussi, n’hésitez pas à partager les contenus numériques que vous créez avec les licences Creative Commons.
 Les internautes pourront ainsi réutiliser vos productions, continuer à faire vivre vos œuvres et encourager la créativité en ligne.
 
 ## Crédits
@@ -58,5 +58,6 @@ Les internautes pourront ainsi réutiliser vos productions, continuer à faire v
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

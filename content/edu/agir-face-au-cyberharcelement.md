@@ -101,5 +101,6 @@ responsabilité qui incombe à chacun dans l'équipe éducative.
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

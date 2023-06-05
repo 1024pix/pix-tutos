@@ -17,8 +17,8 @@ Le cahier de texte numérique peut être intégré au sein de l'ENT ou pris en c
 Il permet d’avoir un suivi régulier et précis du travail en classe et à la maison, et, surtout,
 il peut être consulté à tout moment, y compris à distance, par l’élève, la famille et l’équipe pédagogique. C’est utile, par exemple, pour un élève absent qui souhaite rattraper un cours ou pour un parent qui a besoin d’une information afin de suivre le travail de son enfant.
 Le cahier de texte numérique est également un outil de planification pour les professeurs.
-Il leur permet de visualiser le travail donné et de mieux le répartir pour éviter une accumulation d’évaluations ou de devoirs. Il est ainsi plus facile pour l’élève d’organiser son temps par rapport à la charge de travail attendu. 
-Remplir le cahier de texte numérique est une obligation statutaire de l’enseignant. Il est contrôlé annuellement par le chef d’établissement et il peut être consulté au cours d’une inspection. 
+Il leur permet de visualiser le travail donné et de mieux le répartir pour éviter une accumulation d’évaluations ou de devoirs. Il est ainsi plus facile pour l’élève d’organiser son temps par rapport à la charge de travail attendu.
+Remplir le cahier de texte numérique est une obligation statutaire de l’enseignant. Il est contrôlé annuellement par le chef d’établissement et il peut être consulté au cours d’une inspection.
 Il doit être complété scrupuleusement et régulièrement, si possible à la fin de la séance ou de la journée, afin que les informations soient disponibles pour les élèves et leurs familles.
 L’enseignant y détaille le travail effectué pendant la séance. Dans un souci de clarté, il évite les abréviations et donne des références précises.
 Le cahier de texte numérique doit également contenir, s’il y en a, le travail à faire pour la séance suivante ainsi que le matériel spécifique, si nécessaire. Préciser la nature de la tâche ainsi que la durée de travail estimée est fortement recommandé.
@@ -32,5 +32,6 @@ Le cahier de texte numérique est un outil riche en fonctionnalités. Il peut co
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

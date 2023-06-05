@@ -18,12 +18,12 @@ Toutes les semaines, il propose des articles, des scénarios pédagogiques et de
 Dans une démarche collaborative, il a vocation à mutualiser les productions et actions de terrain.
 Prim à bord rassemble les actualités, les sites et services numériques existant à l’échelle nationale et académique.
 En quelques clics, l’enseignant accède à une sélection de contenus pour mener des activités utilisant du numérique dans sa classe.
-Pas besoin de s’authentifier ni de souscrire à un abonnement pour consulter les ressources. 
+Pas besoin de s’authentifier ni de souscrire à un abonnement pour consulter les ressources.
 Prim à bord est gratuit et en accès libre.
 Les ressources proviennent soit de différents ministères ou partenaires institutionnels soit de publications académiques.
 En effet, parmi les ressources publiées en académies, certaines sont sélectionnées par le comité éditorial de Prim à bord et sont valorisées directement sur le portail.
 Dans chaque académie, un référent peut aussi publier directement sur Prim à bord les articles de son choix.
-Prim à bord, c’est plusieurs centaines d’articles accessibles via un système de filtres. 
+Prim à bord, c’est plusieurs centaines d’articles accessibles via un système de filtres.
 Comment s’y retrouver ?
 Les ressources sont réparties en six grandes catégories…
 Prenons un exemple. Axel souhaite monter un projet de groupe sur le thème de la ville en utilisant des outils numériques. Il cherche des exemples sur Prim à bord.
@@ -38,7 +38,7 @@ Axel décide de s’inscrire pour participer avec sa classe à cette « aventure
 En fin d’année scolaire, Axel souhaite à son tour partager son expérience. Il propose son travail au comité éditorial de Prim à bord en renseignant le formulaire mis à disposition.
 Si sa ressource est retenue, elle sera valorisée sur le portail et le compte Twitter associé.
 Prim à bord est un point d’entrée unique pour le numérique éducatif du premier degré.
-Il propose à la fois des outils, des services, des ressources... 
+Il propose à la fois des outils, des services, des ressources...
 Embarquez le numérique avec Prim à bord !
 
 ## Crédits
@@ -47,5 +47,6 @@ Embarquez le numérique avec Prim à bord !
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse
