@@ -1,12 +1,5 @@
 <template>
   <div>
-    <section class="header__partners">
-      <img
-        src="~/assets/images/partners.png"
-        alt="Financé par le Gouvernement de la République française, liberté égalité fraternité, le plan France Relance et l'Union européenne (NextGenerationEU)"
-      >
-    </section>
-
     <h1 class="header__title">
       Tutoriels Réseau Canopé-Pix
     </h1>
@@ -87,20 +80,6 @@ ul {
 }
 
 .header {
-  &__partners {
-    margin-bottom: 48px;
-    padding: 32px 0;
-    border-top: 1px solid $pix-neutral-20;
-    border-bottom: 1px solid $pix-neutral-20;
-
-    img {
-      display: block;
-      width: 450px;
-      max-width: 100%;
-      margin: 0 auto;
-    }
-  }
-
   &__title {
     margin-bottom: 8px;
   }
