@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v2.1.1 (05/06/2023)
+
+
+### :coffee: Autre
+- [#153](https://github.com/1024pix/pix-tutos/pull/153) Ajout scripts 41 tutos Canopé
+
 ## v2.1.0 (02/06/2023)
 
 
