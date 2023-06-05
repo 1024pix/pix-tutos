@@ -19,6 +19,7 @@ Dans nos activités en ligne ou hors ligne, nous générons des données à cara
 Pour protéger le droit des personnes et leur vie privée, l’Europe a instauré le Règlement général sur la protection des données : le RGPD
 Adoptées en 2016 par le Parlement Européen, ses dispositions s’appliquent dans l’ensemble des pays de l’Union.
 Le RGPD garantit à chacun de pouvoir :
+
 - s’opposer à la collecte de ses données ;
 - vérifier et rectifier les données qu’un organisme possède sur lui ;
 - dissocier son identité d’un contenu visible dans un moteur de recherche ;

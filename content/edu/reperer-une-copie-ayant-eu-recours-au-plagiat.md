@@ -23,11 +23,12 @@ Toute création de l’esprit est soumise au droit d’auteur. Ce droit donne à
 Il y a plagiat dès lors qu’une personne présente un travail comme étant le sien alors qu’il provient d’une ou de plusieurs sources.
 
 Il existe différentes situations de plagiat :
--        Copier-coller un texte écrit par une autre personne
--        Agencer différents textes écrits par d’autres
--        Reformuler un paragraphe d’un texte existant
--        Traduire un texte écrit dans une autre langue
--        Rétribuer quelqu’un pour écrire à sa place
+
+- Copier-coller un texte écrit par une autre personne
+- Agencer différents textes écrits par d’autres
+- Reformuler un paragraphe d’un texte existant
+- Traduire un texte écrit dans une autre langue
+- Rétribuer quelqu’un pour écrire à sa place
 
 Le plagiat peut concerner le texte, mais aussi les images et les représentations graphiques. Dans tous les cas, si les sources ne sont pas clairement citées, c’est un plagiat.
 ​​Il est cependant possible d’utiliser un extrait d’une œuvre, à condition de citer sa source et son auteur.  C’est le droit de courte citation. La longueur doit se limiter à ce qui est nécessaire à la compréhension et s’apprécie au cas par cas en cas de litige. Notons que le droit de citation ne permet jamais d'utiliser l’intégralité d’une œuvre.
@@ -51,11 +52,12 @@ Si le plagiat peut être un choix délibéré de l’élève, il peut aussi êtr
 Le professeur-documentaliste peut notamment être une personne ressource sur cette question.
 
 Car s’il est interdit de plagier, il est nécessaire de baser un travail de recherche sur des travaux existants pour le rendre crédible et pertinent. Il faut donc amener les élèves à citer leurs sources en respectant des règles incontournables :
--  Mettre entre guillemets les citations non modifiées et indiquer l’auteur et la source à la suite de l’extrait.
--  Introduire les paraphrases ou les reformulations par une formule indiquant l’auteur (selon Untel…)
--  Vérifier les droits liés aux images et représentations graphiques utilisés
--  Accompagner ces images du nom de l’auteur et de leur source.
--  Introduire une bibliographie en fin de document résumant les sources utilisées et référencées dans le texte.
+
+- Mettre entre guillemets les citations non modifiées et indiquer l’auteur et la source à la suite de l’extrait.
+- Introduire les paraphrases ou les reformulations par une formule indiquant l’auteur (selon Untel…)
+- Vérifier les droits liés aux images et représentations graphiques utilisés
+- Accompagner ces images du nom de l’auteur et de leur source.
+- Introduire une bibliographie en fin de document résumant les sources utilisées et référencées dans le texte.
 
 Il existe différentes normes bibliographiques, selon les domaines d'études. En complément des règles que vous donnerez pour votre discipline, le numérique peut être une aide précieuse :  le professeur-documentaliste en lycée peut par exemple initier les élèves aux logiciels de référencement documentaires, comme zotero ou Endnote, qui permettent d’organiser les sources et de les citer automatiquement dans un texte en respectant les normes bibliographiques de son choix.
 

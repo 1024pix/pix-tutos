@@ -32,7 +32,6 @@ ressources en utilisant un seul identifiant, _via_ leur ENT, tout en protégeant
 personnelles. Le responsable d’affectation GAR distribue par exemple les manuels
 numériques aux enseignants et aux élèves.
 
-
 Réseau Canopé, 2022 - CC BY-NC-ND 4.0 2
 
 Le délégué au numérique, de région ou d’académie, est chargé auprès de chaque recteur de

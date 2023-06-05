@@ -9,6 +9,7 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 ## Transcription
 
 Pour faire passer une idée, le moyen le plus pertinent est parfois l’illustration. Et utiliser des œuvres célèbres peut donner plus de perspectives encore à vos propos. Mais qui dit œuvre dit auteur, et donc droit d’auteur.
+
 - Comment le respecter en classe ?
 - Comment savoir si une œuvre est entrée dans le domaine public ?
 - Peut-on sinon utiliser l’exception pédagogique ? Complètement ? Partiellement ?
@@ -28,6 +29,7 @@ Cas n°2 : votre établissement n’a pas fait cette acquisition, vous entrez da
 
 Soit vous profitez d’une diffusion en direct ou en replay sur un service de communication audiovisuelle non payant, comme la TNT par exemple. Soit vous utilisez un support du film personnel ou emprunté en médiathèque, et vous devrez vous limiter à un ou plusieurs extraits d’une durée totale n’excédant pas 6 minutes.  De plus, cette durée ne doit pas excéder 10% de la durée totale du film pour un extrait unique, ou 15% pour plusieurs extraits.
 Tous les accords régissant l’exception pédagogique sont répartis en trois domaines :
+
 - les œuvres cinématographiques et audiovisuelles, dont nous venons de voir les spécificités
 - les œuvres musicales
 - et les livres, la presse, les images et la musique imprimée.

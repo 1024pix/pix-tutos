@@ -18,6 +18,7 @@ Le cyberharcèlement est un acte agressif, intentionnel, perpétré en ligne par
 Le cyberharcèlement prend différentes formes et entraîne des conséquences dramatiques pour les victimes.
 À partir du moment où une personne ou un groupe de personne utilisent les outils numériques en ligne pour proférer insultes, intimidations, moqueries, rumeurs ou menaces, à l’encontre d’un individu, cette personne ou ce groupe de personne est auteur de cyberviolence. Dès que ces actes intentionnels deviennent répétés, on parle alors de cyberharcèlement.
 Ces propos inappropriés peuvent être diffusés par des voies privées (messagerie, compte privé) ou par des posts publics via les réseaux sociaux, les jeux en ligne, les tchats, les forums, etc. pour être diffusés au plus grand nombre.
+
 - Le piratage de comptes et l’usurpation d’identité digitale constituent l’une des formes de cyberharcèlement. Les faux comptes nuisent à la personne à partir du moment où des publications sont régulièrement envoyées à partir de ce compte.
 - Lorsque plusieurs personnes s’acharnent sur une autre, on parle de cyberharcèlement en meute ou encore de Happy slapping lorsqu’un individu est filmé en train d’être lynché et la vidéo postée sans son consentement.
 - La publication d’informations ou de révélations intimes, d’une photo ou d’une vidéo d’un individu dans une mauvaise posture sans son consentement est appelée outing.

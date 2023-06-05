@@ -14,6 +14,7 @@ Léonie est élève de 4e dans ce même collège. Suite à un déménagement, el
 Karim est l’un de ses professeurs. Il a remarqué qu’elle lisait de manière saccadée les consignes des exercices.
 Elle ne parvient pas ensuite à rester concentrée longtemps sur les activités proposées.
 Soucieux de la réussite de ses élèves, Karim va interroger l’équipe éducative pour chercher de l’aide dans son établissement et se documenter sur internet.
+
 - Où s'informer pour mieux comprendre les difficultés rencontrées par un élève ?
 - Comment trouver de l’aide et des outils adaptés, validés par la recherche et s’intégrant dans ses pratiques de classe ?
 C’est ce que nous allons voir dans cette vidéo.
