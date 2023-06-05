@@ -54,6 +54,15 @@
           Télécharger la retranscription
         </PixButtonLink>
       </li>
+      <li
+        class="tuto-actions__item"
+      >
+        <PixButton
+          :action="downloadTranscript"
+        >
+          Télécharger la retranscription
+        </PixButton>
+      </li>
     </ul>
 
     <ContentDoc :value="page">
@@ -97,6 +106,11 @@ export default {
       default: null,
     },
   },
+  methods: {
+    downloadTranscript() {
+      window.print();
+    },
+  }
 };
 </script>
 
