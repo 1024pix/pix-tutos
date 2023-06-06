@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/48dcc19b-31fb-45a8-acb
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/48dcc19b-31fb-45a8-acb0-4304d24eaf22-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Pour faire passer une idée, le moyen le plus pertinent est parfois l’illustration. Et utiliser des œuvres célèbres peut donner plus de perspectives encore à vos propos. Mais qui dit œuvre dit auteur, et donc droit d’auteur.
 - Comment le respecter en classe ?

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/f46785b1-9043-4770-8b5
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/f46785b1-9043-4770-8b51-761b54f84988-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Qu'il s’agisse de se former sur un nouveau logiciel, de s’initier à l’utilisation de l’ENT ou de
 lancer un projet de webradio au lycée, tout enseignant peut compter sur le soutien du

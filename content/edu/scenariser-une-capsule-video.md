@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/e4c4a8af-4f7d-42db-ac6
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/e4c4a8af-4f7d-42db-ac6e-cc1ab09714e5-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Lorsque l’on a une idée de capsule vidéo, on a envie de s'y mettre immédiatement, d'amorcer tout de suite le tournage !
 Mais pour un résultat à la hauteur de ses attentes et pour mettre son énergie et son temps au bon endroit, il est essentiel de passer par une phase préparatoire, la scénarisation. Elle permettra de gagner du temps au tournage et au montage.

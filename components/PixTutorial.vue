@@ -60,7 +60,7 @@
         <PixButton
           :action="downloadTranscript"
         >
-          Télécharger la retranscription
+          Télécharger la transcription
         </PixButton>
       </li>
     </ul>

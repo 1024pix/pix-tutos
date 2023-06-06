@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/b2b7cf75-69b2-40db-a35
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/b2b7cf75-69b2-40db-a35c-164457affaaa-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Lorsqu'on accueille dans sa classe un élève à besoins éducatifs particuliers, il existe des outils simples et des ressources validées par la recherche pour adapter son enseignement à tous.
 L’année scolaire commence, Mathieu est professeur d’histoire. Dans son cours il accueille Tristan, accompagné de Françoise, son AESH.

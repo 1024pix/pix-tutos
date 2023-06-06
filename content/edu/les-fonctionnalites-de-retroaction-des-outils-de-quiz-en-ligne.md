@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/bf1c9c80-1d0a-4f99-9de
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/bf1c9c80-1d0a-4f99-9de5-dc488ef9e24f-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 En classe, l’enseignant échange de vive voix avec chaque élève sur ses productions. Avec les commentaires notés sur les copies, c’est la manière la plus commune de faire ce que l’on appelle « une rétroaction ».
 Plus une rétroaction est individualisée et détaillée, plus elle a de chances d’être efficace.

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/09090670-0b40-478d-86b
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/09090670-0b40-478d-86b7-383451e602e8-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Beaucoup d’informations passent aujourd’hui par votre messagerie académique, c’est
 pourquoi il est nécessaire de la consulter régulièrement.

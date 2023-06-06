@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/b2d55662-aae2-41f3-8fa
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/b2d55662-aae2-41f3-8fa0-2b0e6ad4de87-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 RUPN, responsable d’affectation GAR, DANE ou DRANE, IAN... Ils sont nombreux à
 contribuer au développement du numérique éducatif. C’est parfois difficile de s’y retrouver.

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/8e1c457b-4bc8-44b2-b6e
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/8e1c457b-4bc8-44b2-b6e6-cbac4f611442-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Elle, c’est Sarah. Elle est eRUN dans le département des Bas-de-France. Un eRUN, c’est un enseignant référent aux usages du numérique. Quelles sont ses principales missions ? Avec qui travaille-t-il ? Pour le savoir, passons une journée avec Sarah.
 Sarah est professeure des écoles déchargée de classe à temps plein pour des missions d’accompagnement liées au numérique. D’autres eRUN sont à mi-temps. Elle est rattachée à une circonscription et elle dépend hiérarchiquement de son IEN.

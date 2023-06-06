@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/2e8aadf8-45d5-4b1b-b8f
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/2e8aadf8-45d5-4b1b-b8f6-b232f8fb3792-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Quels que soient leur singularité ou leurs besoins éducatifs particuliers, tous les élèves ont droit à une scolarisation de qualité.
 Karim est enseignant de mathématiques en collège.

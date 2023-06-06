@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4c0e95cc-9e00-4193-af2
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4c0e95cc-9e00-4193-af2f-7f7f341eceee-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Axel, enseignant en CM1, souhaite développer le travail collaboratif avec ses élèves à l’aide du numérique. Où peut-il trouver des ressources sur lesquelles s’appuyer ?
 Ses collègues lui ont conseillé d’aller sur le portail Prim à bord…

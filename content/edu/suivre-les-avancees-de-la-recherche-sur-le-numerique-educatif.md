@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4b76c54c-4ea7-46f7-964
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4b76c54c-4ea7-46f7-9643-2617f7ba8eb1-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Quand on enseigne, on est amené à se questionner sur nos pratiques.
 La recherche en éducation est à même de nourrir ces réflexions et donner des clés pour améliorer notre enseignement.

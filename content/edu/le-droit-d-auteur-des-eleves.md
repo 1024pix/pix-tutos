@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/ef12284a-5da4-478f-83f
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/ef12284a-5da4-478f-83fa-51db88b9ce9d-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Au cours d’une année scolaire, les élèves peuvent être amenés à réaliser des productions originales comme des dessins, des poèmes, des vidéos.
 Afin de valoriser ces réalisations, vous décidez de les exposer dans l’enceinte de l’établissement scolaire et pourquoi pas de les diffuser sur votre blog ou sur vos réseaux sociaux.

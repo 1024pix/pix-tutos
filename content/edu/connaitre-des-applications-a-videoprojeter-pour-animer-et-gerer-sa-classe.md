@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/b83d2ab8-e18f-4156-9ed
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/b83d2ab8-e18f-4156-9eda-8a49f8a59de9-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 En classe, on peut avoir besoin d’outils divers pour, par exemple, chronométrer une activité, tirer au sort le nom d’un élève à interroger, déterminer des groupes de travail ou créer un nuage de mots. Il existe, parmi les ressources numériques en ligne, des outils permettant de disposer de multiples fonctionnalités dans un seul et même endroit.
 On appelle ce type d’outil « fond d’écran interactif » ou « tableau de bord modulable », et, parmi eux, certains ont été créés par des enseignants désireux de rendre leurs séquences plus claires et plus dynamiques pour les élèves. Ces logiciels sont d'ailleurs en constante évolution.

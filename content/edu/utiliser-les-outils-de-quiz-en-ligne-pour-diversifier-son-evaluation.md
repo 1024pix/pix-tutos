@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/3a19ecea-b46e-479b-9bc
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/3a19ecea-b46e-479b-9bcc-7268b744534e-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Pour accompagner et suivre l’évolution des élèves dans leurs apprentissages, un levier efficace est de leur poser les bonnes questions au bon moment.
 Des évaluations régulières et variées permettent de mesurer si les compétences et savoirs visés sont acquis et d’adapter son cours en conséquence. En accompagnant les élèves dans l’analyse de ce qu’ils ont acquis ou pas encore, on agit sur leur motivation à apprendre.

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/31ea90d9-6d86-49b1-b6e
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/31ea90d9-6d86-49b1-b6e1-4cc008000dbe-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Mail académique, messagerie ENT, cahier de textes en ligne, réseaux sociaux, blog, forum...
 on peut se sentir un peu perdu devant la multiplication des canaux de communication! Pour

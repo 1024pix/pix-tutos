@@ -4,11 +4,20 @@
     class="app-viewport"
   >
     <PixHeader :hide-actions="false" />
+
     <main
       role="main"
       class="main-container"
     >
       <slot />
+
+      <section class="partners">
+        <img
+          class=""
+          src="~/assets/images/partners.png"
+          alt="Financé par le Gouvernement de la République française, liberté égalité fraternité, le plan France Relance et l'Union européenne (NextGenerationEU)"
+        >
+      </section>
     </main>
   </div>
 </template>
@@ -28,6 +37,20 @@
   padding: 4rem 1rem;
   max-width: 980px;
   margin: 0 auto;
+}
+
+.partners {
+  margin-top: 48px;
+  padding: 32px 0;
+  border-top: 1px solid $pix-neutral-20;
+  border-bottom: 1px solid $pix-neutral-20;
+
+  img {
+    display: block;
+    width: 450px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
 }
 
 @media print {

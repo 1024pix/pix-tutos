@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/68d966e7-76f4-4ff2-854
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/68d966e7-76f4-4ff2-8544-ab9a86c1b815-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Avec ses élèves, on ressent parfois le besoin de varier ses méthodes et ses supports pour transmettre des savoirs et des savoir-faire.
 La vidéo peut être un support qui va susciter l'intérêt des élèves et les échanges, à utiliser en cours ou hors de la classe.

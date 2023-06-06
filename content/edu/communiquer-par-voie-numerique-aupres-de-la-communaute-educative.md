@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/ef3f3ced-c2ee-41c0-91c
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/ef3f3ced-c2ee-41c0-91c7-1b7ad83f0de5-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Messagerie de l’ENT, de Pronote, cahier de texte, webmail de l’académie, réseaux sociaux...
 Qu'il s'adresse à l'administration, à l'académie, à ses collègues, ses élèves ou même aux

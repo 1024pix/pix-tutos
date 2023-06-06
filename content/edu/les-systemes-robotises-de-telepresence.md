@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4954a3c4-804d-4346-90b
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4954a3c4-804d-4346-90b0-024a18d07674-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Il arrive qu’un élève ne puisse pas assister à certains cours sur une longue période pour raison de santé.
 Comment assurer dès lors la continuité des apprentissages ?

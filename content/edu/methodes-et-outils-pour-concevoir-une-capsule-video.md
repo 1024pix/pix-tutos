@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/cb5b4cc7-63df-4cfc-9b8
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/cb5b4cc7-63df-4cfc-9b81-3dd8c92e2e90-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Parmi la myriade de supports pédagogiques qu’il est possible de concevoir, le format vidéo peut être un formidable outil pour enrichir son cours : pour montrer des choses qui ne sont pas visibles en classe autrement et parce qu'une capsule vidéo peut être revue autant de fois que nécessaire.
 La vidéo offre une grande liberté de création et un vaste champ des possibles.

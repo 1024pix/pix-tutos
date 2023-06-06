@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/d797ea7c-77f3-45fc-b47
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/d797ea7c-77f3-45fc-b47a-823cb63745b9-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Jusqu’en 2010, la version papier du cahier de texte de la classe était omniprésente dans la vie des élèves. Tour à tour et en binôme, ils le faisaient passer aux enseignants pour que ceux-ci y renseignent le déroulement de leurs cours.
 Depuis, dans le second degré, il a été remplacé par le cahier de texte numérique, un outil vite devenu incontournable pour les élèves et pour les enseignants !

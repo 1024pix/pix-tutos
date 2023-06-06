@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/11823461-ed6a-4607-8b7
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/11823461-ed6a-4607-8b7a-e39ba906c481-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Pour choisir un usage approprié du numérique en fonction de l’enjeu pédagogique, on peut s'appuyer sur le modèle SAMR, présenté dans une précédente vidéo.
 En complément, il existe un autre modèle pour réfléchir à l'intégration du numérique dans ses cours : le modèle TPaCK.

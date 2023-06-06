@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/992760ea-c778-4f45-b7f
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/992760ea-c778-4f45-b7fe-ff427c2c49db-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Un smartphone ou une tablette permettent de filmer facilement en vue de créer une capsule vidéo... Mais pour un résultat à la hauteur de ses attentes, l’étape du montage est souvent incontournable !
 Le montage va donner corps à ce que vous avez filmé :  choix et agencement des plans, ajout de commentaires audio, d'éléments graphiques, de musique... Autant d’actions qui multiplient le nombre de possibilités de réaliser la capsule qui correspond le mieux à vos besoins !

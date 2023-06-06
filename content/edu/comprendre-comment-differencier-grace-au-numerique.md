@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/9520b54d-0a3c-43dc-882
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/9520b54d-0a3c-43dc-8821-d559fa418cc6-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Pour Camille, professeur(e) des écoles, une classe idéale, c’est :
 – un objectif d’apprentissage commun ;
