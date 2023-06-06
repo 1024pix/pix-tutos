@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v2.2.1 (06/06/2023)
+
+
+### :building_construction: Tech
+- [#155](https://github.com/1024pix/pix-tutos/pull/155) [TECH] Linter les fichiers markdown
+
 ## v2.2.0 (06/06/2023)
 
 
