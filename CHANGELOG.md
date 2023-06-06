@@ -1,5 +1,12 @@
 # pix-tutos Changelog
 
+## v2.2.0 (06/06/2023)
+
+
+### :rocket: Amélioration
+- [#156](https://github.com/1024pix/pix-tutos/pull/156) [FEATURE] Ajoute les logos de partenaires en fin des pages Edu + renommer 'script'/'transcript' en 'transcription' (PIX-8256)
+- [#154](https://github.com/1024pix/pix-tutos/pull/154) [FEATURE] Ajouter un bouton de téléchargement du transcript (PIX-8151).
+
 ## v2.1.1 (05/06/2023)
 
 
