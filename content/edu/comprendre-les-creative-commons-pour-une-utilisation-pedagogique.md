@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/17d63f12-2a68-4110-894
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/17d63f12-2a68-4110-8943-dba74582befd-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Vous souhaitez mettre en place une webtv au sein de votre établissement ?
 Vous aimeriez que vos élèves enregistrent des journaux et que les émissions soient ensuite diffusées sur Internet ?

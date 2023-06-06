@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/a948661e-2ee2-4250-9ee
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/a948661e-2ee2-4250-9ee9-04dfde2d8753-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Avez-vous déjà entendu parler de TNI ou de TBI ?
 Ces deux appellations désignent en fait la même chose : un dispositif de vidéoprojection interactif.

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4d5da479-0fe2-4e63-bef
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4d5da479-0fe2-4e63-befd-ad3082fed30f-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Un écran qui ne s'allume pas ?
 Une piste audio muette ?

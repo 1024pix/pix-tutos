@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/e2cc7464-70ab-4f8c-a06
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/e2cc7464-70ab-4f8c-a069-5112c2896477-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Le numérique offre de nouveaux chemins pédagogiques. Mais ces voies doivent être explorées avant d’être praticables ! C’est pour cette raison qu’ont été créés les Travaux académiques mutualisés ou TraAM.
 – Quelles sont les missions des TraAM ?

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/2fc37e8d-860d-4789-a09
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/2fc37e8d-860d-4789-a092-e6ca3b113943-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Comment savoir si les élèves ont bien compris une notion ? Le moyen le plus simple est de leur poser des questions !
 

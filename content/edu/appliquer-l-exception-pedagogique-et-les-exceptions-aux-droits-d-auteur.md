@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4512d4a2-2f3f-42e0-895
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4512d4a2-2f3f-42e0-8958-8e6ffbb6561e-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Appliquer l'exception pédagogique et les exceptions aux droits d'auteur
 

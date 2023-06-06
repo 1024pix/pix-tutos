@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/17831907-e7cb-439a-a5c
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/17831907-e7cb-439a-a5c8-2e0453c878e3-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Derrière son écran, on surfe d'un site à l’autre, on partage des photos avec ses amis, on
 échange sur des réseaux sociaux... Si le web est un formidable espace de communication,

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/ef2ca374-d224-4440-960
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/ef2ca374-d224-4440-960c-69d335973a52-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Derrière son écran, on surfe d'un site à l’autre, on partage des photos avec ses amis, on échange sur des réseaux sociaux… Si le web est un formidable espace de communication, celle-ci n’est pas toujours bienveillante malheureusement.
 Qu’appelle-t-on cyberharcèlement ?

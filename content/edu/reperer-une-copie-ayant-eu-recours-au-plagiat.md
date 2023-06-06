@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4d4ee6cd-cc4d-4253-926
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4d4ee6cd-cc4d-4253-9269-979a89835099-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Lors de la correction de copies, il arrive de découvrir la réponse parfaite à une question posée. Oui mais… et si cela ne venait pas vraiment de l’élève ? Si c’était du plagiat ?
 A l’ère du numérique, les travaux de recherche personnelle des élèves ont fortement changé.

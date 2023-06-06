@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/04158691-0e9e-40cd-b77
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/04158691-0e9e-40cd-b777-925e2f83c535-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Lorsqu’un élève utilise des outils en ligne – pour répondre à un quiz ou faire un travail collaboratif – il peut laisser des informations qui permettent de l’identifier. Même s’il utilise un pseudo !
 Et oui : les données à caractère personnel en milieu scolaire, ce n'est pas juste le nom et prénom. Et ça ne concerne pas que le numérique !

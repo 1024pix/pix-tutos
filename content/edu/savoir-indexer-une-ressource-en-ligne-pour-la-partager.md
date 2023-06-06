@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/3ad05af3-1ed3-4db7-894
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/3ad05af3-1ed3-4db7-8944-ff1286ed0d68-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Ça y est, j’ai créé ma séance d'aquaponey sur mon blog. Mais, pour la partager avec d’autres enseignants, sur certaines plate-formes, on me demande de l’indexer. Ohoh… Comment faire ?
 

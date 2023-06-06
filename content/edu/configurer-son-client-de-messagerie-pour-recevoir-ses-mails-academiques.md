@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/4009d7ec-c48a-4a13-819
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/4009d7ec-c48a-4a13-8198-7a083af3d61f-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Chaque enseignant a généralement plusieurs adresses mail : l’adresse académique et au
 moins une adresse personnelle.

@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/80dcdd6b-5c58-4846-994
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/80dcdd6b-5c58-4846-9943-1c0d8f6866b9-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Pour un projet autour de la mobilité au collège, une classe voudrait créer un sondage en ligne.
 Des informations sur les habitudes des élèves seront collectées.

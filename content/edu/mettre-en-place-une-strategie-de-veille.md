@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/c6d0bc8a-be09-4e15-a2f
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/c6d0bc8a-be09-4e15-a2f5-6aff8c3780ce-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Ressources pédagogiques, nouveaux programmes, référentiels de compétences...
 Un enseignant est amené à s’informer sur de nombreux sujets. Cette collecte d’informations, leur sélection et leur organisation s’appellent la veille pédagogique. Mais attention : si elle est incontournable, la veille peut aussi devenir chronophage.

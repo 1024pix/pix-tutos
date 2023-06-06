@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/71d601ca-6f19-4f7b-890
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/71d601ca-6f19-4f7b-8904-dc074e4bfb7f-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Emma est une jeune enseignante de CM2. Elle a à cœur de prendre en compte la diversité de ses élèves et de construire des situations d’enseignement et d’apprentissage accessibles à tous, 2 compétences de son référentiel professionnel.
 Quand ses élèves sont en activité, Emma les observe :  certains ont du mal à débuter ou effectuer les exercices proposés pour des raisons qui n'ont pas de lien direct avec l'activité, comme des problèmes de lecture. Elle souhaite comprendre plus en détails ce qui les bloque et comment les aider

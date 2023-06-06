@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/b456fcdb-64d5-425e-8ff
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/b456fcdb-64d5-425e-8ff2-c023e9cb9543-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Réforme des programmes, nouvelles recherches en neurosciences, différenciation, inclusion... Il peut être déroutant et chronophage de chercher des informations sur tous ces sujets, pourtant essentiels. Et si l'information venait à vous ? Avec une bonne stratégie et des sources pertinentes, on peut rester informé sans y passer trop de temps. C'est ce que l'on appelle la veille informationnelle.
 

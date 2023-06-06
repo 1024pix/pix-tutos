@@ -6,7 +6,7 @@ videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/1d82b613-ee83-4b08-895
 videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/1d82b613-ee83-4b08-895d-61a10aa8ecdb-1080-fragmented.mp4
 ---
 
-## Script
+## Transcription
 
 Depuis son entrée en école élémentaire, Léa apprend à se servir du numérique en classe.
 De gestes basiques pour utiliser l’écran tactile d’une tablette en primaire à la création graphique au lycée, Léa développe une multitude de compétences numériques pendant sa scolarité. Et cela se poursuivra dans sa vie personnelle et professionnelle.
