@@ -23,7 +23,7 @@ passe? Voici les explications pour faire vos premiers pas avec votre adresse aca
 Toutes les adresses mails académiques se présentent sous la forme prénom.nom@ac-
 académie.fr.
 
-Exemple pour Michel Dupond dans l’académie de Lille : michel.dupond@ac-lille.fr.
+Exemple pour Michel Dupond dans l’académie de Lille : <michel.dupond@ac-lille.fr>.
 
 En cas d’homonymie, de prénoms composés ou de noms d’usage différents, il peut exister
 des exceptions.
@@ -32,7 +32,7 @@ Si vous avez un doute sur votre adresse, n’hésitez pas à contacter la platef
 informatique de votre académie.
 
 L’adresse internet des webmails académiques est généralement sous le format :
-https://webmail.ac-(nom de l’académie).fr.
+<https://webmail.ac-(nom> de l’académie).fr.
 
 Pour trouver l’url de chaque académie, on peut passer par la page du site du Ministère ou
 effectuer une simple recherche sur Internet, « webmail académie de Lille » par exemple.
@@ -44,7 +44,6 @@ connecter.
 
 L’identifiant est en général composé de la manière suivante : première lettre du prénom
 suivie du nom. Exemple pour Michel Dupond : mdupond.
-
 
 Si plusieurs personnes correspondent à cet identifiant (Marie Dupond, Martin Dupond...), un
 chiffre est ajouté à la fin.

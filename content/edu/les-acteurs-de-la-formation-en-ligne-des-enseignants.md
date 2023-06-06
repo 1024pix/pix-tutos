@@ -26,6 +26,7 @@ Pour commencer, e-Inspé est la plateforme de formation destinée aux étudiants
 Elle propose des parcours complémentaires à l'offre de formation proposée par les INSPE : des parcours allant jusqu’à 5h de formation, conçus avec de nombreux partenaires.
 
 M@gistère est la plateforme dédiée à la formation à distance des enseignants. Elle propose plusieurs types de formation :
+
 - des parcours en autoformation d’une durée de 1 à 2h, comme ceux proposés par Réseau Canopé, ou plus longs, de 3 à 6h, proposés notamment par les académies ou par la Dgesco,
 - des parcours hybrides, incluant des temps synchrones en distanciel ou en présentiel, proposés en très grande partie par des équipes académiques dans le cadre des plans de plans de formations académiques ou départementaux.
 

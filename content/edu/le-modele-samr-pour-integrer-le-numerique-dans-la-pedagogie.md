@@ -10,6 +10,7 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 
 Pour explorer la mer, il existe de nombreuses approches permettant d’atteindre différents buts. Pour explorer le numérique en classe, c’est la même chose. Selon les objectifs pédagogiques, l’enseignant doit questionner les outils et les pratiques numériques qu’il peut intégrer.
 Le modèle SAMR peut aider les enseignants dans cette réflexion.
+
 - Mais qu’est-ce que le modèle SAMR ?
 - Comment questionne-t-il l’intégration du numérique dans la pédagogie ?
 C’est ce que nous allons voir dans cette vidéo.

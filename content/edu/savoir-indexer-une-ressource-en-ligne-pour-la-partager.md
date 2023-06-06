@@ -29,6 +29,7 @@ En informatique, c’est pareil. Une fois mise en ligne, votre ressource va se p
 Concrètement, pour décrire une ressource, il faut remplir un formulaire avec les informations les plus claires et pertinentes possibles ; en levant toute ambiguïté.
 
 Certaines informations sont déjà présentes par défaut quand on récupère la ressource, mais une bonne description doit aussi contenir :
+
 - un titre fort sémantiquement
 - le nom de l’auteur
 - le nom du lieu
@@ -47,6 +48,7 @@ Par exemple, quand je recherche “bicyclette” dans MOTBIS, j’apprends que l
 Je renseigne donc le mot “vélo” lors de l’indexation.
 
 Si l’on analyse cet organigramme autour du concept de vélo , on peut dire :
+
 - que vélo a comme générique, comme père, le terme véhicule terrestre,
 - que vélo a un spécifique, un fils, qui est vélo électrique,
 - que vélo est employé à la place de bicyclette,
@@ -57,8 +59,8 @@ Exemple : pour ma séance “Faire pousser un avocat” il y a le fruit “avoca
 Pour résoudre ce problème, un thésaurus lèvera ces ambiguïtés.
 Dans certains cas, un automate peut aussi détecter la polysémie et renvoyer une question pour demander à l’utilisateur de préciser son mot-clé.
 
-
 Il faut bien sûr aussi décrire le contexte scolaire de la ressource pédagogique numérique :
+
 - A quel public s’adresse-t-on ?
 - Quel niveau scolaire ? (cycle, classe)
 - Quelle discipline ?

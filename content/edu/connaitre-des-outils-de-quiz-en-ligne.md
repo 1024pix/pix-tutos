@@ -63,7 +63,6 @@ Certaines solutions sont intégralement gratuites, d’autres peuvent requérir 
 Certains logiciels sont libres, quand d’autres sont propriétaires.
 De nombreux outils sont en anglais, avec parfois quelques éléments d’interface non traduisibles en français.
 
-
 Et maintenant, à vous de jouer pour trouver les outils qui vous conviennent ! Les quiz en ligne offrent mille possibilités pour évaluer les élèves de manière engageante, créative et ludique.
 
 ## Crédits

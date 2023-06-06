@@ -34,7 +34,6 @@ numérique permet à l’enseignant de distribuer des devoirs et de renseigner l
 la séance. À noter que, dans le second degré, c’est une obligation légale de le remplir. Ces
 informations sont visibles par les parents et les élèves sous forme de planning.
 
-
 Intéressons-nous maintenant au blog. Intégré à l’ENT, le blog permet de publier
 régulièrement auprès d’une communauté, comme la classe ou l’établissement. C’est l’outil
 idéal pour tenir un journal de la classe, préparer un voyage scolaire et en faire un reportage,

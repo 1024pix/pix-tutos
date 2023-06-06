@@ -81,11 +81,10 @@ données personnelles. Il faut donc utiliser au maximum les possibilités offert
 ou les logiciels de vie scolaire. Si cela ne suffit pas, il est possible d’avoir recours aux outils
 autorisés par votre responsable de traitement et inscrits au registre des traitements de votre
 structure. Pour plus d'informations, tournez-vous vers le délégué à la protection des
-données académiques, dont l’adresse mail est par exemple dpd@ac-lyon.fr.
+données académiques, dont l’adresse mail est par exemple <dpd@ac-lyon.fr>.
 
 Dans la jungle des canaux de communication, vous êtes désormais prêts à trouver votre
 chemin et à choisir le bon outil selon vos interlocuteurs.
-
 
 ## Crédits
 

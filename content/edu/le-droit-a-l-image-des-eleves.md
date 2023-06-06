@@ -10,6 +10,7 @@ videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/vide
 
 Dans une année scolaire, les élèves vivent parfois des moments forts comme des voyages, des visites au musée ou des spectacles de fin d’année. Et c’est souvent l’enseignant qui a le rôle de photographe pour immortaliser ces instants !
 Mais se posent alors plusieurs questions :
+
 - Comment diffuser des photos d’élèves ?
 - Comment s’assurer de leur consentement ?
 - Que faire en cas de refus ?

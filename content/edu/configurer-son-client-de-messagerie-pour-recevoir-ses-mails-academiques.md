@@ -39,7 +39,6 @@ interlocuteurs, puis l’adresse mail académique, sous la forme prénom.nom@ac-
 
 Si vous ne l'avez pas encore modifié, le mot de passe est votre NUMEN.
 
-
 Ensuite, il existe deux configurations possibles pour les messages entrants : POP et IMAP. Et
 il est très important de bien comprendre la différence. Vous êtes prêts? Concentrez-vous
 bien!

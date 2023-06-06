@@ -18,6 +18,7 @@ C’est ce que nous allons voir dans cette vidéo.
 L’exception pédagogique permet aux enseignants de réutiliser des œuvres de l’esprit par extraits, ou dans certains cas dans leur intégralité, sans demander l’accord de l’auteur.
 l'exception pédagogique consiste essentiellement en trois accords, un pour chaque secteur culturel, accords conclus entre les ministères de l’Éducation nationale et de l’enseignement supérieur, France Universités et différentes sociétés de gestion collectives de droits d’auteur.
 Le premier accord sectoriel concerne :
+
 - Les livres, œuvres musicales éditées, publications périodiques et œuvres des arts visuels
 - Le deuxième : les œuvres cinématographiques et audiovisuelles
 - Et troisième :  l'interprétation vivante d'œuvres musicales, l'utilisation d'enregistrements sonores d'œuvres musicales et l'utilisation de vidéo-musiques.

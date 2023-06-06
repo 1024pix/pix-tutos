@@ -91,7 +91,6 @@ illicites repérés en ligne.
 Enfin, si nous avons connaissance d’une personne harcelée en ligne, n’oublions pas qu’un
 signalement peut l’aider.
 
-
 Être à l’écoute et aller vers les personnes victimes de cyberharcèlement est une
 responsabilité qui incombe à chacun dans l'équipe éducative.
 

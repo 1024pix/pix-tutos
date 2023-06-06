@@ -28,6 +28,7 @@ et dans le respect du droit des auteurs, que l'archive ouverte HAL a été cré�
 Hal est une plateforme qui offre donc un accès libre à une grande quantité d'articles et résumés de communications, régulièrement déposés par des organismes de recherche publiques ou privées qui œuvrent dans toutes les disciplines.
 
 D’autres sites Internet proposent le libre accès à des ressources scientifiques qui sont aussi plus spécifiquement situées dans le champ des sciences sociales :
+
 - **Isidore** est un moteur de recherche qui référence les documents numériques en sciences humaines et sociales en accès ouvert sur différentes autres plateformes.
 - **Persée** numérise, héberge et donne ainsi libre accès à de nombreux articles et ouvrages en sciences humaines et sociales.
 - Se positionnant comme “transition vers l’accès ouvert”, le portail **OpenEdition** permet aussi de consulter un certain nombre d’articles scientifiques en SHS dont l’accès est ouvert.
