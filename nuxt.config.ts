@@ -30,7 +30,11 @@ export default defineNuxtConfig({
     css: {
       preprocessorOptions: {
         scss: {
-          additionalData: '@use "@/assets/scss/_design-tokens.scss" as *;',
+          additionalData: `
+            @use "@/assets/scss/_design-tokens.scss" as *;
+            @import "@fontsource/roboto";
+            @import "@fontsource/open-sans";
+          `,
         },
       },
     },
