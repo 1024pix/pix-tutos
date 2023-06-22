@@ -9,6 +9,12 @@
       role="main"
       class="main-container"
     >
+      <img
+        src="~/assets/images/pix-logo.svg"
+        class="logo"
+        alt="Pix"
+      >
+
       <slot />
 
       <section class="partners">
@@ -53,6 +59,11 @@
   }
 }
 
+.logo {
+  display: none;
+  width: 100px;
+}
+
 @media print {
   #app {
     background-color: $pix-neutral-0;
@@ -65,6 +76,10 @@
   // Nous mettons le !important pour éviter la surcharge du style par celui de la page qui est appliqué ensuite.
   .main-header, .tuto__description, .tuto__video, .tuto__actions {
     display: none !important;
+  }
+
+  .logo {
+    display: block;
   }
 }
 </style>
