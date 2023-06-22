@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v2.3.0 (22/06/2023)
+
+
+### :rocket: Amélioration
+- [#161](https://github.com/1024pix/pix-tutos/pull/161) [FEATURE] A l'impression, ajouter le logo de Pix.
+
+### :building_construction: Tech
+- [#158](https://github.com/1024pix/pix-tutos/pull/158) [TECH] Utiliser fontsource pour importer les polices (PIX-8150).
+
 ## v2.2.1 (06/06/2023)
 
 
