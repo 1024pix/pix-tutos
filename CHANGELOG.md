@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v2.3.1 (23/06/2023)
+
+
+### :bug: Correction
+- [#162](https://github.com/1024pix/pix-tutos/pull/162) [BUGFIX] Rétablir Matomo.
+
 ## v2.3.0 (22/06/2023)
 
 
