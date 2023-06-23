@@ -1,6 +1,24 @@
 import isSeoIndexingEnabled from './services/is-seo-indexing-enabled';
-
+import { config } from './config/environment'
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
+const script = [];
+if (config.matomo.containerUrl) {
+  script.push(
+      {
+        type: 'text/javascript',
+        src: config.matomo.containerUrl,
+        async: true,
+        defer: true,
+      },
+      {
+        type: 'text/javascript',
+        src: '/scripts/start-matomo-event.js',
+        'data-matomo-debug-mode': config.matomo.debug,
+      }
+  );
+}
+
 export default defineNuxtConfig({
   modules: ['@nuxt/content'],
 
@@ -22,7 +40,7 @@ export default defineNuxtConfig({
         },
         isSeoIndexingEnabled() ? {} : { name: 'robots', content: 'noindex' },
       ],
-      script: [{ src: '/scripts/start-matomo-event.js' }],
+      script,
     },
   },
 
