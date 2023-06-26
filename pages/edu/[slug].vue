@@ -6,8 +6,6 @@
       :description="page.description"
       :video-embed-src="videoEmbedSrc"
       :video-dl-href="page.videoDLHref"
-      :fiche-pdf-href="page.fichePdfHref"
-      :transcript-pdf-href="page.transcriptPdfHref"
     />
   </article>
 </template>

@@ -29,31 +29,6 @@
         </PixButtonLink>
       </li>
       <li
-        v-if="fichePdfHref"
-        class="tuto-actions__item"
-      >
-        <PixButtonLink
-          :href="fichePdfHref"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Télécharger la fiche
-        </PixButtonLink>
-      </li>
-      <li
-        v-if="transcriptPdfHref"
-        class="tuto-actions__item"
-      >
-        <PixButtonLink
-          :href="transcriptPdfHref"
-          background-color="transparent-light"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Télécharger la retranscription
-        </PixButtonLink>
-      </li>
-      <li
         class="tuto-actions__item"
       >
         <PixButton
@@ -93,14 +68,6 @@ export default {
       required: true,
     },
     videoDlHref: {
-      type: String,
-      default: null,
-    },
-    fichePdfHref: {
-      type: String,
-      default: null,
-    },
-    transcriptPdfHref: {
       type: String,
       default: null,
     },
