@@ -21,6 +21,7 @@
         class="tuto-actions__item"
       >
         <PixButtonLink
+          id="download-video"
           :href="videoDownloadHref"
           target="_blank"
           rel="noopener noreferrer"
@@ -32,6 +33,7 @@
         class="tuto-actions__item"
       >
         <PixButton
+          id="download-transcript"
           :action="downloadTranscript"
         >
           Télécharger la transcription
