@@ -14,7 +14,6 @@
     />
 
     <ul
-      v-if="videoDlHref || fichePdfHref || transcriptPdfHref"
       class="tuto__actions"
     >
       <li
