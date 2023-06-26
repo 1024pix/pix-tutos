@@ -3,7 +3,7 @@ area : Domaine 1
 title: Les acteurs institutionnels du numérique éducatif dans le 2nd degré
 description: Découvrez dans cette vidéo l'ensemble des acteurs au sein de l'Éducation nationale qui ont des missions relatives au numérique éducatif dans le second degré.
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/b2d55662-aae2-41f3-8fa0-2b0e6ad4de87
-videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/b2d55662-aae2-41f3-8fa0-2b0e6ad4de87-1080-fragmented.mp4
+videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/b2d55662-aae2-41f3-8fa0-2b0e6ad4de87-1080-fragmented.mp4
 ---
 
 ## Transcription

@@ -3,7 +3,7 @@ area: Domaine 1
 title: Communiquer par voie numérique auprès de la communauté éducative
 description: "Élèves, parents, partenaires : quels moyens de communications privilégier en tant qu'enseignant ? Plus d'informations dans cette vidéo."
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/ef3f3ced-c2ee-41c0-91c7-1b7ad83f0de5
-videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/ef3f3ced-c2ee-41c0-91c7-1b7ad83f0de5-1080-fragmented.mp4
+videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/ef3f3ced-c2ee-41c0-91c7-1b7ad83f0de5-1080-fragmented.mp4
 ---
 
 ## Transcription

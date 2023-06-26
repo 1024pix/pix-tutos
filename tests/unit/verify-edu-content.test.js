@@ -81,9 +81,8 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
           'title',
           'description',
           'videoEmbedSrc',
-          'videoDLHref',
-          'fichePdfHref',
-          'transcriptPdfHref',
+          'videoDownloadHref',
+
         ];
         try {
           expect(acceptedFields).toEqual(
@@ -110,41 +109,15 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
         }
       });
 
-      it('le champ `videoDLHref` doit avoir un format précis (si présent)', function () {
-        if (!tutoFileMetadata.videoDLHref) return;
+      it('le champ `videoDownloadHref` doit avoir un format précis (si présent)', function () {
+        if (!tutoFileMetadata.videoDownloadHref) return;
         try {
-          expect(tutoFileMetadata.videoDLHref).toMatch(
+          expect(tutoFileMetadata.videoDownloadHref).toMatch(
             /^https:\/\/tube\.reseau-canope\.fr\/download\/streaming-playlists\/hls\/videos\/(\w|-)+\.mp4$/
           );
         } catch {
           throw new Error(
-            `Le format du lien "videoDLHref" est invalide (format attendu : "https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileMetadata.videoDLHref}")`
-          );
-        }
-      });
-
-      it('le champ `fichePdfHref` doit avoir un format précis (si présent)', function () {
-        if (!tutoFileMetadata.fichePdfHref) return;
-        try {
-          expect(tutoFileMetadata.fichePdfHref).toMatch(
-            /^https:\/\/dl\.pix\.fr\/tutoFileContents\/(\w|-)+\.pdf$/
-          );
-        } catch {
-          throw new Error(
-            `Le format du lien "fichePdfHref" est invalide (format attendu : "https://dl.pix.fr/tutoFileContents/{ID_TUTOFileContent}.pdf", valeur reçue : "${tutoFileMetadata.fichePdfHref}")`
-          );
-        }
-      });
-
-      it('le champ `transcriptPdfHref` doit avoir un format précis (si présent)', function () {
-        if (!tutoFileMetadata.transcriptPdfHref) return;
-        try {
-          expect(tutoFileMetadata.transcriptPdfHref).toMatch(
-            /^https:\/\/dl\.pix\.fr\/tutoFileContents\/(\w|-)+\.pdf$/
-          );
-        } catch {
-          throw new Error(
-            `Le format du lien "transcriptPdfHref" est invalide (format attendu : "https://dl.pix.fr/tutoFileContents/{ID_TUTOFileContent}.pdf", valeur reçue : "${tutoFileMetadata.fichePdfHref}")`
+            `Le format du lien "videoDownloadHref" est invalide (format attendu : "https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileMetadata.videoDownloadHref}")`
           );
         }
       });

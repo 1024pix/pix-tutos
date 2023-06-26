@@ -14,15 +14,15 @@
     />
 
     <ul
-      v-if="videoDlHref || fichePdfHref || transcriptPdfHref"
       class="tuto__actions"
     >
       <li
-        v-if="videoDlHref"
+        v-if="videoDownloadHref"
         class="tuto-actions__item"
       >
         <PixButtonLink
-          :href="videoDlHref"
+          id="download-video"
+          :href="videoDownloadHref"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -30,34 +30,10 @@
         </PixButtonLink>
       </li>
       <li
-        v-if="fichePdfHref"
-        class="tuto-actions__item"
-      >
-        <PixButtonLink
-          :href="fichePdfHref"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Télécharger la fiche
-        </PixButtonLink>
-      </li>
-      <li
-        v-if="transcriptPdfHref"
-        class="tuto-actions__item"
-      >
-        <PixButtonLink
-          :href="transcriptPdfHref"
-          background-color="transparent-light"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Télécharger la retranscription
-        </PixButtonLink>
-      </li>
-      <li
         class="tuto-actions__item"
       >
         <PixButton
+          id="download-transcript"
           :action="downloadTranscript"
         >
           Télécharger la transcription
@@ -93,15 +69,7 @@ export default {
       type: String,
       required: true,
     },
-    videoDlHref: {
-      type: String,
-      default: null,
-    },
-    fichePdfHref: {
-      type: String,
-      default: null,
-    },
-    transcriptPdfHref: {
+    videoDownloadHref: {
       type: String,
       default: null,
     },
