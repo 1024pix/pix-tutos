@@ -5,7 +5,7 @@
       :title="page.title"
       :description="page.description"
       :video-embed-src="videoEmbedSrc"
-      :video-dl-href="page.videoDLHref"
+      :video-download-href="page.videoDownloadHref"
     />
   </article>
 </template>

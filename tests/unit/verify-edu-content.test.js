@@ -81,7 +81,7 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
           'title',
           'description',
           'videoEmbedSrc',
-          'videoDLHref',
+          'videoDownloadHref',
 
         ];
         try {
@@ -109,15 +109,15 @@ describe('Verification du contenu dans le dossier `content/edu`', function () {
         }
       });
 
-      it('le champ `videoDLHref` doit avoir un format précis (si présent)', function () {
-        if (!tutoFileMetadata.videoDLHref) return;
+      it('le champ `videoDownloadHref` doit avoir un format précis (si présent)', function () {
+        if (!tutoFileMetadata.videoDownloadHref) return;
         try {
-          expect(tutoFileMetadata.videoDLHref).toMatch(
+          expect(tutoFileMetadata.videoDownloadHref).toMatch(
             /^https:\/\/tube\.reseau-canope\.fr\/download\/streaming-playlists\/hls\/videos\/(\w|-)+\.mp4$/
           );
         } catch {
           throw new Error(
-            `Le format du lien "videoDLHref" est invalide (format attendu : "https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileMetadata.videoDLHref}")`
+            `Le format du lien "videoDownloadHref" est invalide (format attendu : "https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileMetadata.videoDownloadHref}")`
           );
         }
       });

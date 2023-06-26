@@ -3,7 +3,7 @@ area: Domaine 1
 title: Se connecter à sa messagerie académique
 description: Avec cette vidéo, votre messagerie académique n'aura (quasiment) plus de secret pour vous !
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/09090670-0b40-478d-86b7-383451e602e8
-videoDLHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/09090670-0b40-478d-86b7-383451e602e8-1080-fragmented.mp4
+videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/09090670-0b40-478d-86b7-383451e602e8-1080-fragmented.mp4
 ---
 
 ## Transcription

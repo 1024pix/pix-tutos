@@ -17,11 +17,11 @@
       class="tuto__actions"
     >
       <li
-        v-if="videoDlHref"
+        v-if="videoDownloadHref"
         class="tuto-actions__item"
       >
         <PixButtonLink
-          :href="videoDlHref"
+          :href="videoDownloadHref"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -67,7 +67,7 @@ export default {
       type: String,
       required: true,
     },
-    videoDlHref: {
+    videoDownloadHref: {
       type: String,
       default: null,
     },
