@@ -1,3 +1,7 @@
+<script setup>
+useHead({ titleTemplate: '%s - Pix+Édu' })
+</script>
+
 <template>
   <div
     id="app"
@@ -27,10 +31,6 @@
     </main>
   </div>
 </template>
-
-<script setup>
-  useHead({ titleTemplate: '%s - Pix+Édu' })
-</script>
 
 <style lang="scss">
 #app {
