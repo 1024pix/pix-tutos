@@ -1,3 +1,12 @@
+<script setup>
+defineProps({
+  hideActions: {
+    type: Boolean,
+    default: true,
+  },
+})
+</script>
+
 <template>
   <header class="main-header">
     <div class="main-header__container">
@@ -37,17 +46,6 @@
     </div>
   </header>
 </template>
-
-<script>
-export default {
-  props: {
-    hideActions: {
-      type: Boolean,
-      default: true,
-    },
-  },
-};
-</script>
 
 <style lang="scss">
 .main-header {
