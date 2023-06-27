@@ -1,3 +1,32 @@
+<script setup>
+defineProps({
+  page: {
+    type: Object,
+    required: true,
+  },
+  title: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+    required: true,
+  },
+  videoEmbedSrc: {
+    type: String,
+    required: true,
+  },
+  videoDownloadHref: {
+    type: String,
+    default: null,
+  },
+})
+
+function downloadTranscript() {
+  window.print()
+}
+</script>
+
 <template>
   <section class="tuto">
     <h1 class="pix-title-m tuto__title">
@@ -46,41 +75,6 @@
     </ContentDoc>
   </section>
 </template>
-
-<script>
-import PixButtonLink from './PixButtonLink.vue';
-export default {
-  name: 'PixTutorial',
-  components: { PixButtonLink },
-  props: {
-    page: {
-      type: Object,
-      required: true,
-    },
-    title: {
-      type: String,
-      required: true,
-    },
-    description: {
-      type: String,
-      required: true,
-    },
-    videoEmbedSrc: {
-      type: String,
-      required: true,
-    },
-    videoDownloadHref: {
-      type: String,
-      default: null,
-    },
-  },
-  methods: {
-    downloadTranscript() {
-      window.print();
-    },
-  }
-};
-</script>
 
 <style lang="scss">
 .tuto {
