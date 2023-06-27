@@ -24,6 +24,7 @@
     "@fontsource/roboto": "^4.5.8"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^0.39.5",
     "@nuxt/content": "^2.4.3",
     "@nuxt/eslint-config": "^0.1.1",
     "@playwright/test": "^1.30.0",
