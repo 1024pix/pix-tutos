@@ -1,3 +1,16 @@
+<script setup>
+defineProps({
+  action: { type: Function, required: true },
+  backgroundColor: {
+    type: String,
+    default: 'blue',
+    validator(value) {
+      return ['blue', 'transparent-light'].includes(value)
+    },
+  },
+})
+</script>
+
 <template>
   <button
     class="pix-button pix-button--border pix-button--shape-squircle pix-button--size-small"
@@ -7,25 +20,6 @@
     <slot />
   </button>
 </template>
-
-<script>
-export default {
-  name: 'PixButtonLink',
-  props: {
-    action: {
-      type: Function,
-      required: true,
-    },
-    backgroundColor: {
-      type: String,
-      default: 'blue',
-      validator(val) {
-        return ['blue', 'transparent-light'].includes(val);
-      },
-    },
-  },
-};
-</script>
 
 <style lang="scss" scoped>
 .pix-button {
