@@ -9,7 +9,6 @@ node_modules
 dist
 .idea
 .editorconfig
-.vscode/*
 nginx.conf
 /test-results/
 /playwright-report/

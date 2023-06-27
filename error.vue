@@ -1,3 +1,14 @@
+<script setup>
+defineProps({
+  error: {
+    type: Object,
+    default: () => {},
+  },
+})
+useHead({ title: 'Erreur' })
+definePageMeta({ layout: 'simple' })
+</script>
+
 <template>
   <div class="error">
     <a href="https://pix.fr/">
@@ -12,18 +23,6 @@
     </p>
   </div>
 </template>
-
-<script setup>
-  useHead({ title: 'Erreur' })
-  definePageMeta({ layout: 'simple' })
-
-  defineProps({
-    error: {
-      type: Object,
-      default: () => {}
-    }
-  })
-</script>
 
 <style lang="scss">
 .error {

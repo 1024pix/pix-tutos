@@ -1,3 +1,7 @@
+<script setup>
+useHead({ title: 'Accueil' })
+</script>
+
 <template>
   <h1>
     <nuxt-link to="edu">
@@ -5,7 +9,3 @@
     </nuxt-link>
   </h1>
 </template>
-
-<script setup>
-useHead({ title: 'Accueil' });
-</script>

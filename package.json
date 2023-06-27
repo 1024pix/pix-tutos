@@ -4,11 +4,10 @@
   "version": "3.0.0",
   "scripts": {
     "dev": "nuxt dev",
-    "build": "nuxt generate && npm run signal-jira",
+    "build": "nuxt generate",
     "start": "nuxt start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint:fix": "npm run lint -- --fix",
-    "signal-jira": "node ./scripts/jira/comment-with-review-app-url.js",
     "test": "vitest",
     "test:e2e": "npm run test:e2e:install && npm run test:e2e:run",
     "test:e2e:install": "playwright install",
@@ -24,6 +23,7 @@
     "@fontsource/roboto": "^4.5.8"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^0.39.5",
     "@nuxt/content": "^2.4.3",
     "@nuxt/eslint-config": "^0.1.1",
     "@playwright/test": "^1.30.0",

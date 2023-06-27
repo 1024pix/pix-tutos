@@ -3,9 +3,9 @@ module.exports = {
   env: {
     node: true,
   },
-  extends: ['@nuxt/eslint-config'],
+  extends: ['@antfu', '@nuxt/eslint-config'],
   // add your custom rules here
   rules: {
     'no-console': 'off',
   },
-};
+}
