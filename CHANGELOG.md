@@ -1,5 +1,16 @@
 # pix-tutos Changelog
 
+## v3.0.0 (27/06/2023)
+
+
+### :boom: BREAKING CHANGE
+- [#163](https://github.com/1024pix/pix-tutos/pull/163) [BREAKING] Ajoute des `id` aux boutons d'action pour Matomo.
+
+### :coffee: Autre
+- [#160](https://github.com/1024pix/pix-tutos/pull/160) [BUMP] Update dependency vitest to ^0.32.0 (dossier racine).
+- [#164](https://github.com/1024pix/pix-tutos/pull/164) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.35.1 (.circleci).
+- [#157](https://github.com/1024pix/pix-tutos/pull/157) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.35.0 (.circleci).
+
 ## v2.3.1 (23/06/2023)
 
 
