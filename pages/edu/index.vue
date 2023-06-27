@@ -1,3 +1,21 @@
+<script setup>
+import getAreas from '../../services/get-areas'
+
+definePageMeta({ layout: 'edu' })
+useHead({ title: 'Accueil' })
+
+const areas = getAreas()
+const tutos = await queryContent('edu').sort({ area: 1, title: 1 }).find()
+
+const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
+  if (!acc[tuto.area])
+    acc[tuto.area] = []
+
+  acc[tuto.area].push(tuto)
+  return acc
+}, {})
+</script>
+
 <template>
   <div>
     <h1 class="header__title">
@@ -39,34 +57,6 @@
     </section>
   </div>
 </template>
-
-<script>
-import getAreas from '../../services/get-areas';
-
-definePageMeta({ layout: 'edu' })
-
-export default {
-  layout: 'edu',
-  async setup() {
-    useHead({ title: 'Accueil' });
-
-    const tutos = await queryContent('edu').sort({ area: 1, title: 1 }).find();
-
-    const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
-      if (!acc[tuto.area]) {
-        acc[tuto.area] = [];
-      }
-      acc[tuto.area].push(tuto);
-      return acc;
-    }, {});
-
-    return {
-      areas: getAreas(),
-      tutosGroupedByArea,
-    };
-  },
-};
-</script>
 
 <style lang="scss" scoped>
 a {
