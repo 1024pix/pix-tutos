@@ -3,7 +3,7 @@
     id="app"
     class="app-viewport"
   >
-    <PixHeader :hide-actions="shouldDisplayActions" />
+    <PixHeader :hide-actions="false" />
     <main
       role="main"
       class="main-container"
@@ -12,29 +12,6 @@
     </main>
   </div>
 </template>
-
-<script>
-export default {
-  data() {
-    return {
-      isConnected: undefined,
-    };
-  },
-
-  computed: {
-    // Hide actions while loading to avoid layout shift
-    shouldDisplayActions() {
-      return this.isConnected ?? true;
-    },
-  },
-
-  // The `mounted` lifecycle hook is called client side
-  // https://nuxtjs.org/docs/concepts/nuxt-lifecycle/#client
-  mounted() {
-    this.isConnected = location.search.startsWith('?c');
-  },
-};
-</script>
 
 <style lang="scss">
 #app {
