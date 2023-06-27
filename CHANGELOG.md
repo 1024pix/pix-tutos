@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v3.0.1 (27/06/2023)
+
+
+### :building_construction: Tech
+- [#166](https://github.com/1024pix/pix-tutos/pull/166) [TECH] Amélioration du lint.
+
+### :bug: Correction
+- [#165](https://github.com/1024pix/pix-tutos/pull/165) [BUGFIX] L'accès aux pages en erreur est cassé.
+
 ## v3.0.0 (27/06/2023)
 
 
