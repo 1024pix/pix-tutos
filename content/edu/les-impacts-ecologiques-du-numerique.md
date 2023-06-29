@@ -32,8 +32,8 @@ Enfin, il est important de sensibiliser les élèves aux solutions systémiques 
 
 ## **Crédits**
 
-**Scénario** : Nicolas Sedel, Gwenola Dubois, Corentine Gasquet, Kimi Do
-**Direction de publication** : Marie-Caroline Missir
-**Production** : Réseau Canopé
-**Partenariat** : Pix
+- **Scénario** : Nicolas Sedel, Gwenola Dubois, Corentine Gasquet, Kimi Do
+- **Direction de publication** : Marie-Caroline Missir
+- **Production** : Réseau Canopé
+- **Partenariat** : Pix
  Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
