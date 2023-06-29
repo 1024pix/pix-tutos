@@ -32,8 +32,9 @@ Enseignants référents, conseillers pédagogiques, inspecteurs, délégués au 
 
 ## **Crédits**
 
-**Scénario** : Corentine Gasquet
-**Direction de publication** : Marie-Caroline Missir
-**Production** : Réseau Canopé
-**Partenariat** : Pix
- Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
+- **Scénario** : Corentine Gasquet
+- **Direction de publication** : Marie-Caroline Missir
+- **Production** : Réseau Canopé
+- **Partenariat** : Pix
+
+Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
