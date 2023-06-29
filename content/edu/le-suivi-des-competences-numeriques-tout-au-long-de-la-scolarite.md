@@ -57,4 +57,5 @@ Des savoirs et des savoir-faireindispensables pour l'avenir de tous les élèves
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
- Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
+
+Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
