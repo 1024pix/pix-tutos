@@ -80,4 +80,5 @@ Dans tous les cas, simplifier et uniformiser la présentation de ses documents, 
 -  **Direction de publication** : Marie-Caroline Missir
 -  **Production** : Réseau Canopé
 -  **Partenariat** : Pix
- Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
+
+Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
