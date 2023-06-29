@@ -64,8 +64,9 @@ L'éducation doit sans cesse s'adapter aux évolutions du numérique. Mais l'ens
 
 ## **Crédits**
 
-**Scénario** : Baptiste Caron, Eli Allouche
-**Direction de publication** : Marie-Caroline Missir
-**Production** : Réseau Canopé
-**Partenariat** : Pix
- Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
+- **Scénario** : Baptiste Caron, Eli Allouche
+- **Direction de publication** : Marie-Caroline Missir
+- **Production** : Réseau Canopé
+- **Partenariat** : Pix
+
+Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
