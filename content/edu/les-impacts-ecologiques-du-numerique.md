@@ -36,4 +36,5 @@ Enfin, il est important de sensibiliser les élèves aux solutions systémiques 
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
- Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
+
+Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
