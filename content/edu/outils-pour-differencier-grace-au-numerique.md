@@ -84,9 +84,9 @@ Pas de recette magique mais des résultats souvent positifs !
 
 ## **Crédits**
 
-**Scénario** : Mélinée Chanard, Kimi Do, Cécile Taillandier, Béatrice Pérelade,
+- **Scénario** : Mélinée Chanard, Kimi Do, Cécile Taillandier, Béatrice Pérelade,
  Virginie Esparel-Rousseau
-**Direction de publication** : Marie-Caroline Missir
-**Production** : Réseau Canopé
-**Partenariat** : Pix
+- **Direction de publication** : Marie-Caroline Missir
+- **Production** : Réseau Canopé
+- **Partenariat** : Pix
  Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
