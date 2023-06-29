@@ -70,8 +70,8 @@ Contrairement à de nombreux stéréotypes, la plupart des élèves prennent tr�
 
 ## **Crédits**
 
-**Scénario** : Kimi Do, Théodore Laugée, Fabrice Legros
-**Direction de publication** : Marie-Caroline Missir
-**Production** : Réseau Canopé
-**Partenariat** : Pix
+-  **Scénario** : Kimi Do, Théodore Laugée, Fabrice Legros
+- **Direction de publication** : Marie-Caroline Missir
+- **Production** : Réseau Canopé
+- **Partenariat** : Pix
  Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
