@@ -50,4 +50,5 @@ Au final, gérer le rapport aux écrans est un apprentissage qui nous concerne t
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
- Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
+
+Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
