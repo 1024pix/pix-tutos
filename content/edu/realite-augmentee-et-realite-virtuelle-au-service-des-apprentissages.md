@@ -85,4 +85,5 @@ Pour apprivoiser ces technologies, Sarah peut se tourner vers les ressources et 
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
- Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
+
+Ressource produite avec le soutien du ministère de l'Éducation nationale et de la Jeunesse
