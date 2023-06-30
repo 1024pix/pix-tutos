@@ -5,7 +5,7 @@ definePageMeta({ layout: 'edu' })
 useHead({ title: 'Accueil' })
 
 const areas = getAreas()
-const tutos = await queryContent('edu').sort({ area: 1, title: 1 }).find()
+const tutos = await queryContent('edu').sort({ title: 1, area: 1 }).find()
 
 const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
   if (!acc[tuto.area])
