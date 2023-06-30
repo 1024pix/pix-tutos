@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.1.0 (30/06/2023)
+
+
+### :coffee: Autre
+- [#167](https://github.com/1024pix/pix-tutos/pull/167) Création nouvelles pages tutos Pix.
+
 ## v3.0.1 (27/06/2023)
 
 
