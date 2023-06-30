@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.1.1 (30/06/2023)
+
+
+### :bug: Correction
+- [#168](https://github.com/1024pix/pix-tutos/pull/168) [BUGFIX] Corriger l'ordre des domaines sur /edu .
+
 ## v3.1.0 (30/06/2023)
 
 
