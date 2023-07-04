@@ -1,5 +1,12 @@
 # pix-tutos Changelog
 
+## v3.1.2 (04/07/2023)
+
+
+### :coffee: Autre
+- [#174](https://github.com/1024pix/pix-tutos/pull/174) [BUMP] Update node to v18.16.1.
+- [#170](https://github.com/1024pix/pix-tutos/pull/170) [BUMP] Update dependency nuxt to ~3.6.0 (dossier racine).
+
 ## v3.1.1 (30/06/2023)
 
 
