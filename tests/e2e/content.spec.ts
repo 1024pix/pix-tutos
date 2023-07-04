@@ -1,19 +1,20 @@
-import { test, expect } from '@playwright/test';
+import { expect, test } from '@playwright/test'
 
 test.describe('content', () => {
   test('should show correctly', async ({ page }) => {
     // given
-    const pageToVisit = '/edu';
+    const pageToVisit = '/edu'
 
     // when
-    await page.goto(pageToVisit);
+    await page.goto(pageToVisit)
 
     // then
     await expect
       .soft(page.getByRole('heading', { name: 'Tutoriels Réseau Canopé-Pix' }))
-      .toBeVisible();
+      .toBeVisible()
+
     for (const link of await page.getByRole('link').all()) {
-      await expect.soft(link).toBeVisible();
+      await expect.soft(link).toBeVisible()
     }
-  });
-});
+  })
+})
