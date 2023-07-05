@@ -19,8 +19,8 @@
     "npm": "<10"
   },
   "dependencies": {
-    "@fontsource/open-sans": "^4.5.14",
-    "@fontsource/roboto": "^4.5.8"
+    "@fontsource/open-sans": "^5.0.0",
+    "@fontsource/roboto": "^5.0.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.39.5",
