@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.2.1 (12/07/2023)
+
+
+### :coffee: Autre
+- [#185](https://github.com/1024pix/pix-tutos/pull/185) Correction coquille dans pratiques-numeriques-des-eleves-les-comprendre-pour-mieux-les-….
+
 ## v3.2.0 (12/07/2023)
 
 
