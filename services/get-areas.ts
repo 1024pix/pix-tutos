@@ -9,5 +9,6 @@ export default function getAreas() {
       'Inclure et rendre accessible, différencier et engager les apprenants',
     'Domaine 5':
       'Développer, évaluer et certifier les compétences numériques des apprenants',
+    'Webinaires': 'Une série de webinaires produits par Réseau Canopé, en partenariat avec Pix pour se former et actualiser ses compétences numériques professionnelles',
   }
 }
