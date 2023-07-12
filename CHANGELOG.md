@@ -1,5 +1,17 @@
 # pix-tutos Changelog
 
+## v3.2.0 (12/07/2023)
+
+
+### :rocket: Amélioration
+- [#184](https://github.com/1024pix/pix-tutos/pull/184) [FEATURE] Permettre d'avoir `Webinaires` comme domaine de tutoriel (PIX-8618).
+
+### :coffee: Autre
+- [#177](https://github.com/1024pix/pix-tutos/pull/177) Création pages tutos.pix pour webinaires (+9 pages).
+- [#183](https://github.com/1024pix/pix-tutos/pull/183) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.36.0 (.circleci).
+- [#182](https://github.com/1024pix/pix-tutos/pull/182) [BUMP] Update Node.js to v20.
+- [#180](https://github.com/1024pix/pix-tutos/pull/180) [BUMP] Update fontsource monorepo to v5 (dossier racine) (major).
+
 ## v3.1.2 (04/07/2023)
 
 
