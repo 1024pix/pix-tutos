@@ -1,5 +1,13 @@
 # pix-tutos Changelog
 
+## v3.3.0 (20/07/2023)
+
+
+### :coffee: Autre
+- [#188](https://github.com/1024pix/pix-tutos/pull/188) Création de +8 nouvelles pages (extraits de webinaires = vidéos de 5 min).
+- [#187](https://github.com/1024pix/pix-tutos/pull/187) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.36.1 (.circleci).
+- [#186](https://github.com/1024pix/pix-tutos/pull/186) [BUMP] Update dependency vitest to ^0.33.0 (dossier racine).
+
 ## v3.2.1 (12/07/2023)
 
 
