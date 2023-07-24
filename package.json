@@ -12,11 +12,11 @@
     "test:e2e": "npm run test:e2e:install && npm run test:e2e:run",
     "test:e2e:install": "playwright install",
     "test:e2e:run": "playwright test",
+    "preinstall": "npx check-engine",
     "postinstall": "nuxt prepare"
   },
   "engines": {
-    "node": "18",
-    "npm": "<10"
+    "node": "18.17.0"
   },
   "dependencies": {
     "@fontsource/open-sans": "^5.0.0",
