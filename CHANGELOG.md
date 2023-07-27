@@ -1,5 +1,19 @@
 # pix-tutos Changelog
 
+## v3.4.0 (27/07/2023)
+
+
+### :building_construction: Tech
+- [#176](https://github.com/1024pix/pix-tutos/pull/176) [TECH] Ajoute des tests de régression visuelle.
+
+### :arrow_up: Montée de version
+- [#193](https://github.com/1024pix/pix-tutos/pull/193) [BUMP] Update dependency node to v18.17.0.
+- [#192](https://github.com/1024pix/pix-tutos/pull/192) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.36.2 (.circleci).
+- [#189](https://github.com/1024pix/pix-tutos/pull/189) [BUMP] Update Node.js to v20.5.0.
+
+### :coffee: Autre
+- [#194](https://github.com/1024pix/pix-tutos/pull/194) Création page dernier webinaire (#9).
+
 ## v3.3.0 (20/07/2023)
 
 
