@@ -15,8 +15,7 @@
     "postinstall": "nuxt prepare"
   },
   "engines": {
-    "node": "18",
-    "npm": "<10"
+    "node": "^v18.17.1"
   },
   "dependencies": {
     "@fontsource/open-sans": "^5.0.0",
