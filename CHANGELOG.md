@@ -1,5 +1,15 @@
 # pix-tutos Changelog
 
+## v3.4.1 (24/08/2023)
+
+
+### :arrow_up: Montée de version
+- [#200](https://github.com/1024pix/pix-tutos/pull/200) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.37.1 (.circleci).
+- [#199](https://github.com/1024pix/pix-tutos/pull/199) [BUMP] Update dependency node to v18.17.1.
+- [#198](https://github.com/1024pix/pix-tutos/pull/198) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.37.0 (.circleci).
+- [#197](https://github.com/1024pix/pix-tutos/pull/197) [BUMP] Update Node.js to v20.5.1.
+- [#196](https://github.com/1024pix/pix-tutos/pull/196) [BUMP] Update dependency vitest to ^0.34.0 (dossier racine).
+
 ## v3.4.0 (27/07/2023)
 
 
