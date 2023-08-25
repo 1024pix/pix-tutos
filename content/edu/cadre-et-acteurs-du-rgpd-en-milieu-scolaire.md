@@ -8,20 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-![](RackMultipart20230825-1-pjbeir_html_6d90588f37a1f033.png)
-
-##
-# **Cadre et acteurs
- du RGPD
- en milieu scolaire**
-
-## Ep. 15
-
-**Domaine 1 - ENVIRONNEMENT PROFESSIONNEL
- Utiliser le numérique pour agir et se former dans son environnement professionnel**
-
-## **Script**
-
 Martin est directeur d'école primaire. Il a repéré un outil numérique de communication entre l'école et les familles qui lui semble vraiment intéressant. Mais il s'interroge sur son droit à utiliser cet outil.
 
 Vers qui peut-il se tourner pour que le règlement général sur la protection des données (le RGPD) soit respecté ?
