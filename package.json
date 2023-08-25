@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "@fontsource/open-sans": "^5.0.0",
-    "@fontsource/roboto": "^5.0.0"
+    "@fontsource/roboto": "^5.0.0",
+    "plyr": "^3.7.8"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.39.5",

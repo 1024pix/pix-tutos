@@ -42,3 +42,7 @@ p, li {
     text-align: justify;
   }
 }
+
+.plyr {
+  --plyr-color-main: #{$blue-50};
+}
