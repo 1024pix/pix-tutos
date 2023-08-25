@@ -28,4 +28,5 @@ Référent numérique, Responsable d'affectation GAR, Délégué au numérique �
 - **Partenariat** : Pix
 - **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
+
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse
