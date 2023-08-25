@@ -50,7 +50,7 @@ Cette responsabilité importante est endossée par le responsable de traitemen
 Auparavant, ce responsable devait attendre le feu vert
 
 - de l'autorité de contrôle qu'est la CNIL – la commission nationale Internet et liberté ;
-- u du ministère de l'Éducation nationale.
+- du du ministère de l'Éducation nationale.
 
 Aujourd'hui, il peut décider lui-même d'autoriser ou d'interdire certains outils et usages selon leur conformité avec le RGPD. C'est le principe de « responsabilisation ».
 
