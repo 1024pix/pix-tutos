@@ -55,6 +55,7 @@ Voyons maintenant du côté de l'Espace numérique de travail : l'ENT. Pour comm
 Enfin, n'oublions pas la question des données personnelles. Bien que les réseaux sociaux soient des outils pratiques et puissants, ils ne peuvent pas être utilisés pour une communication vers les familles et les élèves notamment pour des raisons de protection des données personnelles. Il faut donc utiliser au maximum les possibilités offertes par les ENT ou les logiciels de vie scolaire. Si cela ne suffit pas, il est possible d'avoir recours aux outils autorisés par votre responsable de traitement, et inscrits au registre des traitements de votre structure. Pour plus d'informations, tournez-vous vers le délégué à la protection des données académique, dont l'adresse mail est par exemple dpd@ac-lyon.fr.
 
 Dans la jungle des canaux de communication, vous êtes désormais prêts à trouver votre chemin et à choisir le bon outil selon vos interlocuteurs.
+
 ## Crédits
 
 - **Scénario** : Nicolas Sedel, Corentine Gasquet, Matthieu Boucher
