@@ -1,0 +1,24 @@
+<template>
+  <video
+    data-able-player
+    preload="auto"
+    width="480"
+    height="360"
+    poster="todo.jpg"
+    controls
+  >
+    <source
+      type="video/mp4"
+      src="/_nuxt/assets/videos/Parametrer-une-dataviz.mp4"
+      data-desc-src="path_to_described_video.mp4"
+    >
+    <track
+      kind="captions"
+      src="path_to_captions.vtt"
+    >
+    <track
+      kind="descriptions"
+      src="path_to_descriptions.vtt"
+    >
+  </video>
+</template>
