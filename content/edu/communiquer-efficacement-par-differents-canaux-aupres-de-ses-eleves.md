@@ -26,7 +26,7 @@ Les canaux de communication sont donc nombreux. Mais quelles sont les règles de
 - la protection de la propriété intellectuelle ;
 - ou encore la protection de la personne et de la vie privée.
 
-D’autre part, des règles moins formelles sont regroupées dans une charte appelée netiquette. Ce guide donne les bonnes pratiques et les bons usages d’internet : courtoisie, politesse, mise en page...
+D’autre part, des règles moins formelles sont regroupées dans une charte appelée netiquette. Ce guide donne les bonnes pratiques et les bons usages d’internet : courtoisie, politesse, mise en page…
 
 Concertez-vous ! Entre enseignants d’un même établissement, définissez ensemble les canaux de communication appropriés pour échanger avec les élèves, selon les situations.
 

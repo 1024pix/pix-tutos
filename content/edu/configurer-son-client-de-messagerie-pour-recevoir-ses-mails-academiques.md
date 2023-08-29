@@ -18,7 +18,7 @@ Eh bien, non ! En effet, les mails sont alors stockés chez le fournisseur de vo
 
 Alors, comment bien configurer un client de messagerie ? C’est ce que nous allons voir dans cette vidéo.
 
-Thunderbird, Windows Mail, Outlook ou encore Mail... Les clients de messagerie sont des logiciels qui permettent de regrouper différents comptes, qu’ils soient professionnels ou privés, et de se servir de l’un d’eux selon les circonstances. Ces solutions sont accessibles depuis un smartphone, une tablette ou un ordinateur.
+Thunderbird, Windows Mail, Outlook ou encore Mail… Les clients de messagerie sont des logiciels qui permettent de regrouper différents comptes, qu’ils soient professionnels ou privés, et de se servir de l’un d’eux selon les circonstances. Ces solutions sont accessibles depuis un smartphone, une tablette ou un ordinateur.
 
 La première étape est d’ouvrir le client de messagerie et d’accéder à la rubrique Paramètres, généralement symbolisée par une petite roue crantée. Dans « Compte », il faut ensuite cliquer sur « Nouveau » ou « Ajouter un compte ».
 

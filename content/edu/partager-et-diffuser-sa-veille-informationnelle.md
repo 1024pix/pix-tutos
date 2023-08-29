@@ -8,7 +8,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-Caroline est enseignante de SVT. Pour préparer ses cours, s’informer sur des dispositifs pédagogiques existants ou encore suivre l’actualité institutionnelle, elle peut mener une veille informationnelle. Pour que celle-ci soit plus efficace mais aussi plus profitable à la communauté éducative, elle peut l’organiser, la mutualiser, la partager... grâce à des outils d’agrégation de contenu et de curation.
+Caroline est enseignante de SVT. Pour préparer ses cours, s’informer sur des dispositifs pédagogiques existants ou encore suivre l’actualité institutionnelle, elle peut mener une veille informationnelle. Pour que celle-ci soit plus efficace mais aussi plus profitable à la communauté éducative, elle peut l’organiser, la mutualiser, la partager… grâce à des outils d’agrégation de contenu et de curation.
 
 Alors, quels outils utiliser pour organiser et partager sa veille ? Qu’est-ce que la curation et à quoi sert-elle ? Comment partager sa veille avec ses collègues et ses élèves ?
 

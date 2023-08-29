@@ -26,7 +26,7 @@ La messagerie interne à l’ENT permet une communication ciblée ou par équipe
 
 En dehors de son établissement, on peut utiliser des listes de diffusion.
 
-On peut aussi communiquer à travers un forum. Les utilisateurs s’inscrivent, puis créent ou participent à des discussions selon les sujets qui les intéressent. C’est le lieu virtuel idéal pour débattre, discuter partager des connaissances ou même s’entraider...
+On peut aussi communiquer à travers un forum. Les utilisateurs s’inscrivent, puis créent ou participent à des discussions selon les sujets qui les intéressent. C’est le lieu virtuel idéal pour débattre, discuter partager des connaissances ou même s’entraider…
 
 Il existe plusieurs types de forums.
 
@@ -55,7 +55,7 @@ Il existe d’autres outils plus spécialisés qui permettent d’échanger entr
 
 Par exemple, **Tribu** est un espace collaboratif de gestion de projet, permettant de partager et de travailler sur des documents et d’échanger sur un forum interne.
 
-**Osmose** est aussi un espace collaboratif permettant d’animer une communauté autour d’un projet. Cette plateforme modulable intègre un large choix d’outils : blog, espace d’échange, veille collaborative, salle de réunion virtuelle...
+**Osmose** est aussi un espace collaboratif permettant d’animer une communauté autour d’un projet. Cette plateforme modulable intègre un large choix d’outils : blog, espace d’échange, veille collaborative, salle de réunion virtuelle…
 
 **Viaéduc** est le réseau social institutionnel des enseignants, permettant les échanges autour d’un projet ou la mise en relation entre pairs.
 
@@ -70,7 +70,7 @@ Ces outils institutionnels garantissent un haut niveau de sécurité et de prote
 
 Et voilà!
 
-Grâce à tous ces outils, ENT, forums, plateformes...  vous pourrez échanger vos idées, développer des projets, tout en rencontrant des enseignants qui partagent votre centres d’intérêt !
+Grâce à tous ces outils, ENT, forums, plateformes…  vous pourrez échanger vos idées, développer des projets, tout en rencontrant des enseignants qui partagent votre centres d’intérêt !
 
 ## Crédits
 

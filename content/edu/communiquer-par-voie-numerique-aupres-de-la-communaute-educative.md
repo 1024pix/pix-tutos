@@ -8,7 +8,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-Messagerie de l’ENT, de Pronote, cahier de texte, webmail de l’académie, réseaux sociaux... Qu’il s’adresse à l’administration, à l’académie, à ses collègues, ses élèves, ou même aux parents d’élèves, chaque enseignant dispose de nombreux outils pour communiquer. Face à tous ces canaux de communication, c’est parfois difficile de s’y retrouver…
+Messagerie de l’ENT, de Pronote, cahier de texte, webmail de l’académie, réseaux sociaux… Qu’il s’adresse à l’administration, à l’académie, à ses collègues, ses élèves, ou même aux parents d’élèves, chaque enseignant dispose de nombreux outils pour communiquer. Face à tous ces canaux de communication, c’est parfois difficile de s’y retrouver…
 
 Quel canal choisir en fonction de ses interlocuteurs ?
 
@@ -25,7 +25,7 @@ L’outil de communication numérique le plus évident est le mail. Un enseignan
 
 Le mail professionnel apporte de la visibilité au message envoyé. En effet, il permet d’attester du statut et de l’académie d’origine de l’expéditeur.
 
-Il apporte de la crédibilité par rapport à une adresse personnelle qui pourrait manquer... de professionnalisme !
+Il apporte de la crédibilité par rapport à une adresse personnelle qui pourrait manquer… de professionnalisme !
 
 Enfin, il permet à l’enseignant de séparer sa vie professionnelle de sa vie personnelle.
 

@@ -8,7 +8,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-RUPN, responsable d’affectation GAR, DANE ou DRANE, IAN... Ils sont nombreux à contribuer au développement du numérique éducatif. C’est parfois difficile de s’y retrouver. Alors, découvrons ensemble le « Qui fait quoi » du numérique éducatif dans l’Éducation nationale. Quel est le rôle du référent numérique ? Du responsable d’affectation GAR ? Des DRANE ? et des IAN ?
+RUPN, responsable d’affectation GAR, DANE ou DRANE, IAN… Ils sont nombreux à contribuer au développement du numérique éducatif. C’est parfois difficile de s’y retrouver. Alors, découvrons ensemble le « Qui fait quoi » du numérique éducatif dans l’Éducation nationale. Quel est le rôle du référent numérique ? Du responsable d’affectation GAR ? Des DRANE ? et des IAN ?
 
 En tant qu’enseignant, le référent pour les ressources et usages pédagogiques numériques - ou RUPN - est sans doute l’acteur institutionnel avec lequel vous interagissez le plus souvent. Désigné par le chef d’établissement, sur la base d’une lettre de mission, il conseille l’équipe de direction sur la place du numérique dans le projet d’établissement. Il est là notamment pour recenser les besoins en formation des enseignants et les accompagner dans leurs usages pédagogiques du numérique.Par exemple, un professeur d’histoire-géographie veut réaliser une promenade interactive sur le Paris de la Commune. Il s’adresse au référent numérique pour connaître les équipements disponibles dans l’établissement, savoir quels logiciels seront les plus adaptés et se former à leur prise en main.
 

@@ -8,7 +8,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-Ressources pédagogiques, nouveaux programmes, référentiels de compétences... Un enseignant est amené à s’informer sur de nombreux sujets. Cette collecte d’informations, leur sélection et leur organisation s’appellent la veille pédagogique. Mais attention : si elle est incontournable, la veille peut aussi devenir chronophage.
+Ressources pédagogiques, nouveaux programmes, référentiels de compétences… Un enseignant est amené à s’informer sur de nombreux sujets. Cette collecte d’informations, leur sélection et leur organisation s’appellent la veille pédagogique. Mais attention : si elle est incontournable, la veille peut aussi devenir chronophage.
 
 Comment structurer sa veille ? Quelle méthodologie pour la rendre efficace ? Comment identifier des sources et les suivre ? Quels outils utiliser ?
 
@@ -26,7 +26,7 @@ Pour cela on peut par exemple :
 
 Pour réaliser sa veille pédagogique, on peut utiliser des sources dédiées comme le ministère de l’Éducation nationale, Éduscol, l’Onisep, le site de la DRANE ou divers sites académiques. On peut également aller vers les innombrables ressources du web, comme par exemple le site de l’INA, les sites de musées ou encore de presse.
 
-Une fois les sources sélectionnées, comment y accéder régulièrement et automatiquement ? L’abonnement à des flux RSS ou à des newsletters permet de recevoir les informations directement dans sa boîte mail, son navigateur ou son outil de veille. Il est possible de recevoir directement des contenus web personnalisés en configurant des alertes sur les modules d’actualité de certains moteurs de recherche. On sélectionne un mot-clé et l’outil nous notifie lorsqu’il est mentionné dans une publication sur des sites, les réseaux sociaux, des blogs ou forums...
+Une fois les sources sélectionnées, comment y accéder régulièrement et automatiquement ? L’abonnement à des flux RSS ou à des newsletters permet de recevoir les informations directement dans sa boîte mail, son navigateur ou son outil de veille. Il est possible de recevoir directement des contenus web personnalisés en configurant des alertes sur les modules d’actualité de certains moteurs de recherche. On sélectionne un mot-clé et l’outil nous notifie lorsqu’il est mentionné dans une publication sur des sites, les réseaux sociaux, des blogs ou forums…
 
 Les réseaux sociaux constituent bien sûr une abondante source de veille. On peut s’y abonner à des comptes institutionnels, d’enseignants, de délégations académiques ou rejoindre des groupes de pairs. Sur Twitter, par exemple, il est possible de créer des listes de comptes pour une veille plus précise.
 

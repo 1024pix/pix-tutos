@@ -34,7 +34,7 @@ Comme pour toute messagerie, un identifiant et un mot de passe sont demandés po
 
 L’identifiant est en général composé de la manière suivante : première lettre du prénom suivie du nom. Exemple pour Michel Dupond : mdupond.
 
-Si plusieurs personnes correspondent à cet identifiant (Marie Dupond, Martin Dupond...), un chiffre est ajouté à la fin.
+Si plusieurs personnes correspondent à cet identifiant (Marie Dupond, Martin Dupond…), un chiffre est ajouté à la fin.
 
 Votre mot de passe par défaut est votre NUMEN, il est recommandé de le changer. Une fois connecté, cliquez dans le menu Options/Modifier le mot de passe.
 
@@ -44,7 +44,7 @@ D’après les recommandations de la CNIL, un bon mot de passe doit contenir au 
 
 Le mieux est d’utiliser un générateur de mot de passe : vous en trouverez sur le web.
 
-Un bon mot de passe est souvent difficile à retenir... Vous l’avez perdu ? Pas de panique !
+Un bon mot de passe est souvent difficile à retenir… Vous l’avez perdu ? Pas de panique !
 
 Pas la peine de retourner toute la maison sens dessus-dessous…
 
