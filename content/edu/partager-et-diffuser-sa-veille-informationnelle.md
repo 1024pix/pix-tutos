@@ -18,11 +18,11 @@ Une veille peut être menée _via_ des agrégateurs de contenu. Ces contenus peu
 
 Voilà pour la partie technique. Voyons maintenant la valeur ajoutée de la curation dans le processus de veille. Thomas est professeur d’anglais. Pour lui, la curation peut consister à :
 
-– sélectionnerdes contenus sur Internet ;
+- sélectionnerdes contenus sur Internet ;
 
-– les éditorialiser, c’est-à-dire leur donner un thème, un titre et une forme comme celle d’un article, d’une vidéo ou d’un podcast ;
+- les éditorialiser, c’est-à-dire leur donner un thème, un titre et une forme comme celle d’un article, d’une vidéo ou d’un podcast ;
 
-– et enfin partager ce nouveau contenu à d’autres enseignants intéressés par cette thématique.
+- et enfin partager ce nouveau contenu à d’autres enseignants intéressés par cette thématique.
 
 La curation ne se limite donc pas à la sélection de contenus. Le veilleur apporte une valeur ajoutée à l’information en l’analysant, en la commentant et en l’éditorialisant en fonction d’un public ciblé. Pour partager sa veille avec des collègues enseignants, il existe différents outils. Scoop.it, par exemple, est un outil simple et efficace qui permet de réaliser un web magazine thématique. À partir de la plateforme, l’enseignant sélectionne des sources puis des articles, auxquels il attribue des mots-clés. Certains proposent même de collaborer à plusieurs sur une même thématique, pour organiser et partager une veille collective.
 

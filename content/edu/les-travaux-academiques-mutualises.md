@@ -10,11 +10,11 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 Le numérique offre de nouveaux chemins pédagogiques. Mais ces voies doivent être explorées avant d’être praticables ! C’est pour cette raison qu’ont été créés les Travaux académiques mutualisés ou TraAM.
 
-– Quelles sont les missions des TraAM ?
+- Quelles sont les missions des TraAM ?
 
-– Où trouver leurs travaux ?
+- Où trouver leurs travaux ?
 
-– Comment participer à un TraAM ?
+- Comment participer à un TraAM ?
 
 C’est ce que nous allons voir dans cette vidéo.
 
@@ -22,15 +22,15 @@ Pilotés par les inspecteurs, les TraAM réunissent des enseignants du premier e
 
 Les thématiques sont nombreuses !
 
-– Développer sa culture numérique.
+- Développer sa culture numérique.
 
-– Personnaliser et individualiser les apprentissages.
+- Personnaliser et individualiser les apprentissages.
 
-– Faire collaborer les élèves.
+- Faire collaborer les élèves.
 
-– Fournir des rétroactions individualisées.
+- Fournir des rétroactions individualisées.
 
-– Transformer les activités menées en classe.
+- Transformer les activités menées en classe.
 
 Ainsi, les TraAM permettent de bénéficier d’un retour d’expérience grâce à des pratiques et des ressources testées en classe.
 

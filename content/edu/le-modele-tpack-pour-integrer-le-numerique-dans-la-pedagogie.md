@@ -12,9 +12,9 @@ Pour choisir un usage approprié du numérique en fonction de l’enjeu pédagog
 
 En complément, il existe un autre modèle pour réfléchir à l’intégration du numérique dans ses cours : le modèle TPaCK.
 
-– Alors, qu’est-ce que le modèle TPaCK ?
+- Alors, qu’est-ce que le modèle TPaCK ?
 
-– Comment questionne-t-il l’équilibre contenus, pédagogie, technologie ?
+- Comment questionne-t-il l’équilibre contenus, pédagogie, technologie ?
 
 C’est ce que nous allons voir dans cette vidéo.
 
@@ -22,11 +22,11 @@ TPaCKest l’acronyme de _Technological Pedagogical and Content Knowledge_. Ce m
 
 Ces connaissances regroupent trois composantes :
 
-– le contenucorrespond aux savoirs disciplinaires. Par exemple : connaître les règles orthographiques ou encore savoir se repérer dans le temps et l’espace en histoire-géographie ;
+- le contenucorrespond aux savoirs disciplinaires. Par exemple : connaître les règles orthographiques ou encore savoir se repérer dans le temps et l’espace en histoire-géographie ;
 
-– la pédagogie est l’ensemble des méthodes permettant de transmettre un savoir et des compétences. Par exemple : utiliser le travail en groupe lorsque nécessaire, faire appel à la ludopédagogie, au tutorat.Ces deux composantes sont indispensables en toutes circonstances.
+- la pédagogie est l’ensemble des méthodes permettant de transmettre un savoir et des compétences. Par exemple : utiliser le travail en groupe lorsque nécessaire, faire appel à la ludopédagogie, au tutorat.Ces deux composantes sont indispensables en toutes circonstances.
 
-– mais l’arrivée du numérique en ajoute une troisième : la technologiequi correspond aux habiletés techniques de l’enseignant, de l’utilisation d’un vidéoprojecteur à la manipulation d’une tablette numérique, jusqu’à la maîtrise d’un logiciel.
+- mais l’arrivée du numérique en ajoute une troisième : la technologiequi correspond aux habiletés techniques de l’enseignant, de l’utilisation d’un vidéoprojecteur à la manipulation d’une tablette numérique, jusqu’à la maîtrise d’un logiciel.
 
 Comment le modèle TPaCK questionne-t-il l’équilibre de ces trois composantes ? Prenons un exemple.
 

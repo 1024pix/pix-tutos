@@ -8,7 +8,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-Lorsqu’un élève utilise des outils en ligne – pour répondre à un quiz ou faire un travail collaboratif – il peut laisser des informations qui permettent de l’identifier. Même s’il utilise un pseudo !
+Lorsqu’un élève utilise des outils en ligne - pour répondre à un quiz ou faire un travail collaboratif - il peut laisser des informations qui permettent de l’identifier. Même s’il utilise un pseudo !
 
 Et oui : les données à caractère personnel en milieu scolaire, ce n’est pas juste le nom et prénom. Et ça ne concerne pas que le numérique !
 

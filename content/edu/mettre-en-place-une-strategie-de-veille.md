@@ -16,13 +16,13 @@ Tout lire, tout voir, être au fait de toutes les innovations, se former sur tou
 
 Pour cela on peut par exemple :
 
-– fixer des créneaux réguliers dans son agenda ;
+- fixer des créneaux réguliers dans son agenda ;
 
-– cibler un sujet et un objectif ;
+- cibler un sujet et un objectif ;
 
-– utiliser des sources de veille incontournables ;
+- utiliser des sources de veille incontournables ;
 
-– utiliser des outils de veille et de curation.
+- utiliser des outils de veille et de curation.
 
 Pour réaliser sa veille pédagogique, on peut utiliser des sources dédiées comme le ministère de l’Éducation nationale, Éduscol, l’Onisep, le site de la DRANE ou divers sites académiques. On peut également aller vers les innombrables ressources du web, comme par exemple le site de l’INA, les sites de musées ou encore de presse.
 

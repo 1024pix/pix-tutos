@@ -14,9 +14,9 @@ Vers qui peut-il se tourner pour que le règlement général sur la protection d
 
 C’est le moment de faire le point sur :
 
-– le cadre du RGPD et notamment le registre de traitement ;
+- le cadre du RGPD et notamment le registre de traitement ;
 
-– ainsi que sur ses acteurs que sont le responsable de traitement et le délégué à la protection des données.
+- ainsi que sur ses acteurs que sont le responsable de traitement et le délégué à la protection des données.
 
 Le registre des traitements retrace les réponses aux questions qu’il faut toujours se poser lorsqu’on utilise un outil numérique : quelles sont les données personnelles qui seront collectées et comment seront-elles utilisées ?
 
@@ -24,15 +24,15 @@ Ce document recense, pour l’établissement, l’ensemble des recueils et trait
 
 Pour chaque outil numérique utilisé, il indique :
 
-– Quelles informations sont fournies par l’utilisateur ? Lesquelles sont collectées directement par l’application elle-même ?
+- Quelles informations sont fournies par l’utilisateur ? Lesquelles sont collectées directement par l’application elle-même ?
 
-– Pour quelles finalités ?
+- Pour quelles finalités ?
 
-– Qui y aura accès ? Où sont-elles stockées ?
+- Qui y aura accès ? Où sont-elles stockées ?
 
-– Pour combien de temps ?
+- Pour combien de temps ?
 
-– Et quelles sont les mesures garantissant leur protection ?
+- Et quelles sont les mesures garantissant leur protection ?
 
 C’est donc dans ce registre, accessible en ligne, que Martin trouve la liste des outils autorisés pour son école…
 
@@ -52,11 +52,11 @@ C’est une question de responsabilité légale : les établissements du secon
 
 Être responsable de traitement permet de disposer d’une vue d’ensemble. Il ou elle :
 
-– analyse et consigne la manière dont les données personnelles sont utilisées dans la structure ;
+- analyse et consigne la manière dont les données personnelles sont utilisées dans la structure ;
 
-– forme les agents et informe les usagers ;
+- forme les agents et informe les usagers ;
 
-– et c’est la seule personne habilitée à contractualiser avec un prestataire de logiciel ou de matériel numérique.
+- et c’est la seule personne habilitée à contractualiser avec un prestataire de logiciel ou de matériel numérique.
 
 Martin va donc s’adresser à son DASEN pour demander cette inscription au registre.
 
