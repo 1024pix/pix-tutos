@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.4.2 (29/08/2023)
+
+
+### :coffee: Autre
+- [#202](https://github.com/1024pix/pix-tutos/pull/202) MàJ transcription vidéo domaine 1 +Edu.
+
 ## v3.4.1 (24/08/2023)
 
 
