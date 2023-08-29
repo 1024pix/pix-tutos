@@ -8,7 +8,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-Le numérique offre de nouveaux chemins pédagogiques. Mais ces voies doivent être explorées avant d'être praticables ! C'est pour cette raison qu'ont été créés les Travaux académiques mutualisés ou TraAM.
+Le numérique offre de nouveaux chemins pédagogiques. Mais ces voies doivent être explorées avant d’être praticables ! C’est pour cette raison qu’ont été créés les Travaux académiques mutualisés ou TraAM.
 
 – Quelles sont les missions des TraAM ?
 
@@ -16,9 +16,9 @@ Le numérique offre de nouveaux chemins pédagogiques. Mais ces voies doivent ê
 
 – Comment participer à un TraAM ?
 
-C'est ce que nous allons voir dans cette vidéo.
+C’est ce que nous allons voir dans cette vidéo.
 
-Pilotés par les inspecteurs, les TraAM réunissent des enseignants du premier et du second degrés, issus de différentes académies, et de toutes les disciplines, en enseignement général, technologique ou professionnel. Ces groupes de travail conçoivent et testent en classe des séquences pédagogiques en lien avec le numérique… puis ils les partagent à l'échelle nationale.
+Pilotés par les inspecteurs, les TraAM réunissent des enseignants du premier et du second degrés, issus de différentes académies, et de toutes les disciplines, en enseignement général, technologique ou professionnel. Ces groupes de travail conçoivent et testent en classe des séquences pédagogiques en lien avec le numérique… puis ils les partagent à l’échelle nationale.
 
 Les thématiques sont nombreuses !
 
@@ -32,18 +32,18 @@ Les thématiques sont nombreuses !
 
 – Transformer les activités menées en classe.
 
-Ainsi, les TraAM permettent de bénéficier d'un retour d'expérience grâce à des pratiques et des ressources testées en classe.
+Ainsi, les TraAM permettent de bénéficier d’un retour d’expérience grâce à des pratiques et des ressources testées en classe.
 
-L'ensemble des productions des TraAM est réuni sur l'ÉduBase nationale qui propose plus de 2 000 scénarios pédagogiques téléchargeables librement.
+L’ensemble des productions des TraAM est réuni sur l’ÉduBase nationale qui propose plus de 2 000 scénarios pédagogiques téléchargeables librement.
 
-Mais les TraAM ne proposent pas seulement des séquences pédagogiques : ils sont accompagnés par des parcours de formation. Ce sont des modules de deux heures qui permettent de développer sa culture numérique autour des thèmes travaillés, comme l'intelligence artificielle au service de l'enseignement.
+Mais les TraAM ne proposent pas seulement des séquences pédagogiques : ils sont accompagnés par des parcours de formation. Ce sont des modules de deux heures qui permettent de développer sa culture numérique autour des thèmes travaillés, comme l’intelligence artificielle au service de l’enseignement.
 
-Si vous souhaitez partager les usages du numérique dans votre discipline et inspirer d'autres enseignants à la faveur de votre expérience, vous pouvez participer aux TraAM ! Pour cela, consultez les thèmes de l'année en cours sur la page Éduscol TraAM. Puis, contactez votre interlocuteur académique qui fera le lien avec votre inspecteur. Les propositions sélectionnées seront proposées au niveau national _via_ votre DANE (Délégation académique au numérique éducatif).
+Si vous souhaitez partager les usages du numérique dans votre discipline et inspirer d’autres enseignants à la faveur de votre expérience, vous pouvez participer aux TraAM ! Pour cela, consultez les thèmes de l’année en cours sur la page Éduscol TraAM. Puis, contactez votre interlocuteur académique qui fera le lien avec votre inspecteur. Les propositions sélectionnées seront proposées au niveau national _via_ votre DANE (Délégation académique au numérique éducatif).
 
 Les travaux académiques mutualisés vous accompagnent pour développer vos usages
  et maîtriser les outils numériques.
 
-Face aux champs de connaissance à défricher, c'est en mettant en commun nos expériences que nous pourrons mieux les explorer.
+Face aux champs de connaissance à défricher, c’est en mettant en commun nos expériences que nous pourrons mieux les explorer.
 
 ## Crédits
 
