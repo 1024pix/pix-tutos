@@ -8,8 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-# Identifier des sources de veille incontournables
-
 Réforme des programmes, nouvelles recherches en neurosciences, différenciation, inclusion... Il peut être déroutant et chronophage de chercher des informations sur tous ces sujets, pourtant essentiels. Et si l’information venait à vous ? Avec une bonne stratégie et des sources pertinentes, on peut rester informé sans y passer trop de temps. C’est ce que l’on appelle la veille informationnelle.
 
 Quelles sont les sources incontournables en éducation du point de vue

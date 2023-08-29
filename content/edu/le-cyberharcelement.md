@@ -8,8 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-# EP18\_Le cyberharcèlement
-
 Derrière son écran, on surfe d’un site à l’autre, on partage des photos avec ses amis, on échange sur des réseaux sociaux… Si le web est un formidable espace de communication, celle-ci n’est pas toujours bienveillante malheureusement.
 
 - Qu’appelle-t-on cyberharcèlement ?

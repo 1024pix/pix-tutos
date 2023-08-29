@@ -8,8 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-# Communiquer par voie numérique auprès de la communauté éducative
-
 Messagerie de l’ENT, de Pronote, cahier de texte, webmail de l’académie, réseaux sociaux... Qu’il s’adresse à l’administration, à l’académie, à ses collègues, ses élèves, ou même aux parents d’élèves, chaque enseignant dispose de nombreux outils pour communiquer. Face à tous ces canaux de communication, c’est parfois difficile de s’y retrouver…
 
 Quel canal choisir en fonction de ses interlocuteurs ?

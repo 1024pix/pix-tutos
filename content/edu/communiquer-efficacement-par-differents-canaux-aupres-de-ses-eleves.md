@@ -8,8 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-# Communiquer efficacement par différents canaux auprès de ses élèves
-
 Mail académique, messagerie ENT, cahier de textes en ligne, réseaux sociaux, blog, forum… on peut se sentir un peu perdu devant la multiplication des canaux de communication ! Pour communiquer avec ses élèves, un enseignant dispose de plusieurs canaux. Selon les objectifs, comment choisir le canal le plus adapté pour communiquer avec ses élèves ? Quelles sont les règles de communication à respecter ? C’est ce que nous allons voir dans cette vidéo.
 
 Beaucoup d’établissements scolaires sont équipés d’un Environnement numérique de travail, dit ENT. L’application de messagerie ou le logiciel de vie scolaire qui y sont intégrés, sont particulièrement adaptée pour communiquer avec les élèves. Pourquoi ?
