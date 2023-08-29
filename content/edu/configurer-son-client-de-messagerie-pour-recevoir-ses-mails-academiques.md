@@ -46,7 +46,7 @@ L’adresse SMTP est généralement de la forme smtp.ac-(le nom de l’académie
 
 L’identifiant du serveur sortant est le même que celui du serveur entrant.
 
-Cliquez sur « Terminer ». Bavo ! Le client de messagerie est maintenant configuré !
+Cliquez sur « Terminer ». Bravo ! Le client de messagerie est maintenant configuré !
 
 Vous pouvez maintenant basculer d’une boîte mail à l’autre en toute simplicité !
 
