@@ -4,7 +4,7 @@ import { beforeEach, describe, expect, it } from 'vitest'
 import parseMarkdownMetadata from '../../services/parse-markdown'
 
 describe('Verification du contenu dans le dossier `content/mednum`', () => {
-  const contentPath = path.join(__dirname, '../../content/mednum')
+  const contentPath = path.join(__dirname, '../../content/mednum/pdf')
   const dirContent = fs.readdirSync(contentPath)
 
   dirContent.forEach((file) => {
@@ -52,21 +52,12 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
         }
       })
 
-      it('doit avoir un champ `videoEmbedSrc`', () => {
+      it('doit avoir un champ `sourcePdf`', () => {
         try {
-          expect(tutoFileMetadata.videoEmbedSrc).toBeDefined()
+          expect(tutoFileMetadata.sourcePdf).toBeDefined()
         }
         catch {
-          throw new Error('Le champ "videoEmbedSrc" est obligatoire.')
-        }
-      })
-
-      it('doit avoir un champ `captionFilePath`', () => {
-        try {
-          expect(tutoFileMetadata.captionFilePath).toBeDefined()
-        }
-        catch {
-          throw new Error('Le champ "captionFilePath" est obligatoire.')
+          throw new Error('Le champ "sourcePdf" est obligatoire.')
         }
       })
 
@@ -74,8 +65,7 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
         const acceptedFields = [
           'title',
           'description',
-          'videoEmbedSrc',
-          'captionFilePath',
+          'sourcePdf',
         ]
         try {
           expect(acceptedFields).toEqual(
@@ -89,31 +79,16 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
         }
       })
 
-      it('le champ `videoEmbedSrc` doit avoir un format précis', () => {
+      it('le champ `sourcePdf` doit avoir un format précis', () => {
         try {
-          expect(tutoFileMetadata.videoEmbedSrc).toMatch(
-            /^https:\/\/videos\.pix\.fr\/tutos\/mednum\/(\w|-)+\.mp4$/,
+          expect(tutoFileMetadata.sourcePdf).toMatch(
+            /^\/pdf\/mednum\/(\w|-)+\.pdf$/,
           )
         }
         catch {
           throw new Error(
-            `Le format du lien "videoEmbedSrc" est invalide (format attendu : "https://videos.pix.fr/tutos/mednum/{ID_VIDEO}.mp4", valeur reçue : "${
-              tutoFileMetadata.videoEmbedSrc ?? ''
-            }")`,
-          )
-        }
-      })
-
-      it('le champ `captionFilePath` doit avoir un format précis', () => {
-        try {
-          expect(tutoFileMetadata.captionFilePath).toMatch(
-            /^\/captions\/mednum\/(\w|-)+\.vtt$/,
-          )
-        }
-        catch {
-          throw new Error(
-          `Le format du lien "captionFilePath" est invalide (format attendu : "/captions/mednum/{ID_VIDEO}.vtt", valeur reçue : "${
-            tutoFileMetadata.captionFilePath ?? ''
+          `Le format du lien "sourcePdf" est invalide (format attendu : "/pdf/mednum/{PDF_FILE_NAME}.pdf", valeur reçue : "${
+            tutoFileMetadata.sourcePdf ?? ''
           }")`,
           )
         }

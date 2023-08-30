@@ -38,12 +38,14 @@ function downloadTranscript() {
       :description="page.description || ''"
     >
       <PixVideoPlayer
+        v-if="page.videoEmbedSrc"
         :id="slug"
         :source-mp4="page.videoEmbedSrc"
         :caption-vtt="page.captionFilePath"
       />
 
       <ul
+        v-if="page.videoEmbedSrc"
         class="tuto__actions"
       >
         <li
@@ -69,7 +71,12 @@ function downloadTranscript() {
           </PixButton>
         </li>
       </ul>
-    </PixTutorial>
+      <PixPdf
+        v-if="page.sourcePdf"
+        :id="slug"
+        :source-pdf="page.sourcePdf"
+      />
+</PixTutorial>
   </article>
 </template>
 
