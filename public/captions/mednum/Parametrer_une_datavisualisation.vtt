@@ -1,0 +1,244 @@
+WEBVTT FILE
+
+1
+00:00:05.360 --> 00:00:09.220
+Comment paramétrer
+une datavisualisation ?
+
+2
+00:00:09.250 --> 00:00:13.180
+Avez vous déjà entendu ce dicton
+Une image vaut 1000 mots.
+
+3
+00:00:13.210 --> 00:00:15.160
+Elle signifie qu'une représentation
+
+4
+00:00:15.190 --> 00:00:19.260
+visuelle est souvent plus facile
+à lire et à comprendre que du texte.
+
+5
+00:00:19.290 --> 00:00:21.060
+Dans le domaine de la datascience.
+
+6
+00:00:21.080 --> 00:00:24.980
+On utilise des datavisualisation
+pour traduire des données en visuel,
+
+7
+00:00:25.010 --> 00:00:29.880
+ce qui permet de les appréhender et les
+analyser plus facilement sur nos écrans.
+
+8
+00:00:29.900 --> 00:00:33.200
+Les datavisualisation ne sont
+pas toujours des images figées.
+
+9
+00:00:33.230 --> 00:00:34.980
+Elles peuvent être dynamiques.
+
+10
+00:00:35.000 --> 00:00:36.260
+Le plus souvent,
+
+11
+00:00:36.280 --> 00:00:39.380
+elles le sont lorsqu'il y a une grande
+quantité de données à traiter.
+
+12
+00:00:39.410 --> 00:00:43.880
+Je peux alors agir sur la visualisation,
+c'est à dire définir les bons paramètres
+
+13
+00:00:43.910 --> 00:00:46.980
+sur l'interface pour obtenir
+l'information que je cherche.
+
+14
+00:00:47.010 --> 00:00:49.560
+Prenons un exemple pour
+un projet de recherche.
+
+15
+00:00:49.560 --> 00:00:51.560
+Je souhaite connaître les principaux plats
+
+16
+00:00:51.590 --> 00:00:55.760
+cuisinés avec des ingrédients issus
+de l'agriculture biologique et servis
+
+17
+00:00:55.790 --> 00:00:58.580
+dans les cantines de la ville
+de Bordeaux en 2022.
+
+18
+00:00:58.610 --> 00:01:01.140
+Grâce à cette data visualisation,
+
+19
+00:01:01.170 --> 00:01:04.490
+je vais pouvoir y parvenir
+sur le tableau de bord.
+
+20
+00:01:04.520 --> 00:01:06.540
+Voici ce que je peux paramétrer.
+
+21
+00:01:06.570 --> 00:01:10.770
+Je peux filtrer les données
+en sélectionnant un ou plusieurs filtres.
+
+22
+00:01:10.800 --> 00:01:12.440
+Je fais le choix d'afficher certaines
+
+23
+00:01:12.470 --> 00:01:15.380
+données et de masquer
+temporairement toutes les autres.
+
+24
+00:01:15.410 --> 00:01:20.770
+Je sélectionne donc les critères
+Agriculture biologique et 2022.
+
+25
+00:01:20.800 --> 00:01:24.460
+Ensuite, je peux modifier
+les axes X ou Y du graphique.
+
+26
+00:01:24.480 --> 00:01:26.240
+Je peux choisir quelles données sont
+
+27
+00:01:26.270 --> 00:01:29.820
+à mettre en relation sur les axes
+verticaux et horizontaux,
+
+28
+00:01:29.850 --> 00:01:34.180
+voire sur certaines datavisualisations,
+changer leur échelle de valeur.
+
+29
+00:01:34.210 --> 00:01:37.160
+Ici je sélectionne les plats en abscisse
+
+30
+00:01:37.190 --> 00:01:41.620
+et nombre en ordonnée, et enfin
+je peux modifier la forme graphique.
+
+31
+00:01:41.650 --> 00:01:45.570
+Je choisis le type de graphique en
+fonction de l'information à visualiser.
+
+32
+00:01:45.600 --> 00:01:47.800
+Le graphique en courbes, à barres
+
+33
+00:01:47.800 --> 00:01:50.880
+et les histogrammes représentent
+des changements dans le temps.
+
+34
+00:01:50.880 --> 00:01:52.160
+Quand les graphiques en pyramide
+
+35
+00:01:52.160 --> 00:01:54.660
+ou en secteur représentent
+plutôt les parties d'un tout.
+
+36
+00:01:54.690 --> 00:01:58.460
+Pour une comparaison de valeurs,
+j'essaie le camembert et l'histogramme,
+
+37
+00:01:58.490 --> 00:02:02.780
+mais celui qui va me permettre de voir
+très rapidement la réponse est le treemap.
+
+38
+00:02:02.810 --> 00:02:04.420
+Trois points importants.
+
+39
+00:02:04.450 --> 00:02:06.720
+Premièrement, une datavisualisation
+
+40
+00:02:06.750 --> 00:02:10.730
+dynamique permet de traiter les données
+de manière plus approfondie.
+
+41
+00:02:10.760 --> 00:02:12.820
+Les fonctionnalités interactives
+
+42
+00:02:12.850 --> 00:02:17.730
+permettent de filtrer, trier
+et analyser les données en temps réel.
+
+43
+00:02:17.760 --> 00:02:19.640
+Cela peut être très utile pour chercher
+
+44
+00:02:19.670 --> 00:02:22.450
+des informations
+et démontrer des résultats.
+
+45
+00:02:22.480 --> 00:02:24.400
+Deuxièmement, je dois définir quelles
+
+46
+00:02:24.430 --> 00:02:28.220
+informations je souhaite obtenir
+par la visualisation de données,
+
+47
+00:02:28.250 --> 00:02:31.380
+les données à filtrer,
+le type de représentation graphique.
+
+48
+00:02:31.410 --> 00:02:35.730
+Tous mes choix de paramétrage se feront
+en fonction de ce que je cherche.
+
+49
+00:02:35.760 --> 00:02:36.600
+Troisièmement,
+
+50
+00:02:36.630 --> 00:02:41.980
+paramétrer une visualisation nécessite
+de chercher, de tester, d'explorer.
+
+51
+00:02:42.010 --> 00:02:46.300
+Les paramètres proposés seront différents
+d'une data visualisation à une autre.
+
+52
+00:02:46.330 --> 00:02:51.240
+Je dois donc être en capacité de m'adapter
+aux diverses interfaces de paramétrage.
+

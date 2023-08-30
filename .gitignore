@@ -13,3 +13,4 @@ nginx.conf
 /test-results/
 /playwright-report/
 /playwright/.cache/
+**/*.srt
