@@ -29,6 +29,10 @@ useHead({
     },
   ],
 })
+
+function downloadTranscript() {
+  window.print()
+}
 </script>
 
 <template>
@@ -37,8 +41,60 @@ useHead({
       :page="page"
       :title="page.title"
       :description="page.description"
-      :video-embed-src="videoEmbedSrc"
-      :video-download-href="page.videoDownloadHref"
-    />
+    >
+      <iframe
+        class="tuto__video"
+        :src="videoEmbedSrc"
+        allowfullscreen
+      />
+
+      <ul
+        class="tuto__actions"
+      >
+        <li
+          v-if="page.videoDownloadHref"
+          class="tuto-actions__item"
+        >
+          <PixButtonLink
+            id="download-video"
+            :href="page.videoDownloadHref"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Télécharger la video
+          </PixButtonLink>
+        </li>
+        <li
+          class="tuto-actions__item"
+        >
+          <PixButton
+            id="download-transcript"
+            :action="downloadTranscript"
+          >
+            Télécharger la transcription
+          </PixButton>
+        </li>
+      </ul>
+    </PixTutorial>
   </article>
 </template>
+
+<style lang="scss">
+.tuto {
+  &__video {
+    width: 100%;
+    max-height: 95vmin;
+    aspect-ratio: 16/9;
+    margin: 2rem 0 1rem;
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap: 1rem;
+    padding: 0;
+    margin: 0 0 2rem;
+  }
+}
+</style>
