@@ -8,8 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-# Le site Cap école inclusive
-
 Lorsqu’on accueille dans sa classe un élève à besoins éducatifs particuliers, il existe des outils simples et des ressources validées par la recherche pour adapter son enseignement à tous.
 
 L’année scolaire commence, Mathieu est professeur d’histoire. Dans son cours il accueille Tristan, accompagné de Françoise, son AESH.
