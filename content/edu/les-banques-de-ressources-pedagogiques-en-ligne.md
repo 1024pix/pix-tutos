@@ -8,7 +8,7 @@ videoDownloadHref:
 
 ## Transcription
 
-En complément des manuels scolaires qui proposent une progression et des documents d’appui, 
+En complément des manuels scolaires qui proposent une progression et des documents d’appui,
 
 Aurélie, professeure d’histoire-géographie en collège, recherche régulièrement des contenus sur Internet pour enrichir ses supports de cours.
 

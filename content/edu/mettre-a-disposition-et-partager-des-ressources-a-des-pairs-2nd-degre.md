@@ -60,7 +60,6 @@ Elle s’inscrit ainsi dans la philosophie des ressources éducatives libres, pe
 
 Et voilà ! Sofia est maintenant prête à partager en toute sérénité !
 
-
 ## Crédits
 
 - **Scénario** : Mélinée Chanard, Caroline Guédan

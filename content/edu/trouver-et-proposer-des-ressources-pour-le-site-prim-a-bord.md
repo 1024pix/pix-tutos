@@ -63,7 +63,6 @@ Prim à bord est un point d’entrée unique pour le numérique éducatif du pre
 
 Embarquez le numérique avec Prim à bord !
 
-
 ## Crédits
 
 - **Scénario** : Aurélie Chauvet, Loïc Nataf, Christophe Metzger

@@ -62,10 +62,9 @@ Les élèves n’ont pas à se couper du numérique. Une identité numérique es
 
 Contrairement à de nombreux stéréotypes, la plupart des élèves prennent très au sérieux les questions de vie privée et d’identité numérique. Mais ils souhaitent aussi exister et interagir sur des espaces publics en ligne. C’est aux adultes de les accompagner pour que cette identité numérique soit choisie et non subie.
 
-
 ## **Crédits**
 
--  **Scénario** : Kimi Do, Théodore Laugée, Fabrice Legros
+- **Scénario** : Kimi Do, Théodore Laugée, Fabrice Legros
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix

@@ -62,7 +62,6 @@ Alors, prêt à réaliser votre premier montage ?
 
 Action !
 
-
 ## Crédits
 
 - **Scénario** : Mélinée Chanard, Rémy Massé, Jean-Noël Vogrig, Pierre-Olivier Pilon

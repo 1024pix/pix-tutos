@@ -14,9 +14,9 @@ Des évaluations régulières et variées permettent de mesurer si les compéten
 
 Le recours aux quiz numériques en ligne permet d’élargir le champ des possibles.
 
-- Mais quand et comment utiliser ces quiz ? 
+- Mais quand et comment utiliser ces quiz ?
 
-- Quels sont les avantages d’un quiz en ligne ? 
+- Quels sont les avantages d’un quiz en ligne ?
 
 C’est ce que nous allons voir dans cette vidéo.
 
@@ -67,7 +67,6 @@ En permettant à l’élève d’évaluer régulièrement ses progrès, les quiz
 Même si la prise en main sera spécifique d’un outil à l’autre, vous trouverez dans chacun d’entre eux les mêmes fonctionnalités de base, vous permettant de mettre en œuvre tous les types d’évaluation utiles pour votre enseignement.
 
 Alors, lancez-vous !
-
 
 ## Crédits
 

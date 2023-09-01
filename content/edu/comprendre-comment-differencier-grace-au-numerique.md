@@ -69,7 +69,6 @@ De plus, Camille organise l’espace de sa classe pour permettre à ses élèves
 Ainsi, les outils numériques aident Camille à différencier les activités pendant le temps de classe et prolongent les possibilités en dehors de la classe.  Mais le professeur ne doit jamais oublier de guider les élèves afin de les aider à sélectionner les bonnes informations
  et faciliter leur apprentissage.
 
-
 ## Crédits
 
 - **Scénario** : Mélinée Chanard, Kimi Do, Cécile Taillandier, Béatrice Pérelade

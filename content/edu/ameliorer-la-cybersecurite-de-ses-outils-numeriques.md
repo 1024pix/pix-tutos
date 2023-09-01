@@ -59,7 +59,6 @@ Nouveaux outils, nouvelles pratiques : la cybersécurité évolue et s’adapt
 
 Alors, restons vigilants !
 
-
 ## Crédits
 
 - **Scénario**  : Théodore Laugée, Bertrand Raineau, Jean-Christophe Olivier, Rita Bedran
