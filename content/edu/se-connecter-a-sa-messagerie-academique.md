@@ -24,7 +24,7 @@ En cas d’homonymie, de prénoms composés ou de noms d’usage différents, il
 
 Si vous avez un doute sur votre adresse, n’hésitez pas à contacter la plateforme d’assistance informatique de votre académie.
 
-L’adresse internet des webmails académiques est généralement sous le format : <https://webmail.ac-(nom> de l’académie).fr.
+L’adresse internet des webmails académiques est généralement sous le format : <https://webmail.ac-(nom-de-l'acadamie).fr>.
 
 Pour trouver l’url de chaque académie, on peut passer par la page du site du ministère ou effectuer une simple recherche sur Internet, "webmail académie de Lille" par exemple.
 
