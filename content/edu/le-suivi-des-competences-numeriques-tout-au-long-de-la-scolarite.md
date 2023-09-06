@@ -51,8 +51,9 @@ Les compétences numériques des élèves peuvent donc être développées et su
 
 Des savoirs et des savoir-faireindispensables pour l’avenir de tous les élèves !
 
-## Crédits
-- **Scénario** : Kimi Do, Leinna Berradia
+## **Crédits**
+
+- **Scénario** : Mathias Perrette, Jean-Noël Vogrig, Gwenola Dubois, Bertrand Raineau
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
