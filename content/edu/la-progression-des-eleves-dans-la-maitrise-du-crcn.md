@@ -53,7 +53,7 @@ Voilà ! Le CRCN fournit des repères pour proposer une progression adaptée aux
 
 ## Crédits
 
-- **Scénario** : Kimi Do, Leinna Berradia
+- **Scénario** : Mélinée Chanard, Farah Guillot
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
