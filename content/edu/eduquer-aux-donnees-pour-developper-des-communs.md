@@ -94,7 +94,7 @@ Plus que jamais, il est donc nécessaire de développer et de transmettre aux é
 
 ## Crédits
 
-- **Scénario** : Kimi Do, Leinna Berradia
+- **Scénario** : Kimi Do, Théodore Laugée, Virginie Esparel-Rousseau, Joanna Marques, Julia Dumont
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
