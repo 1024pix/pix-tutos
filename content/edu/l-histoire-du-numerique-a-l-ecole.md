@@ -62,7 +62,7 @@ Ainsi, le numérique à l’école a beaucoup évolué depuis ses débuts. Il a 
 L’ambition est désormais de permettre à chacun de participer de façon active et responsable à la vie citoyenne.
 
 ## Crédits
-- **Scénario** : Kimi Do, Leinna Berradia
+- **Scénario** : Nicolas Sedel, Samuel Chalifour, Nathalie Herr
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
