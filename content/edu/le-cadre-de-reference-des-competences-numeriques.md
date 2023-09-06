@@ -2,7 +2,7 @@
 area: Domaine 5
 title: Le Cadre de référence des compétences numériques (CRCN)
 description: Inspiré du cadre européen DigComp, le Cadre de référence des compétences numériques (CRCN) structure les savoirs et savoir-faire relatifs au numérique pour aider les enseignants et leurs élèves au développement de ces compétences dans le cadre scolaire. Prêt à en savoir encore plus sur le CRCN ?
-videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/1d82b613–ee83-4b08-895d-61a10aa8ecdb
+videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/1d82b613-ee83-4b08-895d-61a10aa8ecdb
 videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/1d82b613-ee83-4b08-895d-61a10aa8ecdb-1080-fragmented.mp4
 ---
 
@@ -25,7 +25,7 @@ Alors :
 C’est ce que nous allons voir dans cette vidéo.
 
 Le CRCN comporte seize compétences qui sont classées en cinq grands domaines.
- Chaque compétence comporte huit niveaux, allant de la simple maîtrise à l’expertise.
+Chaque compétence comporte huit niveaux, allant de la simple maîtrise à l’expertise.
 
 Le premier domaine s’intitule information et données. Il concerne la recherche et la veille informationnelle ainsi que la gestion et le traitement des données. Il s’agit, par exemple, des compétences que Léa acquiert lorsqu’elle utilise Internet pour chercher des informations sur les baleines afin de préparer un exposé.
 
@@ -49,10 +49,10 @@ Au gré des évolutions du numérique, ce référentiel devra bien sûr s’adap
 
 ## **Crédits**
 
-- **Scénario** : Kimi Do, Leinna Berradia
+- **Scénario** : Adeline Bénezet, Julien Perrot
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
 - **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
-  
- Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse
+
+Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse
