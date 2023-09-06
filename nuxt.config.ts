@@ -1,28 +1,29 @@
-import isSeoIndexingEnabled from './services/is-seo-indexing-enabled';
+import isSeoIndexingEnabled from './services/is-seo-indexing-enabled'
 import { config } from './config/environment'
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
-const script = [];
+const script = []
 if (config.matomo.containerUrl) {
   script.push(
-      {
-        type: 'text/javascript',
-        src: config.matomo.containerUrl,
-        async: true,
-        defer: true,
-      },
-      {
-        type: 'text/javascript',
-        src: '/scripts/start-matomo-event.js',
-        'data-matomo-debug-mode': config.matomo.debug,
-      }
-  );
+    {
+      type: 'text/javascript',
+      src: config.matomo.containerUrl,
+      async: true,
+      defer: true,
+    },
+    {
+      'type': 'text/javascript',
+      'src': '/scripts/start-matomo-event.js',
+      'data-matomo-debug-mode': config.matomo.debug,
+    },
+  )
 }
 
 export default defineNuxtConfig({
   modules: ['@nuxt/content'],
 
-  css: ['~/assets/scss/globals.scss'],
+  css: ['~/assets/scss/globals.scss', 'plyr/dist/plyr.css'],
 
   app: {
     head: {
@@ -63,4 +64,4 @@ export default defineNuxtConfig({
       anchorLinks: false,
     },
   },
-});
+})

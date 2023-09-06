@@ -12,19 +12,7 @@ defineProps({
     type: String,
     required: true,
   },
-  videoEmbedSrc: {
-    type: String,
-    required: true,
-  },
-  videoDownloadHref: {
-    type: String,
-    default: null,
-  },
 })
-
-function downloadTranscript() {
-  window.print()
-}
 </script>
 
 <template>
@@ -36,39 +24,7 @@ function downloadTranscript() {
       {{ description }}
     </p>
 
-    <iframe
-      class="tuto__video"
-      :src="videoEmbedSrc"
-      allowfullscreen
-    />
-
-    <ul
-      class="tuto__actions"
-    >
-      <li
-        v-if="videoDownloadHref"
-        class="tuto-actions__item"
-      >
-        <PixButtonLink
-          id="download-video"
-          :href="videoDownloadHref"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Télécharger la video
-        </PixButtonLink>
-      </li>
-      <li
-        class="tuto-actions__item"
-      >
-        <PixButton
-          id="download-transcript"
-          :action="downloadTranscript"
-        >
-          Télécharger la transcription
-        </PixButton>
-      </li>
-    </ul>
+    <slot />
 
     <ContentDoc :value="page">
       <template #empty />
@@ -81,22 +37,6 @@ function downloadTranscript() {
   .tuto__description {
     margin: 1rem 0 0;
     color: $pix-neutral-50;
-  }
-
-  &__video {
-    width: 100%;
-    max-height: 95vmin;
-    aspect-ratio: 16/9;
-    margin: 2rem 0 1rem;
-  }
-
-  &__actions {
-    display: flex;
-    flex-wrap: wrap;
-    list-style-type: none;
-    gap: 1rem;
-    padding: 0;
-    margin: 0 0 2rem;
   }
 }
 

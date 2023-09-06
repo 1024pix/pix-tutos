@@ -1,18 +1,13 @@
 <script setup>
-import { computed, ref } from 'vue'
-import customizeEmbedVideo from '~/services/customizing-embed-video'
+import { ref } from 'vue'
 
 definePageMeta({ layout: 'edu' })
 
 const page = ref(null)
 
-const videoEmbedSrc = computed(() => {
-  return customizeEmbedVideo(page.value.videoEmbedSrc)
-})
-
 const slug = useRoute().params.slug || 'index'
 
-page.value = await queryContent(`/edu/${slug}`)
+page.value = await queryContent(`/mednum/${slug}`)
   .findOne()
   .catch((err) => {
     console.error(err)
@@ -40,24 +35,23 @@ function downloadTranscript() {
     <PixTutorial
       :page="page"
       :title="page.title"
-      :description="page.description"
+      :description="page.description || ''"
     >
-      <iframe
-        class="tuto__video"
-        :src="videoEmbedSrc"
-        allowfullscreen
+      <PixVideoPlayer
+        :id="slug"
+        :source-mp4="page.videoEmbedSrc"
+        :caption-vtt="page.captionFilePath"
       />
 
       <ul
         class="tuto__actions"
       >
         <li
-          v-if="page.videoDownloadHref"
           class="tuto-actions__item"
         >
           <PixButtonLink
             id="download-video"
-            :href="page.videoDownloadHref"
+            :href="page.videoEmbedSrc"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -80,15 +74,11 @@ function downloadTranscript() {
 </template>
 
 <style lang="scss">
-.tuto {
-  &__video {
-    width: 100%;
-    max-height: 95vmin;
-    aspect-ratio: 16/9;
-    margin: 2rem 0 1rem;
-  }
+.plyr {
+  margin: 2rem 0 1rem;
+}
 
-  &__actions {
+.tuto__actions {
     display: flex;
     flex-wrap: wrap;
     list-style-type: none;
@@ -96,5 +86,4 @@ function downloadTranscript() {
     padding: 0;
     margin: 0 0 2rem;
   }
-}
 </style>

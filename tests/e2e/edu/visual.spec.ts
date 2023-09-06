@@ -1,6 +1,6 @@
 import { expect, test } from '@playwright/test'
 
-test.describe('content', () => {
+test.describe('#edu content', () => {
   test('should show correctly', async ({ page }) => {
     // given
     const pageToVisit = '/edu'
