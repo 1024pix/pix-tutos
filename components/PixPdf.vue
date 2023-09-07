@@ -4,7 +4,7 @@ defineProps({
     type: String,
     required: true,
   },
-  sourcePdf: {
+  pdfFilePath: {
     type: String,
     required: true,
   },
@@ -17,12 +17,12 @@ defineProps({
       class="pdf__actions"
     >
       <li
-        v-if="sourcePdf"
+        v-if="pdfFilePath"
         class="pdf-actions__item"
       >
         <PixButtonLink
           id="download-pdf"
-          :href="sourcePdf"
+          :href="pdfFilePath"
           target="_blank"
           rel="noopener noreferrer"
         >

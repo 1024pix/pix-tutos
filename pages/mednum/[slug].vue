@@ -72,9 +72,9 @@ function downloadTranscript() {
         </li>
       </ul>
       <PixPdf
-        v-if="page.sourcePdf"
+        v-if="page.pdfFilePath"
         :id="slug"
-        :source-pdf="page.sourcePdf"
+        :pdf-file-path="page.pdfFilePath"
       />
 </PixTutorial>
   </article>

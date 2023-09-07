@@ -87,7 +87,7 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
           'title',
           'description',
           'fileType',
-          'sourcePdf',
+          'pdfFilePath',
         ]
         try {
           if (tutoFileMetadata.fileType === 'VIDEO') {
@@ -144,31 +144,31 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
         }
       })
 
-      it('doit avoir un champ `sourcePdf` si fileType est PDF', () => {
+      it('doit avoir un champ `pdfFilePath` si fileType est PDF', () => {
         try {
           if (tutoFileMetadata.fileType === 'PDF')
-            expect(tutoFileMetadata.sourcePdf).toBeDefined()
+            expect(tutoFileMetadata.pdfFilePath).toBeDefined()
 
-          else expect(tutoFileMetadata.sourcePdf).not.toBeDefined()
+          else expect(tutoFileMetadata.pdfFilePath).not.toBeDefined()
         }
         catch {
-          throw new Error('Le champ "sourcePdf" est obligatoire.')
+          throw new Error('Le champ "pdfFilePath" est obligatoire.')
         }
       })
 
-      it('le champ `sourcePdf` doit avoir un format précis si filetype est PDF', () => {
+      it('le champ `pdfFilePath` doit avoir un format précis si filetype est PDF', () => {
         try {
           if (tutoFileMetadata.fileType === 'PDF') {
-            expect(tutoFileMetadata.sourcePdf).toMatch(
+            expect(tutoFileMetadata.pdfFilePath).toMatch(
               /^\/pdf\/mednum\/(\w|-)+\.pdf$/,
             )
           }
-          else { expect(tutoFileMetadata.sourcePdf).not.toBeDefined() }
+          else { expect(tutoFileMetadata.pdfFilePath).not.toBeDefined() }
         }
         catch {
           throw new Error(
-              `Le format du lien "sourcePdf" est invalide (format attendu : "/pdf/mednum/{PDF_FILE_NAME}.pdf", valeur reçue : "${
-                  tutoFileMetadata.sourcePdf ?? ''
+              `Le format du lien "pdfFilePath" est invalide (format attendu : "/pdf/mednum/{PDF_FILE_NAME}.pdf", valeur reçue : "${
+                  tutoFileMetadata.pdfFilePath ?? ''
               }")`,
           )
         }
