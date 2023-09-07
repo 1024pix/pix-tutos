@@ -52,18 +52,22 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
         }
       })
 
-      it('doit avoir un champ `videoEmbedSrc`', () => {
+      it('doit avoir un champ `videoEmbedSrc` si fileType est VIDEO', () => {
         try {
-          expect(tutoFileMetadata.videoEmbedSrc).toBeDefined()
+          if (tutoFileMetadata.fileType === 'VIDEO')
+            expect(tutoFileMetadata.videoEmbedSrc).toBeDefined()
+          else expect(tutoFileMetadata.videoEmbedSrc).not.toBeDefined()
         }
         catch {
           throw new Error('Le champ "videoEmbedSrc" est obligatoire.')
         }
       })
 
-      it('doit avoir un champ `captionFilePath`', () => {
+      it('doit avoir un champ `captionFilePath` si fileType est VIDEO', () => {
         try {
-          expect(tutoFileMetadata.captionFilePath).toBeDefined()
+          if (tutoFileMetadata.fileType === 'VIDEO')
+            expect(tutoFileMetadata.captionFilePath).toBeDefined()
+          else expect(tutoFileMetadata.captionFilePath).not.toBeDefined()
         }
         catch {
           throw new Error('Le champ "captionFilePath" est obligatoire.')
@@ -71,29 +75,47 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
       })
 
       it('ne doit pas contenir des champs inconnus', () => {
-        const acceptedFields = [
+        const acceptedFieldsVideo = [
           'title',
           'description',
+          'fileType',
           'videoEmbedSrc',
           'captionFilePath',
         ]
+
+        const acceptedFieldsPdf = [
+          'title',
+          'description',
+          'fileType',
+          'pdfFilePath',
+        ]
         try {
-          expect(acceptedFields).toEqual(
-            expect.arrayContaining(Object.keys(tutoFileMetadata)),
-          )
+          if (tutoFileMetadata.fileType === 'VIDEO') {
+            expect(acceptedFieldsVideo).toEqual(
+              expect.arrayContaining(Object.keys(tutoFileMetadata)),
+            )
+          }
+          else {
+            expect(acceptedFieldsPdf).toEqual(
+              expect.arrayContaining(Object.keys(tutoFileMetadata)),
+            )
+          }
         }
         catch {
           throw new Error(
-            `Des champs inconnus sont présents. Champs attendus : ${acceptedFields}.`,
+              `Des champs inconnus sont présents. Champs attendus : ${acceptedFieldsVideo}.`,
           )
         }
       })
 
-      it('le champ `videoEmbedSrc` doit avoir un format précis', () => {
+      it('le champ `videoEmbedSrc` doit avoir un format précis pour les fileType VIDEO', () => {
         try {
-          expect(tutoFileMetadata.videoEmbedSrc).toMatch(
-            /^https:\/\/videos\.pix\.fr\/tutos\/mednum\/(\w|-)+\.mp4$/,
-          )
+          if (tutoFileMetadata.fileType === 'VIDEO') {
+            expect(tutoFileMetadata.videoEmbedSrc).toMatch(
+              /^https:\/\/videos\.pix\.fr\/tutos\/mednum\/(\w|-)+\.mp4$/,
+            )
+          }
+          else { expect(tutoFileMetadata.videoEmbedSrc).not.toBeDefined() }
         }
         catch {
           throw new Error(
@@ -104,17 +126,50 @@ describe('Verification du contenu dans le dossier `content/mednum`', () => {
         }
       })
 
-      it('le champ `captionFilePath` doit avoir un format précis', () => {
+      it('le champ `captionFilePath` doit avoir un format précis pour les fileType VIDEO', () => {
         try {
-          expect(tutoFileMetadata.captionFilePath).toMatch(
-            /^\/captions\/mednum\/(\w|-)+\.vtt$/,
-          )
+          if (tutoFileMetadata.fileType === 'VIDEO') {
+            expect(tutoFileMetadata.captionFilePath).toMatch(
+              /^\/captions\/mednum\/(\w|-)+\.vtt$/,
+            )
+          }
+          else { expect(tutoFileMetadata.captionFilePath).not.toBeDefined() }
         }
         catch {
           throw new Error(
           `Le format du lien "captionFilePath" est invalide (format attendu : "/captions/mednum/{ID_VIDEO}.vtt", valeur reçue : "${
             tutoFileMetadata.captionFilePath ?? ''
           }")`,
+          )
+        }
+      })
+
+      it('doit avoir un champ `pdfFilePath` si fileType est PDF', () => {
+        try {
+          if (tutoFileMetadata.fileType === 'PDF')
+            expect(tutoFileMetadata.pdfFilePath).toBeDefined()
+
+          else expect(tutoFileMetadata.pdfFilePath).not.toBeDefined()
+        }
+        catch {
+          throw new Error('Le champ "pdfFilePath" est obligatoire.')
+        }
+      })
+
+      it('le champ `pdfFilePath` doit avoir un format précis si filetype est PDF', () => {
+        try {
+          if (tutoFileMetadata.fileType === 'PDF') {
+            expect(tutoFileMetadata.pdfFilePath).toMatch(
+              /^\/pdf\/mednum\/(\w|-)+\.pdf$/,
+            )
+          }
+          else { expect(tutoFileMetadata.pdfFilePath).not.toBeDefined() }
+        }
+        catch {
+          throw new Error(
+              `Le format du lien "pdfFilePath" est invalide (format attendu : "/pdf/mednum/{PDF_FILE_NAME}.pdf", valeur reçue : "${
+                  tutoFileMetadata.pdfFilePath ?? ''
+              }")`,
           )
         }
       })
