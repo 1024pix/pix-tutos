@@ -85,7 +85,7 @@ function downloadTranscript() {
     width: 100%;
     max-height: 95vmin;
     aspect-ratio: 16/9;
-    margin: 2rem 0 1rem;
+    margin: 1rem 0 1rem;
   }
 
   &__actions {

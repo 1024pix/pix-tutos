@@ -35,7 +35,7 @@ defineProps({
 <style lang="scss">
 .tuto {
   .tuto__description {
-    margin: 1rem 0 0;
+    margin: 1rem 0 1rem 0;
     color: $pix-neutral-50;
   }
 }
