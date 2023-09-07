@@ -26,7 +26,7 @@ defineProps({
           target="_blank"
           rel="noopener noreferrer"
         >
-          Télécharger la pdf
+          Télécharger le pdf
         </PixButtonLink>
       </li>
     </ul>
