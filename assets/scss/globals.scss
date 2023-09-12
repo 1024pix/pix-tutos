@@ -45,4 +45,9 @@ p, li {
 
 .plyr {
   --plyr-color-main: #{$blue-50};
+
+  /* Allow to interact with the `video` element */
+  &__poster {
+    display: none;
+  }
 }
