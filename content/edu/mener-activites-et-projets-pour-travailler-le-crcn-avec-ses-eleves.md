@@ -52,7 +52,7 @@ Pour mener comme Marie, Mickaël et Clémentine des projets combinant compétenc
 
 De beaux projets en perspective !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Mélinée Chanard, Jean-Noël Vogrig, Jérôme Gorgues
 - **Direction de publication** : Marie-Caroline Missir

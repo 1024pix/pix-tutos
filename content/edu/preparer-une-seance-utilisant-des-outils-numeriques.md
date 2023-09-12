@@ -75,7 +75,7 @@ Aussi est-il intéressant de construire cette progressivité au sein de l’équ
 
 Dernier conseil, on n’est jamais à l’abri d’un imprévu. Pour prévoir l’imprévisible, mieux vaut toujours avoir un plan B en réserve !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Diane Ranville, Jean-Noël Vogrig, Sébastien Besnier
 - **Direction de publication** : Marie-Caroline Missir

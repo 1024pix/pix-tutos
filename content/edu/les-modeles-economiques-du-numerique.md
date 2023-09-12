@@ -81,7 +81,7 @@ Enfin, c’est aussi l’occasion d’aborder les questions sociétales plus lar
 
 Il ne s’agit pas de diaboliser la publicité ou la captation des données. Ni de penser que tous les services pourraient être gratuits et contributifs. Mais de réfléchir ensemble aux nécessités et aux limites de ces modèles économiques, pour avoir une utilisation éclairée d’internet.
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Kimi Do, Théodore Laugée, Virginie Esparel-Rousseau
 - **Direction de publication** : Marie-Caroline Missir

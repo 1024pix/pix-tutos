@@ -66,7 +66,7 @@ Toutes ces actions, ainsi que des formations sur le harcèlement ont été mené
 
 Déconstruire les stéréotypes et agir pour la mixité dans le numérique : un enjeu pour les enseignants, une avancée pour toutes et tous.
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Baptiste Caron, Kimi Do, Virginie Esparel-Rousseau
 - **Direction de publication** : Marie-Caroline Missir

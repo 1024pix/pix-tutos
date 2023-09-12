@@ -31,7 +31,7 @@ De nombreuses propositions, initiatives et ressources permettent d’accompagner
 Enfin, il est important de sensibiliser les élèves aux solutions systémiques qui dépassent le périmètre personnel. En 2022 par exemple, à l’occasion de la conférence des Nations unies sur les océans, des ONG ont demandé aux gouvernements et aux géants du numérique de s’engager contre l’exploitation minière en eaux profondes. En tant que citoyens, les élèves peuvent aussi s’investir dans des associations ou des ONG. Les actions au sein de ces collectifs leur permettront d’avoir plus d’impact et de peser sur les décisions politiques.
  Ils doivent réaliser qu’ils sont eux-mêmes les acteurs du changement vers un modèle numérique plus respectueux pour la planète.
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Nicolas Sedel, Gwenola Dubois, Corentine Gasquet, Kimi Do
 - **Direction de publication** : Marie-Caroline Missir
