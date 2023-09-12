@@ -8,65 +8,79 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-Un écran qui ne s'allume pas ?
+Chloé souhaite faire progresser ses élèves de quatrième en expression orale tout en leur faisant travailler leurs compétences numériques.
 
-Une piste audio muette ?
+Lors d’une séance précédente, ses élèves ont écrit un poème sur le thème du voyage et, désormais, ils vont devoir le présenter au format numérique, avec une illustration et un enregistrement audio !
 
-Un vidéoprojecteur capricieux ?
+Mais pour aboutir à un tel résultat, cela demande d’anticiper certaines choses !
 
-Autant de petits couacs pénibles qui peuvent se produire devant sa classe et gâcher la séance…
+Comment Chloé a-t-elle préparé ses séances de travail ?
 
-Pas de panique, voici quelques conseils pour gérer ces situations !
+Et plus généralement, quelles sont les bonnes pratiques pour concevoir une séance utilisant des ressources et outils numériques ?
 
-Pour commencer, il faut faire la différence entre les éléments matériels, dits _hardware_, et les éléments logiciels, dits _software_.
+C’est ce que nous allons voir dans cette vidéo.
 
-Dans le cas d'un ordinateur, le _hardware_ désigne toutes les pièces physiques qui le composent, à l'intérieur comme à l'extérieur : par exemple l'écran, le clavier ou le processeur.
+Dans l’optique de familiariser ses élèves aux enjeux de la déclamation poétique, Chloé commence par projeter la vidéo d’un comédien récitant un poème de Joachim Du Bellay.
 
-Le _software_ correspond aux logiciels qui permettent d'utiliser l'ordinateur, comme le système d'exploitation ou les logiciels applicatifs de traitement de texte, de retouche d'image ou de vidéo.
+Pour préparer son diaporama, elle a utilisé un logiciel qui est également installé sur les ordinateurs de l’établissement scolaire pour éviter toute incompatibilité.
 
-Le système d'exploitation est un logiciel système qui permet d'installer et de lancer des logiciels applicatifs. Il vous permet d'accéder à vos dossiers et à vos fichiers.Les systèmes d'exploitation les plus répandus sont Windows, IOS, Ubuntu et Android.
+Elle a choisi des images libres de droit.
 
-On interagit avec le système d'exploitation _via_ l'interface appelée « le bureau ». C'est depuis le bureau que l'on peut lancer les logiciels.
+Elle a également testé le support sur l’ordinateur de la classe afin de s’assurer que le son fonctionne et que le volume sera satisfaisant.
 
-Malheureusement, on est parfois confronté à des petits problèmes. Passons en revue les dysfonctionnements les plus fréquents et voyons comment les résoudre !
+L’élaboration de ce support lui a demandé du temps, mais le format numérique lui permet de décliner ou de mettre à jour facilement le support et de le diffuser en un clic.
 
-Olivier entre dans sa salle de cours. L'ordinateur est le même que la veille et pourtant il ne s'allume pas lorsqu'Olivier appuie sur le bouton marche/arrêt.
+De plus, elle pourra le partager avec des collègues pour coconstruire des supports de manière collaborative _via_ l’ENT, par exemple.
 
-La première chose à vérifier : ** ** les cordons d'alimentation de l'unité centrale et de l'écran sont-ils bien branchés sur une prise électrique ?
+Après avoir visionné et analysé la vidéo, les élèves vont devoir s’enregistrer sur tablette en déclamant leur poème.
 
-Si « oui », alors il faut vérifier que la prise fonctionne, avec un chargeur de téléphone, par exemple. Si le chargeur ne fonctionne pas, alors le problème est électrique. Olivier doit appeler une personne habilitée, travaillant au sein de l'établissement ou de la collectivité territoriale.
+Chloé a vérifié en amont l’état de charge des équipements et l’installation de l’application souhaitée.
 
-Si le chargeur fonctionne, alors il faut rebrancher correctement l'ordinateur et appuyer de nouveau sur le bouton marche/arrêt. Si rien ne se passe, c'est bien l'ordinateur qui a un problème. Olivier doit alors se rapprocher de la personne responsable du parc informatique de l'établissement.
+S’enregistrer sur leur tablette est une activité que les élèves maîtrisent car ils la pratiquent régulièrement en classe de langue.
 
-Sophie souhaite projeter son support de cours à l'aide d'un vidéoprojecteur. Celui-ci ne fonctionne pas. Sophie doit tout d'abord vérifier les points suivants : si le vidéoprojecteur est branché à une prise électrique ; si le voyant de fonctionnement du vidéoprojecteur est allumé ; si un câble relie le vidéoprojecteur à l'ordinateur.
+À la fin de la séance, ils déposent leurs productions orales sur l’ENT de l’établissement.
+ Ils n’oublient pas de supprimer les fichiers d’essai et de nettoyer la tablette.
 
-Une fois ces vérifications effectuées, Sophie devra attendre quelques secondes ou redémarrer l'ordinateur pour que le système d'exploitation prenne en compte le vidéoprojecteur. Elle pourra alors modifier les paramètres d'affichage et configurer le mode de projection à sa convenance.
+Chloé récupérera les productions et transmettra à chaque élève un lien permettant d’accéder à son enregistrement audio !
 
-Jean est professeur de sport et souhaite diffuser une bande-son avec un ordinateur portable et les enceintes du gymnase. Problème, le son ne fonctionne pas !
+Différents appareils numériques présents dans l’établissement permettront aux élèves de présenter leur poème au format numérique.
 
-Dans un premier temps, Jean doit vérifier que les enceintes sont allumées et branchées dans le cas d'enceintes avec connexion filaire ; vérifier dans les paramètres de l'ordinateur si le son est activé et suffisamment fort ; vérifier que le bon périphérique de sortie du son est sélectionné : ici, les enceintes du gymnase.
+Au moment de concevoir ce type d’activité, il faut toujours prendre en compte la disponibilité des appareils dans l’établissement mais aussi les compétences des élèves et leur autonomie par rapport au type de tâches à réaliser.
 
-Si le gymnase dispose d'enceintes _Bluetooth_, ce qui permet de les connecter sans liaison filaire, il faut vérifier l'activation du service _Bluetooth_ sur l'ordinateur.
+Par exemple, des tablettes sont pratiques si les élèves sont amenés à se déplacer durant la séance mais, en termes de fonctionnalités, il se peut qu’elles soient limitées par rapport à un ordinateur.
 
-Si les enceintes apparaissent dans la liste des périphériques _Bluetooth_ disponibles, il suffit de cliquer sur le bouton « Connecter » correspondant. Le son devrait maintenant sortir des enceintes !
+Quel que soit l’outil utilisé, il est nécessaire de vérifier le bon fonctionnement de l’intégralité des appareils et de réaliser soi-même l’exercice dans les mêmes conditions que celles de la séance afin de s’assurer de sa faisabilité.
 
-Chloé veut afficher un fichier PDF à l'écran, mais la fenêtre de l'application semble être figée et ne répond plus. Il s'agit d'un problème de logiciel.
+Chloé a choisi de privilégier le travail sur ordinateur car le clavier offre davantage de confort pour saisir un poème sur un traitement de texte. Elle a donc réservé l’une des salles informatiques de son établissement, qui est équipée de trente postes fixes et d’un poste enseignant relié au vidéoprojecteur. Elle a vérifié que le matériel fonctionne correctement.
 
-Il faut alors lancer le gestionnaire des tâches, sélectionner l'application bloquée et cliquer sur « Fin de tâche » ou « Forcer à quitter ».
+Chloé sait que tous ses élèves ont déjà utilisé le traitement de texte à plusieurs reprises en cours d’histoire-géographie, ce qui ne devrait pas nécessiter de rappels particuliers.
 
-Si l'on ne peut pas forcer la fermeture de l'application, il faut redémarrer l'ordinateur, soit avec la souris, soit avec le clavier si la souris est inopérante.
+Elle a toutefois préparé une fiche-méthode qui présente les fonctionnalités principales du logiciel et qui indique l’adresse web d’une banque d’images en ligne. Elle a transmis la fiche à chaque élève afin de les rendre plus autonomes et de pouvoir se consacrer à ceux qui ont le plus besoin d’aide.
 
-Si le redémarrage ne fonctionne pas, on force l'arrêt de l'ordinateur en maintenant le bouton marche/arrêt pendant dix secondes. Puis, on redémarre l'ordinateur !
+Au fil de la séance, les élèves travaillent seuls pour saisir leur poème. Avant d’intégrer un fichier image, ils doivent s’assurer qu’ils possèdent les droits d’utilisation et citer l’auteur et la provenance.
 
-En résumé, lorsque le matériel informatique se montre récalcitrant, inutile de paniquer, les petites enquêtes que vous venez de découvrir suffisent généralement à résoudre le problème !
+Ils ne doivent pas oublier d’intégrer l’hyperlien qui donne accès à la version audio de leur poème. Puis, ils envoient leur production sur l’ENT.
 
-Dernier conseil : quand c'est possible, testez la compatibilité de votre matériel avec celui de la salle de classe avant le jour J.
+La séance est terminée !
 
-Si vous ne trouvez pas la solution à certains problèmes, faites appel aux personnes-ressources : personnel informatique de l'établissement ou de la collectivité, Direction des services informatiques du rectorat, référent numérique de votre circonscription si vous êtes dans le premier degré, ou référent numérique de l'établissement si vous êtes dans le secondaire !
+Les élèves sont satisfaits de leur production et Chloé également ! Elle leur a permis de développer leurs compétences en expression orale ainsi que leurs compétences numériques.
 
-## **Crédits**
+Tout s’est bien passé car Chloé a réfléchi au préalable aux outils et ressources nécessaires.
 
-- **Scénario** : Mathias Perrette, Jean-Noël Vogrig, Bertrand Raineau
+Toutefois, elle se dit qu’elle aurait pu proposer aux élèves qui le souhaitent de travailler sur d’autres textes pour s’entraîner et de lui envoyer le fichier audio.
+
+Cette séance a également montré que la progressivité des apprentissages numériques permet de gagner en efficacité sur la partie réalisation au fur et à mesure que les usages se développent et que les élèves acquièrent des compétences numériques.
+
+Aussi est-il intéressant de construire cette progressivité au sein de l’équipe éducative afin de développer un continuum tout au long de la scolarité dans l’établissement !
+
+Dernier conseil, on n’est jamais à l’abri d’un imprévu. Pour prévoir l’imprévisible, mieux vaut toujours avoir un plan B en réserve !
+
+## Crédits
+
+- **Scénario** : Diane Ranville, Jean-Noël Vogrig, Sébastien Besnier
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
+- **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
+
+Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse
