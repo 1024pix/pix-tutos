@@ -19,7 +19,7 @@ defineProps({
 const video = ref(null)
 onMounted(() => {
   // eslint-disable-next-line no-new
-  new Plyr(video.value, { hideControls: false })
+  new Plyr(video.value, { hideControls: false, disableContextMenu: false })
 })
 </script>
 
