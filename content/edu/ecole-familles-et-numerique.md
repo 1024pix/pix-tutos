@@ -54,7 +54,7 @@ Certains projets offrent l’avantage d’associer les familles à la découvert
 
 En soutenant une pratique réfléchie et responsable du numérique, l’École permet ainsi d’accompagner élèves et parents vers un usage du numérique autonome et citoyen.
 
-## **Crédits**
+## Crédits
 
 - **Scénario**  : Théodore Laugée, Bertrand Raineau, Jean-Christophe Olivier, Rita Bedran
 - **Direction de publication**  : Marie-Caroline Missir

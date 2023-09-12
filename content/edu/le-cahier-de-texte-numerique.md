@@ -40,7 +40,7 @@ Beaucoup d’applications de cahiers de texte proposent également un outil d’
 
 Le cahier de texte numérique est un outil riche en fonctionnalités. Il peut constituer une aide précieuse pour les élèves comme pour les parents !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Baptiste Caron, Jean-Noël Vogrig, Nicolas Braun
 - **Direction de publication** : Marie-Caroline Missir

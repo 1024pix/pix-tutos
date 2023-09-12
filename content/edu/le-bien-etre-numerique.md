@@ -44,7 +44,7 @@ C’est un sujet qu’il est important d’aborder en classe, afin de développe
 Au final, gérer le rapport aux écrans est un apprentissage qui nous concerne tous : les élèves,
  les parents et les enseignants. Ce n’est pas simple mais les ressources pratiques et les temps de discussions peuvent aider à construire un rapport aux écrans respectueux du bien-être de chacun !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Baptiste Caron, Kimi Do, Sophie Augmard-Marcon, Sébastien Besnier
 - **Direction de publication** : Marie-Caroline Missir

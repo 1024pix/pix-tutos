@@ -47,7 +47,7 @@ Le CRCN définit donc les compétences numériques utiles à tous, dans les doma
 
 Au gré des évolutions du numérique, ce référentiel devra bien sûr s’adapter aux compétences numériques de demain.
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Adeline Bénezet, Julien Perrot
 - **Direction de publication** : Marie-Caroline Missir
