@@ -1,5 +1,5 @@
 <script setup>
-definePageMeta({ layout: 'edu' })
+definePageMeta({ layout: 'mednum' })
 useHead({ title: 'Accueil' })
 
 const tutos = await queryContent('mednum').sort({ title: 1 }).find()
