@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 
-definePageMeta({ layout: 'edu' })
+definePageMeta({ layout: 'mednum' })
 
 const page = ref(null)
 
@@ -76,7 +76,7 @@ function downloadTranscript() {
         :id="slug"
         :pdf-file-path="page.pdfFilePath"
       />
-</PixTutorial>
+    </PixTutorial>
   </article>
 </template>
 
