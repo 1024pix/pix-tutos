@@ -1,5 +1,25 @@
 # pix-tutos Changelog
 
+## v3.5.0 (14/09/2023)
+
+
+### :rocket: Amélioration
+- [#214](https://github.com/1024pix/pix-tutos/pull/214) [FEATURE] Permettre le clic droit sur les vidéos Plyr (PIX-9157).
+- [#215](https://github.com/1024pix/pix-tutos/pull/215) [FEATURE] Enleve les logos de Minister d'Edu dans les pages Mednum.
+- [#205](https://github.com/1024pix/pix-tutos/pull/205) [FEATURE] Ajout des tutos PDF pour la MedNum (PIX-8356).
+- [#203](https://github.com/1024pix/pix-tutos/pull/203) [FEATURE] Ajoute les tutos vidéos de la mednum avec le lecteur Plyr (PIX-8355).
+
+### :arrow_up: Montée de version
+- [#216](https://github.com/1024pix/pix-tutos/pull/216) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.38.0 (.circleci).
+- [#209](https://github.com/1024pix/pix-tutos/pull/209) [BUMP] Update dependency nuxt to ~3.7.0 (dossier racine).
+
+### :coffee: Autre
+- [#210](https://github.com/1024pix/pix-tutos/pull/210) Tuto Pix +Edu Mise à jour de 2 transcription (PIX-9160).
+- [#213](https://github.com/1024pix/pix-tutos/pull/213) MàJ 9 transcription vidéo domaine 5 +Edu (PIX-9160).
+- [#212](https://github.com/1024pix/pix-tutos/pull/212) MàJ 8 transcription vidéo domaine 5 +Edu (PIX-9160).
+- [#208](https://github.com/1024pix/pix-tutos/pull/208) +Edu : correction coquille description.
+- [#204](https://github.com/1024pix/pix-tutos/pull/204) Tutos +Edu : màj transcription domaines 2,3 et 4.
+
 ## v3.4.2 (29/08/2023)
 
 
