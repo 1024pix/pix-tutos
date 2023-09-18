@@ -1,4 +1,5 @@
 <script setup>
+import player_fr from 'assets/translation/player_fr'
 import Plyr from 'plyr'
 
 defineProps({
@@ -19,7 +20,7 @@ defineProps({
 const video = ref(null)
 onMounted(() => {
   // eslint-disable-next-line no-new
-  new Plyr(video.value, { hideControls: false, disableContextMenu: false })
+  new Plyr(video.value, { hideControls: false, disableContextMenu: false, i18n: player_fr })
 })
 </script>
 
@@ -37,7 +38,7 @@ onMounted(() => {
     >
     <track
       kind="captions"
-      label="Sous titres"
+      label="Français"
       :src="captionVtt"
       srclang="fr"
       default
