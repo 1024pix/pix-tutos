@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.5.1 (18/09/2023)
+
+
+### :rocket: Amélioration
+- [#218](https://github.com/1024pix/pix-tutos/pull/218) [FEATURE] Ajout de la traduction française pour le player vidéo de MedNum (PIX-9226).
+
 ## v3.5.0 (14/09/2023)
 
 
