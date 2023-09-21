@@ -10,7 +10,7 @@ test.describe('#mednum content', () => {
 
     // then
     await expect
-      .soft(page.getByRole('heading', { name: 'Tutoriels MedNum' }))
+      .soft(page.getByRole('heading', { name: 'Tutoriels produits par la MedNum pour Pix' }))
       .toBeVisible()
 
     for (const link of await page.getByRole('link').all())
