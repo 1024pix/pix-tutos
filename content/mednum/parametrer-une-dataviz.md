@@ -8,7 +8,7 @@ captionFilePath: /captions/mednum/Parametrer_une_datavisualisation.vtt
 
 ## Transcription
 
-Avez-vous déjà entendu ce dicton : “Une image vaut mille mots”? Elle signifie qu’une représentation visuelle est souvent plus facile à lire et à comprendre que du texte. Dans le domaine de la data science, on utilise des datavisualisations pour traduire des données en visuels, ce qui permet de les appréhender et les analyser plus facilement.
+Avez-vous déjà entendu ce dicton : “Une image vaut mille mots” ? Elle signifie qu’une représentation visuelle est souvent plus facile à lire et à comprendre que du texte. Dans le domaine de la data science, on utilise des datavisualisations pour traduire des données en visuels, ce qui permet de les appréhender et les analyser plus facilement.
 
 Sur nos écrans, les datavisualisations ne sont pas toujours des images figées, elles peuvent être dynamiques. Le plus souvent, elles le sont lorsqu’il y a une grande quantité de données à traiter.
 Je peux alors agir sur la visualisation, c’est-à-dire définir “les bons paramètres” sur l’interface pour obtenir l’information que je cherche.
