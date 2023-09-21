@@ -29,5 +29,6 @@ Deuxièmement, pour être qui je veux : mon pseudo n’est pas choisi au hasard.
 - Enfin ! Troisièmement : Ne pas confondre ! Je peux tout à fait utiliser un pseudo pour mes usages numériques personnels. Mais pour les comptes professionnels ou administratifs, il est préférable d’utiliser mes vrais nom et prénom.
 
 ## Crédits
+
 - **Production** : La MedNum / Fréquences Écoles pour Pix
 - **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
