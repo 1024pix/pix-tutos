@@ -8,7 +8,7 @@ const tutos = await queryContent('mednum').sort({ title: 1 }).find()
 <template>
   <div>
     <h1 class="header__title">
-      Tutoriels MedNum
+      Tutoriels produits par la MedNum pour Pix
     </h1>
 
     <p class="pix-body-l header__description">Améliorez vos compétences sur la messagerie électronique, l'identité numérique, la datavisualisation et l'impact environnement du numérique grâce à ces tutoriels vidéos ou infographies, produits par la MedNum pour Pix dans le cadre d'un projet Proof of Concept (POC).</p>
