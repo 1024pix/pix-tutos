@@ -33,5 +33,6 @@ Par exemple, je veux acheter un canapé bon marché sur un site marchand. Je cli
 - Enfin, je ne peux parfois sélectionner qu’un seul critère de tri à la fois. Si je veux utiliser deux critères de tri, c’est-à-dire classer des données par ordre alphabétique selon un premier critère, et par ordre numérique sur un second critère, je devrais utiliser des outils spécifiques pour pouvoir le faire, comme un tableur.
 
 ## Crédits
+
 - **Production** : La MedNum / Fréquences Écoles pour Pix
 - **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
