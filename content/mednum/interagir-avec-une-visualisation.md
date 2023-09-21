@@ -13,7 +13,7 @@ Bonjour, je m’appelle Michel, et je suis médiateur numérique. Aujourd’hui,
 Tout d’abord, qu’est-ce qu’une visualisation de données? C’est, tout simplement, la représentation visuelle de données.
 Elle permet de simplifier la lecture des informations. Généralement, les données sont visualisées sous la forme d’un graphique ou d’une carte.
 
-Au format numérique, ces visualisation de données sont parfois interactives. En agissant dessus, par exemple avec ma souris ou avec mes doigts, il est possible que des informations apparaissent ! Si c’est le cas, c’est une visualisation interactive.
+Au format numérique, ces visualisations de données sont parfois interactives. En agissant dessus, par exemple avec ma souris ou avec mes doigts, il est possible que des informations apparaissent ! Si c’est le cas, c’est une visualisation interactive.
 
 Il existe de nombreuses manières d’interagir avec les visualisations de données. Voici les plus courantes :
 
