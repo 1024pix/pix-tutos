@@ -34,5 +34,6 @@ Les fonctionnalités interactives permettent de filtrer, trier et analyser les d
 - Troisièmement, paramétrer une visualisation nécessite de chercher, de tester, d’explorer… Les paramètres proposés seront différents d’une datavisualisation à une autre, je dois donc être en capacité de m’adapter aux diverses interfaces de paramétrage.
 
 ## Crédits
+
 - **Production** : La MedNum / Fréquences Écoles pour Pix
 - **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
