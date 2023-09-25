@@ -15,6 +15,7 @@ Avoir la possibilité de trier des données directement sur une page web peut me
 Car, en fonction du critère de tri que je choisis, les données vont être classées automatiquement.
 
 Pour trier des données :
+
 - Il faut d’abord choisir le critère selon lequel on veut trier. C’est-à-dire la caractéristique selon laquelle on veut ordonner les informations. Par exemple le prix, ou la taille, ou la marque d’un objet.
 - Ensuite, j’applique mon critère de tri. Quand les données sont présentées en tableau, le plus souvent, je dois cliquer sur des petites flèches au-dessus des colonnes. Il arrive aussi que je puisse cliquer sur un menu déroulant, accompagné de la mention “Tri par…”, me proposant plusieurs critères de tri.
 
@@ -26,8 +27,8 @@ Si je choisis un critère de tri numérique, alors les données seront triées p
 
 Par exemple, je veux acheter un canapé bon marché sur un site marchand. Je clique sur “Par prix croissant” pour classer les canapés du moins cher au plus cher. Les résultats apparaissent, je peux maintenant choisir mon nouveau canapé.
 
-
 3 points importants :
+
 - Premièrement, il existe de nombreuses pages web où l’on peut trier des données : pages d’encyclopédie en ligne, site marchand ou encore médiathèque de quartiers. Les utiliser m’aide à être plus efficace dans mes recherches.
 - Ensuite, trier des données me permet de les organiser par ordre alphabétique ou numérique. Je choisis le critère de tri en fonction de ce que je cherche.
 - Enfin, je ne peux parfois sélectionner qu’un seul critère de tri à la fois. Si je veux utiliser deux critères de tri, c’est-à-dire classer des données par ordre alphabétique selon un premier critère, et par ordre numérique sur un second critère, je devrais utiliser des outils spécifiques pour pouvoir le faire, comme un tableur.
