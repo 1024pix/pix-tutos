@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.7.0 (26/09/2023)
+
+
+### :coffee: Autre
+- [#226](https://github.com/1024pix/pix-tutos/pull/226) Revert "[BUMP] Update dependency node to v18.18.0".
+
 ## v3.6.0 (26/09/2023)
 
 
