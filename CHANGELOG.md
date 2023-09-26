@@ -1,5 +1,23 @@
 # pix-tutos Changelog
 
+## v3.6.0 (26/09/2023)
+
+
+### :rocket: Amélioration
+- [#219](https://github.com/1024pix/pix-tutos/pull/219) [FEATURE] Ajouter la description sur la page d'accueil de la mednum (PIX-9305).
+
+### :bug: Correction
+- [#222](https://github.com/1024pix/pix-tutos/pull/222) [BUGFIX] Coquille à corriger dans la description de l'accueil de Mednum (PIX-9305).
+- [#221](https://github.com/1024pix/pix-tutos/pull/221) [BUGFIX] Page MedNum - modifier le label du CTA pour les PDF (PIX-9300).
+
+### :arrow_up: Montée de version
+- [#225](https://github.com/1024pix/pix-tutos/pull/225) [BUMP] Update dependency node to v18.18.0.
+- [#224](https://github.com/1024pix/pix-tutos/pull/224) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.38.1 (.circleci).
+
+### :coffee: Autre
+- [#220](https://github.com/1024pix/pix-tutos/pull/220) MàJ transcription tutos vidéos MedNum.
+- [#217](https://github.com/1024pix/pix-tutos/pull/217) MàJ description tutos MedNum.
+
 ## v3.5.1 (18/09/2023)
 
 
