@@ -16,7 +16,7 @@
     "captions:translate": "srt-to-vtt 'public/captions/mednum/Un pseudo pourquoi faire.mp4.srt' > public/captions/mednum/Un_pseudo_pourquoi_faire.vtt"
   },
   "engines": {
-    "node": "^18.18.0"
+    "node": "^v18.17.1"
   },
   "dependencies": {
     "@fontsource/open-sans": "^5.0.0",
