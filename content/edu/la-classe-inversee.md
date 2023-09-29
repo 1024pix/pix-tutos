@@ -84,24 +84,23 @@ L’occasion pour les élèves de développer leurs compétences numériques !
 
 Pour résumer, voici une check-list des points à respecter pour une classe inversée réussie :
 
-  - Je sélectionne les contenus et la tâche à effectuer qui me paraissent être adaptés aux principes de la classe inversée.
+- Je sélectionne les contenus et la tâche à effectuer qui me paraissent être adaptés aux principes de la classe inversée.
 
-  - Je limite le travail en autonomie et le temps d’appropriation des connaissances, que ce soit pour une capsule vidéo ou un texte :  plus mes élèves sont jeunes, plus je fais court.
+- Je limite le travail en autonomie et le temps d’appropriation des connaissances, que ce soit pour une capsule vidéo ou un texte :  plus mes élèves sont jeunes, plus je fais court.
 
-  - J’échange avec la classe sur cette modalité de travail particulièrement la première fois, je mets les élèves en confiance. Je communique avec les parents sur cette démarche.
+- J’échange avec la classe sur cette modalité de travail particulièrement la première fois, je mets les élèves en confiance. Je communique avec les parents sur cette démarche.
 
-  - J’adopte une posture de facilitateur des interactions et de la construction des savoirs.
+- J’adopte une posture de facilitateur des interactions et de la construction des savoirs.
 
-  - Je me pose la question des activités qui vont rendre les élèves actifs, notamment sur des travaux hors de la classe.
+- Je me pose la question des activités qui vont rendre les élèves actifs, notamment sur des travaux hors de la classe.
 
-  - J’organise, de préférence sur l’ENT, un espace d’échanges pour les interactions hors de la classe et la mutualisation des travaux.
+- J’organise, de préférence sur l’ENT, un espace d’échanges pour les interactions hors de la classe et la mutualisation des travaux.
 
-  - Je valorise les résultats obtenus et je fais le bilan de cette méthode avec les élèves afin d’adapter au mieux mon dispositif pour une prochaine fois !
+- Je valorise les résultats obtenus et je fais le bilan de cette méthode avec les élèves afin d’adapter au mieux mon dispositif pour une prochaine fois !
 
 On remarque à travers ces différents points que la classe inversée permet en outre de mettre assez facilement en œuvre une pédagogie différenciée, grâce aux outils numériques.
 
 Alors, prêt à tenter la classe inversée ?
-
 
 ## Crédits
 

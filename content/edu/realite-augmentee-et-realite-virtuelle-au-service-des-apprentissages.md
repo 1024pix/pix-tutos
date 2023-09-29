@@ -3,7 +3,7 @@ area: Domaine 4
 title: Réalité augmentée et réalité virtuelle au service des apprentissages
 description: Réalité augmentée et réalité virtuelle repoussent les limites de la classe. Mais quelle différence entre virtuelle et augmentée ? Et quels intérêts pédagogiques pour ces nouvelles technologies ?
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/5ef21c8d-a0c5-48c7-a68b-fd8dc2d9dda3
-videoDownloadHref: 
+videoDownloadHref:
 ---
 
 ## Transcription
@@ -78,7 +78,7 @@ D'autres applications telles que Foxar proposent des supports pédagogiques clé
 
 Pour apprivoiser ces technologies, Sarah peut se tourner vers les ressources et formations proposées notamment par son académie, par Réseau Canopé, ou par la communauté d'enseignants utilisateurs. Elle pourra ensuite enrichir son enseignement avec la réalité virtuelle ou la réalité augmentée, ou bien les deux ! Et constater qu'elles favorisent compréhension, engagement et persévérance des élèves !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Mélinée Chanard, Kimi Do, Cécile Taillandier, Sébastien Damien,
  Benoît Challemel du Rozier

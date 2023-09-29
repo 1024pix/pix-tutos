@@ -1,6 +1,6 @@
 ---
 area: Domaine 5
-title: Accompagner les élèves à la maîtrise de leur identité numérique 
+title: Accompagner les élèves à la maîtrise de leur identité numérique
 description: À partir du collège, la plupart des élèves commencent à utiliser Internet et les réseaux sociaux. L’ensemble des traces qu’ils laissent, volontairement ou non, construit petit à petit leur identité numérique. Faisons donc un point sur l’identité numérique et voyons comment accompagner les élèves à la maîtriser ?
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/e2626989-7aff-46a3-a38c-d4aa11b5d58e
 videoDownloadHref:
@@ -62,10 +62,9 @@ Les élèves n’ont pas à se couper du numérique. Une identité numérique es
 
 Contrairement à de nombreux stéréotypes, la plupart des élèves prennent très au sérieux les questions de vie privée et d’identité numérique. Mais ils souhaitent aussi exister et interagir sur des espaces publics en ligne. C’est aux adultes de les accompagner pour que cette identité numérique soit choisie et non subie.
 
+## Crédits
 
-## **Crédits**
-
--  **Scénario** : Kimi Do, Théodore Laugée, Fabrice Legros
+- **Scénario** : Kimi Do, Théodore Laugée, Fabrice Legros
 - **Direction de publication** : Marie-Caroline Missir
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix

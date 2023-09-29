@@ -64,7 +64,6 @@ Ces activités peuvent même s’effectuer au cours du visionnage : des outils c
 
 Alors, prêt à utiliser la capsule vidéo pour enrichir vos pratiques pédagogiques ?
 
-
 ## Crédits
 
 - **Scénario** : Mélinée Chanard, Rémy Massé, Jean-Noël Vogrig, Nicolas Bailloud, Antoine Quevreux

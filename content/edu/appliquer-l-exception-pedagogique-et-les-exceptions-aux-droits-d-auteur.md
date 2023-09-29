@@ -76,7 +76,6 @@ Moins connue, l'exception de panorama vous permet d'effectuer des reproductions 
 
 Il est bien évidemment utile de vérifier les conditions pour invoquer ces exceptions. Mais, bonne nouvelle, vous pouvez les appliquer aussi bien en classe que dans votre vie privée !
 
-
 ## Crédits
 
 - **Scénario** : Christophe Gabbani, Jean-François Spelle
@@ -84,6 +83,5 @@ Il est bien évidemment utile de vérifier les conditions pour invoquer ces exce
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
 - **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
-
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

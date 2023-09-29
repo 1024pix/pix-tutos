@@ -28,7 +28,6 @@ Avant de rentrer chez elle, Sarah jette un dernier coup d’œil sur ses réseau
 
 Et voilà, sa journée est finie. Il ne lui reste plus qu’à piquer une tête !
 
-
 ## Crédits
 
 - **Scénario** : Fernando Worcel, Samuel Chalifour, Corentine Gasquet

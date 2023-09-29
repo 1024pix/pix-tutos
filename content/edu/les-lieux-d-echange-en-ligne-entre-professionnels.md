@@ -59,7 +59,6 @@ Par exemple, **Tribu** est un espace collaboratif de gestion de projet, permetta
 
 **Viaéduc** est le réseau social institutionnel des enseignants, permettant les échanges autour d’un projet ou la mise en relation entre pairs.
 
-
 [**Cartoun**](https://cartoun.education.fr/)est un service créé par l’académie de Rennes qui permet de savoir quelles sont les activités pédagogiques des collègues qui travaillent dans les établissements proches du mien. Par exemple, pour savoir comment mettre en place une webradio dans son collège, cette cartographie permet de découvrir qu’il en existe une dans un collège voisin ; l’enseignante peut ainsi contacter l’équipe à l’initiative de la création et se rendre sur place.
 
 Au niveau international, **eTwinning** permet aux enseignants de 43 pays d’entrer en contact et de mener des projets d’échanges à distance avec leurs élèves.

@@ -68,7 +68,6 @@ Le respecter, c’est s’assurer de pouvoir diffuser les réalisations de l’�
 
 En s’emparant de son statut d’auteur, chaque élève est amené à respecter celui des autres.
 
-
 ## Crédits
 
 - **Scénario** : Aurélie Chauvet, Loïc Natak, Jean-François Spelle
@@ -76,6 +75,5 @@ En s’emparant de son statut d’auteur, chaque élève est amené à respecter
 - **Production** : Réseau Canopé
 - **Partenariat** : Pix
 - **Licence** : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
-
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse

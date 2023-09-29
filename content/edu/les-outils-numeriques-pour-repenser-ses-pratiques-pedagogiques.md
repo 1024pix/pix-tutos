@@ -38,7 +38,7 @@ Mais les outils numériques, ce sont aussi les logiciels, comme les outils de ge
 
 Il en existe énormément et leur disponibilité peut varier d’un territoire à l’autre, en fonction de choix locaux.
 
-Comme les outils matériels, les outils logiciels obéissent à des règles : le responsable de traitement, le DASEN pour le premier degré ou le chef d’établissement pour le second degré, est notamment garant de l’inscription des applications au registre des traitements de l’établissement. Il peut demander conseil aux délégués à la protection des données **. **
+Comme les outils matériels, les outils logiciels obéissent à des règles : le responsable de traitement, le DASEN pour le premier degré ou le chef d’établissement pour le second degré, est notamment garant de l’inscription des applications au registre des traitements de l’établissement. Il peut demander conseil aux délégués à la protection des données.
 
 Ces outils sont ensuite mis à la disposition des enseignants.
 

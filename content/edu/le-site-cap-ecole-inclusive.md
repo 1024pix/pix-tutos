@@ -56,6 +56,7 @@ Au cours de l’année, Matthieu et Françoise iront à plusieurs reprises sur l
 En fin d’année, Tristan souhaite réfléchir à son parcours Avenir. Accompagné de son professeur et de ses parents, il se rend sur l’onglet « Accompagner l’orientation » et y trouve les informations dont il a besoin.
 
 Évolutive, la plateforme s’enrichit continuellement de nouveaux contenus. Aux côtés d’autres acteurs de l’école inclusive, elle répond aux attentes et besoins de la communauté éducative et de tous les élèves, quelle que soit leur singularité. Alors, cap vers l’École inclusive !
+
 ## Crédits
 
 - **Scénario** : Sybille Paumier, Loïc Nataf, Sophie Augmard-Marcon, Julien Perrot

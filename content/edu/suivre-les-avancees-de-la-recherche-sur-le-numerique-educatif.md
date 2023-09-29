@@ -40,12 +40,13 @@ Cependant, les résultats scientifiques ne sont pas toujours ajustés à nos bes
 
 Quelques sites institutionnels répondent plus concrètement à ces besoins :
 
-En plus de rencontres formatives en présentiel, **l’Institut**  **Français de l’Éducation** , l’IFÉ, propose des articles et des dossiers de veille scientifique pour analyser et soutenir les pratiques des enseignants.
-  Sur le numérique éducatif,l’ **A**** gence des usages** est un site Internet de Réseau Canopé qui met à disposition des synthèses scientifiques conclues par des recommandations pratiques.
+En plus de rencontres formatives en présentiel, **l’Institut Français de l’Éducation**, l’IFÉ, propose des articles et des dossiers de veille scientifique pour analyser et soutenir les pratiques des enseignants.
+Sur le numérique éducatif, l’**Agence des usages** est un site Internet de Réseau Canopé qui met à disposition des synthèses scientifiques conclues par des recommandations pratiques.
 
-L’INRIA, Institut national de recherche en informatique et en automatique publie notamment des informations sur l’actualité des sciences du numérique pour l’éducation. ** **
+L’INRIA, Institut national de recherche en informatique et en automatique publie notamment des informations sur l’actualité des sciences du numérique pour l’éducation.
 
 De nombreux outils en ligne permettent donc d’accéder simplement à des travaux scientifiques. Certaines publications sont de véritables appuis pour améliorer concrètement nos enseignements.
+
 ## Crédits
 
 - **Scénario** : Fernando Worcel, Marie-Alexandra Valorge

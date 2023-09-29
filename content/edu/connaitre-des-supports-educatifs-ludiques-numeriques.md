@@ -40,7 +40,6 @@ Les mécaniques cognitives, les rétroactions, évaluent l’action en temps ré
 
 Mais pour créer cette boucle vertueuse de l’engagement, quelles sont les démarches possibles en classe ?
 
-
 Première possibilité, ludifier une situation d’apprentissage, c’est-à-dire mettre en œuvre une activité scolaire en exploitant des stratégies ludiques. Comment ?
 
 - une narration, avec un univers et des personnages,
@@ -48,7 +47,6 @@ Première possibilité, ludifier une situation d’apprentissage, c’est-à-dir
 - un temps limité,
 - une progression,
 - des récompenses.
-
 
 Ainsi, Yasrine challenge ses élèves toutes les semaines. Chaque lundi, en maths, c’est défi !
 
@@ -84,12 +82,11 @@ La phase de débriefing permet de formaliser l’apprentissage.
 
 Steven, Marion, Yasrine, demandent toujours à leurs élèves de formuler ce qu’ils retiennent de leur expérience pour assurer ce parfait équilibre.
 
+## Crédits
 
-## **Crédits**
-
--  **Scénario** : Mélinée Chanard, Cécile Taillandier, Yoann Hatchi et Sophie Houdu
--  **Direction de publication** : Marie-Caroline Missir
--  **Production** : Réseau Canopé
--  **Partenariat** : Pix
+- **Scénario** : Mélinée Chanard, Cécile Taillandier, Yoann Hatchi et Sophie Houdu
+- **Direction de publication** : Marie-Caroline Missir
+- **Production** : Réseau Canopé
+- **Partenariat** : Pix
 
 Ressource produite avec le soutien du ministère de l’Éducation nationale et de la Jeunesse
