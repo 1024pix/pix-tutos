@@ -74,7 +74,7 @@ Le fait de les utiliser nécessitera alors de prévoir plusieurs supports diffé
 
 Dans tous les cas, simplifier et uniformiser la présentation de ses documents, c'est tendre vers l'accessibilité. S'en préoccuper au quotidien, c'est faciliter l'accès aux savoirs pour tous !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Sybille Paumier, Loïc Nataf, Christophe Metzger, Sébastien Besnier
 - **Direction de publication** : Marie-Caroline Missir

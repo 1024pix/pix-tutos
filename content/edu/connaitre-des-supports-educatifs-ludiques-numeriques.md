@@ -82,7 +82,7 @@ La phase de débriefing permet de formaliser l’apprentissage.
 
 Steven, Marion, Yasrine, demandent toujours à leurs élèves de formuler ce qu’ils retiennent de leur expérience pour assurer ce parfait équilibre.
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Mélinée Chanard, Cécile Taillandier, Yoann Hatchi et Sophie Houdu
 - **Direction de publication** : Marie-Caroline Missir

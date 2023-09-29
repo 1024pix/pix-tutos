@@ -82,7 +82,7 @@ Différencier son enseignement, c'est repenser sa manière de faire classe et tr
 
 Pas de recette magique mais des résultats souvent positifs !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Mélinée Chanard, Kimi Do, Cécile Taillandier, Béatrice Pérelade,
  Virginie Esparel-Rousseau

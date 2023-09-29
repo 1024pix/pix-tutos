@@ -3,7 +3,7 @@ area: Domaine 1
 title: Les acteurs institutionnels du numérique éducatif dans le 1er degré
 description: eRUN, CPD numérique, IEN numérique, DRAN... Ils sont nombreux à contribuer au développement du numérique éducatif dans le premier degré. Mais quels sont les rôles spécifiques de chacun ? Découvrons ensemble le « Qui fait quoi » du numérique éducatif au premier degré
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/f87f764b-5b4e-4219-a731-4e74cda01f25
-videoDownloadHref: 
+videoDownloadHref:
 ---
 
 ## Transcription
@@ -30,7 +30,7 @@ Enfin, la DSI (Direction des systèmes d'information) de la DSDEN ou du rectorat
 
 Enseignants référents, conseillers pédagogiques, inspecteurs, délégués au numérique, Direction des systèmes d'information... De nombreux acteurs sont présents à différents niveaux et œuvrent pour vous accompagner sur la dimension numérique de votre métier. Que vous soyez à Saint-Jean-de-Luz, à Sélestat ou à Saint-Ours !
 
-## **Crédits**
+## Crédits
 
 - **Scénario** : Corentine Gasquet
 - **Direction de publication** : Marie-Caroline Missir
