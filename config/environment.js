@@ -1,3 +1,5 @@
+import process from 'node:process'
+
 export const config = {
   matomo: {
     containerUrl: process.env.MATOMO_CONTAINER,
