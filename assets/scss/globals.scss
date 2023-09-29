@@ -20,6 +20,15 @@ p, li {
   @extend %pix-body-m;
 }
 
+.plyr {
+  --plyr-color-main: #{$blue-50};
+
+  /* Allow to interact with the `video` element */
+  &__poster {
+    display: none;
+  }
+}
+
 // We cannot extend placeholders when using a media query.
 // We chose to copy typography styles manually.
 @media print {
@@ -40,14 +49,5 @@ p, li {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: justify;
-  }
-}
-
-.plyr {
-  --plyr-color-main: #{$blue-50};
-
-  /* Allow to interact with the `video` element */
-  &__poster {
-    display: none;
   }
 }
