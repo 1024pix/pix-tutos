@@ -1,5 +1,9 @@
 @import './typography';
 
+body {
+  margin: 0;
+}
+
 h1 {
   @extend %pix-title-l;
 }
