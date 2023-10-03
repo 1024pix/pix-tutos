@@ -66,7 +66,7 @@ useHead({ titleTemplate: '%s - Mednum' })
   }
 
   // Nous mettons le !important pour éviter la surcharge du style par celui de la page qui est appliqué ensuite.
-  .main-header, .tuto__description, .tuto__video, .tuto__actions {
+  .main-header, .tuto__description, .plyr, .tuto__actions {
     display: none !important;
   }
 
