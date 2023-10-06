@@ -1,5 +1,22 @@
 # pix-tutos Changelog
 
+## v3.8.0 (06/10/2023)
+
+
+### :building_construction: Tech
+- [#234](https://github.com/1024pix/pix-tutos/pull/234) [TECH] Vérifier la disponibilité de la version Node chez Scalingo (PIX-9395).
+- [#230](https://github.com/1024pix/pix-tutos/pull/230) [TECH] Corriger la config ESLint (PIX-9462).
+- [#207](https://github.com/1024pix/pix-tutos/pull/207) [TECH] Linter les fichiers markdown du dossier `content` (PIX-9457).
+- [#223](https://github.com/1024pix/pix-tutos/pull/223) [TECH] Ajout d'un test de non régression visuelle sur la homepage de la MedNum (PIX-9306).
+
+### :bug: Correction
+- [#233](https://github.com/1024pix/pix-tutos/pull/233) [BUGFIX] Centrer le lecteur vidéo MedNum en plein écran sur mobile (PIX-9469).
+- [#232](https://github.com/1024pix/pix-tutos/pull/232) [BUGFIX] Supprimer la marge de 8px autour du site (PIX-9468).
+- [#231](https://github.com/1024pix/pix-tutos/pull/231) [BUGFIX] Cache le lecteur vidéo de la MedNum dans les styles d'impression (PIX-9460).
+
+### :arrow_up: Montée de version
+- [#228](https://github.com/1024pix/pix-tutos/pull/228) [BUMP] Update node.
+
 ## v3.7.0 (26/09/2023)
 
 
