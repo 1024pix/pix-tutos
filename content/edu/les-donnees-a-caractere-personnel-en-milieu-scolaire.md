@@ -22,7 +22,7 @@ C’est ce que nous allons voir dans cette vidéo.
 Les données à caractère personnel sont les informations qui permettent d’identifier une personne :
 
 - que ce soit de manière directe, comme un nom et prénom, une adresse mail ou une photo…
-- u de manière indirecte, comme une voix, un numéro de sécurité sociale, des données de navigation sur internet.
+- ou de manière indirecte, comme une voix, un numéro de sécurité sociale, des données de navigation sur internet.
 
 Mais les données personnelles, ce sont aussi les données sensibles, qui concernent certains aspects très privés de la vie : état de santé, biométrie, orientation politique ou religieuse… Le traitement de ces données sensibles, strictement encadré, est interdit sauf autorisation spécifique de la CNIL.
 
