@@ -85,6 +85,10 @@ function downloadTranscript() {
   margin: 2rem 0 1rem;
 }
 
+.plyr--fullscreen-fallback {
+  margin: 0;
+}
+
 .tuto__actions {
     display: flex;
     flex-wrap: wrap;
