@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.8.1 (09/10/2023)
+
+
+### :coffee: Autre
+- [#235](https://github.com/1024pix/pix-tutos/pull/235) Correction coquille sur tuto +Edu (les-donnees-a-caractere-personnel-en-milieu-scolaire.md).
+
 ## v3.8.0 (06/10/2023)
 
 
