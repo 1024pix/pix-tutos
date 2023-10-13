@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v3.8.2 (13/10/2023)
+
+
+### :bug: Correction
+- [#237](https://github.com/1024pix/pix-tutos/pull/237) [BUGFIX] Remplacer le PDF `impact_environnemental` par la version avec les méta-données corrigées.
+
+### :arrow_up: Montée de version
+- [#236](https://github.com/1024pix/pix-tutos/pull/236) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.39.0 (.circleci).
+
 ## v3.8.1 (09/10/2023)
 
 
