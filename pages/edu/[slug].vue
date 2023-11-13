@@ -30,7 +30,7 @@ useHead({
   ],
 })
 
-function downloadTranscript() {
+function printTranscript() {
   window.print()
 }
 </script>
@@ -68,10 +68,10 @@ function downloadTranscript() {
           class="tuto-actions__item"
         >
           <PixButton
-            id="download-transcript"
-            :action="downloadTranscript"
+            id="print-transcript"
+            :action="printTranscript"
           >
-            Télécharger la transcription
+            Imprimer la transcription
           </PixButton>
         </li>
       </ul>
