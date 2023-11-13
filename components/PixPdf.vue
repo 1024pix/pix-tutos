@@ -21,7 +21,7 @@ defineProps({
         class="pdf-actions__item"
       >
         <PixButtonLink
-          id="download-pdf"
+          id="open-pdf"
           :href="pdfFilePath"
           target="_blank"
           rel="noopener noreferrer"
