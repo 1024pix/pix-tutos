@@ -13,7 +13,7 @@ defineProps({
   },
   captionVtt: {
     type: String,
-    required: true,
+    // ToDo: should be required when sixieme transcriptions are available
   },
 })
 
@@ -36,7 +36,9 @@ onMounted(() => {
       :src="sourceMp4"
       type="video/mp4"
     >
+    <!-- ToDo: v-if can be deleted when sixieme transcriptions are available -->
     <track
+      v-if="captionVtt"
       kind="captions"
       label="Français"
       :src="captionVtt"
