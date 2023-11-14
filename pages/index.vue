@@ -15,5 +15,10 @@ useHead({ title: 'Accueil' })
         Tutos Mednum
       </nuxt-link>
     </h2>
+    <h2>
+      <nuxt-link to="sixieme">
+        Tutos Sixième
+      </nuxt-link>
+    </h2>
   </div>
 </template>
