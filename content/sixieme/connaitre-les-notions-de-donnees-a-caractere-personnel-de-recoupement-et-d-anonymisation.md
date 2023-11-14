@@ -1,6 +1,6 @@
 ---
 title: Connaître les notions de données à caractère personnel, de recoupement et d’anonymisation
-description: 
+description: En ligne, on partage beaucoup de données, parfois sans même le savoir. À l'aide de cette vidéo, les données personnelles n'auraont plus de secrets pour vous.
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Donnees_personnelles_v07_20231109.mp4
 captionFilePath:
 ---
