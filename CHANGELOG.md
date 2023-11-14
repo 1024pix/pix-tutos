@@ -1,5 +1,22 @@
 # pix-tutos Changelog
 
+## v3.9.0 (14/11/2023)
+
+
+### :rocket: Amélioration
+- [#251](https://github.com/1024pix/pix-tutos/pull/251) [FEATURE] Ajouter des tutos vidéos pour les sixièmes (PIX-9958).
+
+### :arrow_up: Montée de version
+- [#247](https://github.com/1024pix/pix-tutos/pull/247) [BUMP] Lock file maintenance (dossier racine).
+- [#246](https://github.com/1024pix/pix-tutos/pull/246) [BUMP] Lock file maintenance (dossier racine).
+- [#244](https://github.com/1024pix/pix-tutos/pull/244) [BUMP] Update dependency nuxt to ~3.8.0 (dossier racine).
+- [#243](https://github.com/1024pix/pix-tutos/pull/243) [BUMP] Update node to v20 (major).
+- [#242](https://github.com/1024pix/pix-tutos/pull/242) [BUMP] Update dependency @types/node to v20 (dossier racine).
+- [#241](https://github.com/1024pix/pix-tutos/pull/241) [BUMP] Update Node.js to v18.18.2.
+- [#240](https://github.com/1024pix/pix-tutos/pull/240) [BUMP] Update dependency node to v18.18.2.
+- [#239](https://github.com/1024pix/pix-tutos/pull/239) [BUMP] Update Node.js to v18.18.1.
+- [#238](https://github.com/1024pix/pix-tutos/pull/238) [BUMP] Update dependency node to v18.18.1.
+
 ## v3.8.2 (13/10/2023)
 
 
