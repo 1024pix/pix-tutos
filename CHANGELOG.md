@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.10.2 (15/11/2023)
+
+
+### :coffee: Autre
+- [#254](https://github.com/1024pix/pix-tutos/pull/254) Corrections titre vidéo.
+
 ## v3.10.1 (15/11/2023)
 
 
