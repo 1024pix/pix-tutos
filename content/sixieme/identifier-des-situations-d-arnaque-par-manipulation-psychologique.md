@@ -1,16 +1,22 @@
 ---
-title: Comment reconnaître des situations de cyberharcèlement et comment y faire face ?
-description:
-videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Cyberharcelement_v08_231109.mp4
+title: Identifier des situations d’arnaque par manipulation psychologique
+description:Hameçonnage, usurpation d’identité, faux support informatique : il existe de nombreuses techniques d'arnaque en ligne. Apprenez à les éviter à l'aide de cette vidéo.
+videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_CyberMalveillance_v06_231109.mp4
 captionFilePath:
 ---
 
 ## Transcription
 
-Lorsque quelqu'un est agressé sur les réseaux sociaux ou en ligne, de manière intentionnelle et répétée, par une personne ou un groupe de personnes, il s'agit de cyberharcèlement. Cela provoque chez la victime un isolement qui l'empêche de pouvoir se défendre.
+Sur Internet, de nombreuses cybermalveillances reposent sur une tromperie où les escrocs tentent de manipuler la victime afin d'obtenir volontairement d'elle :
 
-Le cyberharcèlement cela peut être des moqueries, des insultes, des menaces, des rumeurs diffusées via des messageries instantanées, des forums, des tchats, des courriers électroniques, la publication d'une photo ou d'une vidéo gênante ou humiliante. Mais aussi la création d'un groupe, d'une page sur les réseaux sociaux ou encore le piratage d'un compte. Le cyberharcèlement laisse des traces numériques.
+- des informations confidentielles comme le numéro de carte bancaire, les identifiants et mots de passe.
 
-Si une personne de votre entourage change brutalement de comportement ou s'isole cela peut être un signe de cyberharcèlement. De même, si elle montre des accès de colère inhabituels ou une perte d'appétit.
+- des copies de documents officiels susceptibles de permettre une usurpation d'identité telle que la carte d'identité,
 
-Pour l'aider le mieux est de pouvoir parler avec elle, pour qu'elle puisse s'exprimer, confier ses émotions, mettre des mots sur la situation et sortir de son isolement. Si cela n'est pas possible, vous pouvez aussi prévenir un adulte de confiance. Être témoin de cyberharcèlement est un rôle primordial, vous vous devez d'agir. Le meilleur moyen de lutter contre le cyberharcèlement est de le faire savoir. Pour avoir de l'aide ou des conseils contactez le 3018 par tchat ou via l'application. C'est anonyme et gratuit.
+- des photos ou vidéos personnelles pouvant être compromettantes,
+
+- de l'inciter à cliquer sur un lien, ouvrir une pièce jointe, ou encore installer une application pouvant amener au téléchargement d'un virus.
+
+Pour y parvenir, les cybercriminels mettent en scène des situations crédibles destinées à provoquer un sentiment de stress, d'envie, de curiosité..., face auquel la victime peut se montrer moins vigilante et tomber dans le piège qui lui est tendu. Posts ou messages privés sur les réseaux sociaux, mails ou SMS trompeurs, sites Internet frauduleux, usurpation de l'identité d'un interlocuteur de confiance, fenêtres de fausse alerte virus vous incitant à appeler un numéro d'assistance soi-disant « gratuit » ...
+
+Toutes ces situations sont destinées à vous faire réagir sans réfléchir. Alors prudence ! Pour éviter d'être victime de ces manipulations, il est capital de conserver son calme, de ne pas se précipiter et au moindre doute d'en parler à un proche de confiance ou de venir s'informer sur une plateforme officielle comme « Cybermalveillance.gouv.fr ».
