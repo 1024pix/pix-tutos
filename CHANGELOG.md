@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.10.1 (15/11/2023)
+
+
+### :coffee: Autre
+- [#253](https://github.com/1024pix/pix-tutos/pull/253) Correction page tuto identifier-des-situations-d-arnaque-par-manipulation-psychologique.
+
 ## v3.10.0 (15/11/2023)
 
 
