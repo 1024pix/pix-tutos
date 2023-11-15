@@ -1,5 +1,5 @@
 ---
-title: Maîtriser l’accès à ses données lors de l’installation d’une application.
+title: Décider ce que je dis de moi à mes applications, c'est possible ?
 description:
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Installation_application_v05_20231109.mp4
 captionFilePath:

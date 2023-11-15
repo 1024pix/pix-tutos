@@ -1,5 +1,5 @@
 ---
-title: Identifier des situations d’arnaque par manipulation psychologique
+title: Quelles sont les différentes situations d'arnaque et de tromperies sur internet ?
 description:Hameçonnage, usurpation d’identité, faux support informatique : il existe de nombreuses techniques d'arnaque en ligne. Apprenez à les éviter à l'aide de cette vidéo.
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_CyberMalveillance_v06_231109.mp4
 captionFilePath:
