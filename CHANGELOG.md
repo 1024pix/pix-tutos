@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v3.10.0 (15/11/2023)
+
+
+### :rocket: Amélioration
+- [#249](https://github.com/1024pix/pix-tutos/pull/249) [FEATURE] Renommer des boutons d'action (PIX-9950) (PIX-9166).
+
+### :coffee: Autre
+- [#252](https://github.com/1024pix/pix-tutos/pull/252) Création page 5 tutoriels sixieme.
+
 ## v3.9.0 (14/11/2023)
 
 
