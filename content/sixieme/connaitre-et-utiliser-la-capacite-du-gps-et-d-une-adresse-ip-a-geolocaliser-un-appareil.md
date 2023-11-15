@@ -1,5 +1,5 @@
 ---
-title: Connaître et utiliser la capacité du GPS et d’une adresse IP à géolocaliser un appareil
+title: Pourquoi et comment désactiver la capacité de localisation d'un appareil mobile ?
 description:
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Geolocalisation_v05_20231109.mp4
 captionFilePath:
