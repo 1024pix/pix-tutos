@@ -1,5 +1,6 @@
 <script setup>
 import player_fr from 'assets/translation/player_fr'
+import plyrSprites from 'plyr/dist/plyr.svg'
 import Plyr from 'plyr'
 
 defineProps({
@@ -20,7 +21,13 @@ defineProps({
 const video = ref(null)
 onMounted(() => {
   // eslint-disable-next-line no-new
-  new Plyr(video.value, { hideControls: false, disableContextMenu: false, i18n: player_fr })
+  new Plyr(video.value, {
+    hideControls: false,
+    disableContextMenu: false,
+    i18n: player_fr,
+    loadSprite: false,
+    iconUrl: plyrSprites,
+  })
 })
 </script>
 
