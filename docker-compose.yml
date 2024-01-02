@@ -7,6 +7,6 @@ services:
       - /etc/nginx/logs
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf
-      - ./dist:/app/dist
+      - ./.output:/app/.output
     ports:
       - 80:80
