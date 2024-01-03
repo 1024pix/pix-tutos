@@ -1,5 +1,24 @@
 # pix-tutos Changelog
 
+## v3.10.3 (03/01/2024)
+
+
+### :building_construction: Tech
+- [#267](https://github.com/1024pix/pix-tutos/pull/267) [TECH] Retirer l'appel au CDN de Plyr (PIX-10561).
+
+### :arrow_up: Montée de version
+- [#266](https://github.com/1024pix/pix-tutos/pull/266) [BUMP] Update dependency nuxt to ~3.9.0 (dossier racine).
+- [#265](https://github.com/1024pix/pix-tutos/pull/265) [BUMP] Lock file maintenance (dossier racine).
+- [#264](https://github.com/1024pix/pix-tutos/pull/264) [BUMP] Lock file maintenance (dossier racine).
+- [#263](https://github.com/1024pix/pix-tutos/pull/263) [BUMP] Lock file maintenance (dossier racine).
+- [#262](https://github.com/1024pix/pix-tutos/pull/262) [BUMP] Update dependency vitest to v1 (dossier racine).
+- [#261](https://github.com/1024pix/pix-tutos/pull/261) [BUMP] Lock file maintenance (dossier racine).
+- [#260](https://github.com/1024pix/pix-tutos/pull/260) [BUMP] Lock file maintenance (dossier racine).
+- [#259](https://github.com/1024pix/pix-tutos/pull/259) [BUMP] Lock file maintenance (dossier racine).
+- [#258](https://github.com/1024pix/pix-tutos/pull/258) [BUMP] Lock file maintenance (dossier racine).
+- [#257](https://github.com/1024pix/pix-tutos/pull/257) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.40.1 (.circleci).
+- [#255](https://github.com/1024pix/pix-tutos/pull/255) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.40.0 (.circleci).
+
 ## v3.10.2 (15/11/2023)
 
 
