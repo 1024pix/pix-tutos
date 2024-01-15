@@ -12,7 +12,7 @@ scripts
 services
 tests
 .buildpacks
-.eslintrc.js
+eslint.config.js
 .gitignore
 .nvmrc
 .prettierignore

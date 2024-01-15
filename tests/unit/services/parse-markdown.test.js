@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import parseMarkdownMetadata from '../../../services/parse-markdown'
 
-describe('Unit | Services | Parse Markdown Metadata', () => {
+describe('unit | Services | Parse Markdown Metadata', () => {
   describe('#parseMarkdownMetadata', () => {
     it('should return an empty object if metadata doesnt exist', () => {
       const markdown = `# My Blog Post
