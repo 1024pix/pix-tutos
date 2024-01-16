@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import { beforeEach, describe, expect, it } from 'vitest'
 import parseMarkdownMetadata from '../../services/parse-markdown'
 
-describe('Verification du contenu dans le dossier `content/sixieme`', () => {
+describe('verification du contenu dans le dossier `content/sixieme`', () => {
   const contentPath = path.join(__dirname, '../../content/sixieme')
   const dirContent = fs.readdirSync(contentPath)
 
@@ -20,7 +20,7 @@ describe('Verification du contenu dans le dossier `content/sixieme`', () => {
       }
     })
 
-    describe(`Le fichier ${file}`, () => {
+    describe(`le fichier `, () => {
       it('doit avoir un nom alpha numérique et une extension en ".md"', () => {
         try {
           expect(file).toMatch(/^[0-9a-z-_]+\.md$/)

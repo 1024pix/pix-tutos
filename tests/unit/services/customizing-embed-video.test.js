@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import customizeEmbedVideo from '../../../services/customizing-embed-video'
 
-describe('Unit | Services | Customizing Embed Video', () => {
+describe('unit | Services | Customizing Embed Video', () => {
   describe('#customizeEmbedVideo', () => {
     const urls = [
       {

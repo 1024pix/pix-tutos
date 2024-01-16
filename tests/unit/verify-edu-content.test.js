@@ -4,7 +4,7 @@ import { beforeEach, describe, expect, it } from 'vitest'
 import getAreas from '../../services/get-areas'
 import parseMarkdownMetadata from '../../services/parse-markdown'
 
-describe('Verification du contenu dans le dossier `content/edu`', () => {
+describe('verification du contenu dans le dossier `content/edu`', () => {
   const contentPath = path.join(__dirname, '../../content/edu')
   const dirContent = fs.readdirSync(contentPath)
 
@@ -21,7 +21,7 @@ describe('Verification du contenu dans le dossier `content/edu`', () => {
       }
     })
 
-    describe(`Le fichier ${file}`, () => {
+    describe(`le fichier `, () => {
       it('doit avoir un nom alpha numérique et une extension en ".md"', () => {
         try {
           expect(file).toMatch(/^[0-9a-z-_]+\.md$/)

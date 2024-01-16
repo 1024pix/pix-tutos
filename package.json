@@ -1,13 +1,17 @@
 {
-  "private": true,
   "name": "pix-tutos",
+  "type": "module",
   "version": "3.10.3",
+  "private": true,
+  "engines": {
+    "node": "^20.8.1"
+  },
   "scripts": {
     "dev": "nuxt dev",
     "dev:mobile": "nuxt dev --host",
     "build": "nuxt generate",
     "start": "nuxt start",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix",
     "lint:content": "docker run -v $PWD:/workdir ghcr.io/igorshubovych/markdownlint-cli:latest 'content/**/*.md'",
     "lint:content:fix": "npm run lint:content -- -fix",
@@ -19,16 +23,13 @@
     "postinstall": "nuxt prepare",
     "captions:translate": "srt-to-vtt 'public/captions/mednum/Un pseudo pourquoi faire.mp4.srt' > public/captions/mednum/Un_pseudo_pourquoi_faire.vtt"
   },
-  "engines": {
-    "node": "^20.8.1"
-  },
   "dependencies": {
     "@fontsource/open-sans": "^5.0.0",
     "@fontsource/roboto": "^5.0.0",
     "plyr": "^3.7.8"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.43.1",
+    "@antfu/eslint-config": "^1.0.0",
     "@nuxt/content": "^2.4.3",
     "@playwright/test": "^1.30.0",
     "@types/node": "^20.0.0",
