@@ -1,6 +1,6 @@
 ---
 area: Domaine 5
-title: Préparer une séance utilisant des outils numériques 
+title: Préparer une séance utilisant des outils numériques
 description: Découvrez comment intégrer des outils numériques dans la préparation de séances, comme des séances de poésie !
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/905594b8-22c9-4940-85c3-2b35c697c99b
 videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/905594b8-22c9-4940-85c3-2b35c697c99b-1080-fragmented.mp4
