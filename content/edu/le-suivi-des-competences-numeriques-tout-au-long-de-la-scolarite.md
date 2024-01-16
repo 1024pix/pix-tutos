@@ -1,6 +1,6 @@
 ---
 area: Domaine 5
-title: Le suivi des compétences numériques tout au long de la scolarité 
+title: Le suivi des compétences numériques tout au long de la scolarité
 description: Comment suivre et développer les compétences numériques des élèves tout au long de leur scolarité ?
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/5b3d8a54-2d18-41a2-a7b6-488954cec611
 videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/5b3d8a54-2d18-41a2-a7b6-488954cec611-1080-fragmented.mp4
