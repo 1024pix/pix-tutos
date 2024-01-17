@@ -1,5 +1,17 @@
 # pix-tutos Changelog
 
+## v3.10.4 (17/01/2024)
+
+
+### :arrow_up: Montée de version
+- [#270](https://github.com/1024pix/pix-tutos/pull/270) [BUMP] Update dependency node to v20.11.0.
+- [#271](https://github.com/1024pix/pix-tutos/pull/271) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.41.0 (.circleci).
+- [#245](https://github.com/1024pix/pix-tutos/pull/245) [BUMP] Update node.
+- [#256](https://github.com/1024pix/pix-tutos/pull/256) [BUMP] Update dependency @antfu/eslint-config to v2 (dossier racine).
+- [#248](https://github.com/1024pix/pix-tutos/pull/248) [BUMP] Update dependency @antfu/eslint-config to v1 (dossier racine).
+- [#269](https://github.com/1024pix/pix-tutos/pull/269) [BUMP] Lock file maintenance (dossier racine).
+- [#268](https://github.com/1024pix/pix-tutos/pull/268) [BUMP] Lock file maintenance (dossier racine).
+
 ## v3.10.3 (03/01/2024)
 
 
