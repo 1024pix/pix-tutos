@@ -1,5 +1,16 @@
 # pix-tutos Changelog
 
+## v3.10.5 (05/02/2024)
+
+
+### :arrow_up: Montée de version
+- [#277](https://github.com/1024pix/pix-tutos/pull/277) [BUMP] Lock file maintenance (dossier racine).
+- [#276](https://github.com/1024pix/pix-tutos/pull/276) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.41.2 (.circleci).
+- [#275](https://github.com/1024pix/pix-tutos/pull/275) [BUMP] Lock file maintenance (dossier racine).
+- [#274](https://github.com/1024pix/pix-tutos/pull/274) [BUMP] Lock file maintenance (dossier racine).
+- [#273](https://github.com/1024pix/pix-tutos/pull/273) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.41.1 (.circleci).
+- [#272](https://github.com/1024pix/pix-tutos/pull/272) [BUMP] Update Node.js to v20.11.0.
+
 ## v3.10.4 (17/01/2024)
 
 
