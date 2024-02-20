@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v3.10.6 (20/02/2024)
+
+
+### :arrow_up: Montée de version
+- [#281](https://github.com/1024pix/pix-tutos/pull/281) [BUMP] Update dependency node to v20.11.1.
+- [#280](https://github.com/1024pix/pix-tutos/pull/280) [BUMP] Lock file maintenance (dossier racine).
+- [#279](https://github.com/1024pix/pix-tutos/pull/279) [BUMP] Lock file maintenance (dossier racine).
+- [#278](https://github.com/1024pix/pix-tutos/pull/278) [BUMP] Update dependency nuxt to ~3.10.0 (dossier racine).
+
 ## v3.10.5 (05/02/2024)
 
 
