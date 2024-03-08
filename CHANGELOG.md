@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v3.10.7 (08/03/2024)
+
+
+### :arrow_up: Montée de version
+- [#285](https://github.com/1024pix/pix-tutos/pull/285) [BUMP] Lock file maintenance (dossier racine).
+- [#284](https://github.com/1024pix/pix-tutos/pull/284) [BUMP] Update Node.js to v20.11.1.
+- [#283](https://github.com/1024pix/pix-tutos/pull/283) [BUMP] Lock file maintenance (dossier racine).
+- [#282](https://github.com/1024pix/pix-tutos/pull/282) [BUMP] Lock file maintenance (dossier racine).
+
 ## v3.10.6 (20/02/2024)
 
 
