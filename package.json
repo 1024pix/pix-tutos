@@ -24,11 +24,10 @@
     "captions:translate": "srt-to-vtt 'public/captions/mednum/Un pseudo pourquoi faire.mp4.srt' > public/captions/mednum/Un_pseudo_pourquoi_faire.vtt"
   },
   "dependencies": {
-    "@fontsource/open-sans": "^5.0.0",
-    "@fontsource/roboto": "^5.0.0",
     "plyr": "^3.7.8"
   },
   "devDependencies": {
+    "@1024pix/pix-ui": "^45.0.16",
     "@antfu/eslint-config": "^2.0.0",
     "@nuxt/content": "^2.4.3",
     "@playwright/test": "^1.30.0",

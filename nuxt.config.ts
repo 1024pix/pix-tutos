@@ -1,5 +1,8 @@
+import { createResolver } from '@nuxt/kit'
 import isSeoIndexingEnabled from './services/is-seo-indexing-enabled'
 import { config } from './config/environment'
+
+const { resolve } = createResolver(import.meta.url)
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
@@ -50,13 +53,20 @@ export default defineNuxtConfig({
       preprocessorOptions: {
         scss: {
           additionalData: `
-            @use "@/assets/scss/_design-tokens.scss" as *;
-            @import "@fontsource/roboto";
-            @import "@fontsource/open-sans";
+            @use "@1024pix/pix-ui/addon/styles/pix-design-tokens/index.scss" as *;
           `,
         },
       },
     },
+  },
+
+  nitro: {
+    publicAssets: [
+      {
+        dir: resolve('./node_modules/@1024pix/pix-ui/public'),
+        baseURL: '/@1024pix/pix-ui',
+      },
+    ],
   },
 
   content: {

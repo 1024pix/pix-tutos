@@ -49,8 +49,9 @@ defineProps({
 
 <style lang="scss">
 .main-header {
-  background-color: white;
-  box-shadow: $box-shadow-xs;
+  @extend %pix-shadow-xs;
+
+  background-color: var(--pix-neutral-0);
 }
 
 .main-header__container {

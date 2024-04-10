@@ -1,5 +1,3 @@
-@import './typography';
-
 body {
   margin: 0;
 }
@@ -25,7 +23,7 @@ p, li {
 }
 
 .plyr {
-  --plyr-color-main: #{$blue-50};
+  --plyr-color-main: var(--pix-primary-500);
 
   /* Allow to interact with the `video` element */
   &__poster {

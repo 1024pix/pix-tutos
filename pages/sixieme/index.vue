@@ -36,7 +36,7 @@ const tutos = await queryContent('sixieme').sort({ title: 1 }).find()
 <style lang="scss" scoped>
 a {
   text-decoration: none;
-  color: $black-90;
+  color: var(--pix-neutral-900);
 }
 
 ul {
@@ -50,7 +50,7 @@ ul {
   }
   &__description {
     margin-bottom: 56px;
-    color: $pix-neutral-50;
+    color: var(--pix-neutral-500);
     font-weight: 500;
   }
 }
@@ -64,7 +64,7 @@ ul {
     margin-bottom: 20px;
   }
   &__number {
-    color: $pix-neutral-50;
+    color: var(--pix-neutral-500);
   }
 }
 
@@ -77,13 +77,14 @@ ul {
 }
 
 .tuto-block {
+  @extend %pix-shadow-xs;
+
   border-radius: 10px;
   padding: 16px 24px;
-  background: $pix-neutral-0;
-  box-shadow: $box-shadow-xs;
+  background: var(--pix-neutral-0);
 
   &:hover {
-    color: $blue-hover;
+    color: var(--pix-tertiary-500);
   }
 }
 </style>

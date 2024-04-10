@@ -23,12 +23,10 @@ defineProps({
 
 <style lang="scss" scoped>
 .pix-button {
+  @extend %pix-body-s;
+
   display: block;
   text-decoration: none;
-  font-family: $font-roboto;
-  font-size: 0.875rem;
-  font-weight: 500;
-  line-height: 1.25rem;
   white-space: nowrap;
 
   &--size-small {
@@ -44,24 +42,24 @@ defineProps({
   }
 
   &--background-blue {
-    color: white;
-    background: $blue-50;
+    color: var(--pix-neutral-0);
+    background: var(--pix-primary-500);
 
     &:hover,
     &:focus {
-      background: $blue-hover;
-      border-color: white;
-      box-shadow: 0 0 0 2px $blue-hover;
+      background: var(--pix-primary-900);
+      border-color: var(--pix-neutral-0);
+      box-shadow: 0 0 0 2px var(--pix-primary-900);
     }
   }
 
   &--background-transparent-light {
-    color: $black-90;
+    color: var(--pix-neutral-900);
     background: transparent;
-    border-color: $black-50;
+    border-color: var(--pix-neutral-500);
 
     &:hover {
-      background-color: $hover-grey;
+      background-color: var(--pix-neutral-100);
     }
   }
 }
