@@ -27,7 +27,7 @@ jobs:
 
   e2e:
     docker:
-      - image: mcr.microsoft.com/playwright:v1.41.2-focal
+      - image: mcr.microsoft.com/playwright:v1.43.0-focal
     resource_class: medium
     steps:
       - checkout
