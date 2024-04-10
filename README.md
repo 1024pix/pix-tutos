@@ -46,5 +46,5 @@ Exemples :
 ```shell
 npm run build:site
 
-PORT=80 erb servers.conf.erb > nginx.conf && docker-compose up
+PORT=80 erb servers.conf.erb > nginx.conf && docker compose up
 ```
