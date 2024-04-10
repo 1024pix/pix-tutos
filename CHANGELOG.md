@@ -1,5 +1,14 @@
 # pix-tutos Changelog
 
+## v3.10.9 (10/04/2024)
+
+
+### :arrow_up: Montée de version
+- [#294](https://github.com/1024pix/pix-tutos/pull/294) [BUMP] Update node.
+
+### :coffee: Autre
+- [#293](https://github.com/1024pix/pix-tutos/pull/293) Revert "[BUMP] Update node".
+
 ## v3.10.8 (10/04/2024)
 
 
