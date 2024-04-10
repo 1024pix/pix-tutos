@@ -1,5 +1,17 @@
 # pix-tutos Changelog
 
+## v3.10.8 (10/04/2024)
+
+
+### :arrow_up: Montée de version
+- [#290](https://github.com/1024pix/pix-tutos/pull/290) [BUMP] Update node.
+- [#292](https://github.com/1024pix/pix-tutos/pull/292) [BUMP] Lock file maintenance (dossier racine).
+- [#291](https://github.com/1024pix/pix-tutos/pull/291) [BUMP] Lock file maintenance (dossier racine).
+- [#289](https://github.com/1024pix/pix-tutos/pull/289) [BUMP] Lock file maintenance (dossier racine).
+- [#288](https://github.com/1024pix/pix-tutos/pull/288) [BUMP] Update dependency nuxt to ~3.11.0 (dossier racine).
+- [#287](https://github.com/1024pix/pix-tutos/pull/287) [BUMP] Lock file maintenance (dossier racine).
+- [#286](https://github.com/1024pix/pix-tutos/pull/286) [BUMP] Lock file maintenance (dossier racine).
+
 ## v3.10.7 (08/03/2024)
 
 
