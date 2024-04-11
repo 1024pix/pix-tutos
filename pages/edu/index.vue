@@ -71,7 +71,7 @@ ul {
 
 .header {
   &__title {
-    margin-bottom: 8px;
+    margin-bottom: var(--pix-spacing-2x);
   }
   &__description {
     margin-bottom: 56px;
@@ -84,9 +84,9 @@ ul {
   &__title {
     display: flex;
     flex-direction: column;
-    gap: 4px;
-    margin-top: 32px;
-    margin-bottom: 20px;
+    gap: var(--pix-spacing-1x);
+    margin-top: var(--pix-spacing-8x);
+    margin-bottom: var(--pix-spacing-4x);
   }
   &__number {
     color: var(--pix-neutral-500);
@@ -94,10 +94,10 @@ ul {
 }
 
 .tutorial-list {
-  margin-bottom: 40px;
+  margin-bottom: var(--pix-spacing-10x);
 
   &__item:not(:last-child) {
-    margin-bottom: 12px;
+    margin-bottom: var(--pix-spacing-3x);
   }
 }
 
@@ -105,7 +105,8 @@ ul {
   @extend %pix-shadow-xs;
 
   border-radius: 10px;
-  padding: 16px 24px;
+  padding: var(--pix-spacing-4x) var(--pix-spacing-6x);
+  margin: var(--pix-spacing-6x) 0;
   background: var(--pix-neutral-0);
 
   &:hover {

@@ -27,7 +27,7 @@ definePageMeta({ layout: 'simple' })
 <style lang="scss">
 .error {
   width: 300px;
-  padding-top: 48px;
+  padding-top: var(--pix-spacing-12x);
   margin: auto;
 
   &__logo {

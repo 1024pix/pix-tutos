@@ -47,8 +47,8 @@ useHead({ titleTemplate: '%s - Pix+Édu' })
 }
 
 .partners {
-  margin-top: 48px;
-  padding: 32px 0;
+  margin-top: var(--pix-spacing-12x);
+  padding: var(--pix-spacing-8x) 0;
   border-top: 1px solid var(--pix-neutral-20);
   border-bottom: 1px solid var(--pix-neutral-20);
 
