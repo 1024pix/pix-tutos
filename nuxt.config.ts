@@ -26,7 +26,13 @@ if (config.matomo.containerUrl) {
 export default defineNuxtConfig({
   modules: ['@nuxt/content'],
 
-  css: ['@1024pix/pix-ui/addon/styles/normalize-reset/index.scss', '~/assets/scss/globals.scss', 'plyr/dist/plyr.css'],
+  css: [
+    '@1024pix/pix-ui/addon/styles/normalize-reset/index.scss',
+    '@1024pix/pix-ui/addon/styles/_pix-button-base.scss',
+    '@1024pix/pix-ui/addon/styles/_pix-button.scss',
+    '~/assets/scss/globals.scss',
+    'plyr/dist/plyr.css',
+  ],
 
   app: {
     head: {

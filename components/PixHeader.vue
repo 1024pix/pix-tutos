@@ -35,7 +35,7 @@ defineProps({
       >
         <PixButtonLink
           href="https://app.pix.fr/connexion"
-          background-color="transparent-light"
+          background-color="neutral"
         >
           Se connecter
         </PixButtonLink>
