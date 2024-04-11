@@ -4,10 +4,12 @@ body {
 
 h1 {
   @extend %pix-title-l;
+  margin: var(--pix-spacing-6x) 0;
 }
 
 h2 {
   @extend %pix-title-m;
+  margin: var(--pix-spacing-8x) 0;
 }
 
 h3 {
@@ -20,6 +22,22 @@ h4 {
 
 p, li {
   @extend %pix-body-m;
+}
+
+p {
+  margin: var(--pix-spacing-4x) 0;
+}
+
+ul,
+ol {
+  margin: var(--pix-spacing-1x) 0;
+  padding: revert;
+  list-style: revert;
+}
+
+a {
+  color: revert;
+  text-decoration: revert;
 }
 
 .plyr {
