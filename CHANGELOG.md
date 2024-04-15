@@ -1,5 +1,22 @@
 # pix-tutos Changelog
 
+## v3.10.10 (15/04/2024)
+
+
+### :arrow_up: Montée de version
+- [#307](https://github.com/1024pix/pix-tutos/pull/307) [BUMP] Lock file maintenance (dossier racine).
+- [#306](https://github.com/1024pix/pix-tutos/pull/306) [BUMP] Update dependency node to v20.12.2.
+- [#304](https://github.com/1024pix/pix-tutos/pull/304) [BUMP] Lock file maintenance (dossier racine).
+- [#303](https://github.com/1024pix/pix-tutos/pull/303) [BUMP] Update dependency eslint to v9.
+- [#302](https://github.com/1024pix/pix-tutos/pull/302) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.43.1 (.circleci).
+- [#301](https://github.com/1024pix/pix-tutos/pull/301) [BUMP] Update Node.js to v20.12.2.
+- [#300](https://github.com/1024pix/pix-tutos/pull/300) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.43.0 (.circleci).
+- [#298](https://github.com/1024pix/pix-tutos/pull/298) [BUMP] Update Node.js to v20.12.1.
+- [#297](https://github.com/1024pix/pix-tutos/pull/297) [BUMP] Update node.
+
+### :coffee: Autre
+- [#296](https://github.com/1024pix/pix-tutos/pull/296) Revert "[BUMP] Update node".
+
 ## v3.10.9 (10/04/2024)
 
 
