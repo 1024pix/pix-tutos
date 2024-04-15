@@ -26,9 +26,10 @@ useHead({ titleTemplate: '%s - Sixième' })
 
 <style lang="scss">
 #app {
+  @extend %pix-body-l;
+
   min-height: 100vh;
-  font-family: $font-roboto;
-  background-color: $background-light;
+  background-color: var(--pix-neutral-20);
 }
 
 .main-container {
@@ -38,10 +39,10 @@ useHead({ titleTemplate: '%s - Sixième' })
 }
 
 .partners {
-  margin-top: 48px;
-  padding: 32px 0;
-  border-top: 1px solid $pix-neutral-20;
-  border-bottom: 1px solid $pix-neutral-20;
+  margin-top: var(--pix-spacing-12x);
+  padding: var(--pix-spacing-8x) 0;
+  border-top: 1px solid var(--pix-neutral-20);
+  border-bottom: 1px solid var(--pix-neutral-20);
 
   img {
     display: block;
@@ -58,7 +59,7 @@ useHead({ titleTemplate: '%s - Sixième' })
 
 @media print {
   #app {
-    background-color: $pix-neutral-0;
+    background-color: var(--pix-neutral-0);
   }
 
   .main-container {

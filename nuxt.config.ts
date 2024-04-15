@@ -1,5 +1,8 @@
+import { createResolver } from '@nuxt/kit'
 import isSeoIndexingEnabled from './services/is-seo-indexing-enabled'
 import { config } from './config/environment'
+
+const { resolve } = createResolver(import.meta.url)
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
@@ -23,7 +26,13 @@ if (config.matomo.containerUrl) {
 export default defineNuxtConfig({
   modules: ['@nuxt/content'],
 
-  css: ['~/assets/scss/globals.scss', 'plyr/dist/plyr.css'],
+  css: [
+    '@1024pix/pix-ui/addon/styles/normalize-reset/index.scss',
+    '@1024pix/pix-ui/addon/styles/_pix-button-base.scss',
+    '@1024pix/pix-ui/addon/styles/_pix-button.scss',
+    '~/assets/scss/globals.scss',
+    'plyr/dist/plyr.css',
+  ],
 
   app: {
     head: {
@@ -50,13 +59,20 @@ export default defineNuxtConfig({
       preprocessorOptions: {
         scss: {
           additionalData: `
-            @use "@/assets/scss/_design-tokens.scss" as *;
-            @import "@fontsource/roboto";
-            @import "@fontsource/open-sans";
+            @use "@1024pix/pix-ui/addon/styles/pix-design-tokens/index.scss" as *;
           `,
         },
       },
     },
+  },
+
+  nitro: {
+    publicAssets: [
+      {
+        dir: resolve('./node_modules/@1024pix/pix-ui/public'),
+        baseURL: '/@1024pix/pix-ui',
+      },
+    ],
   },
 
   content: {

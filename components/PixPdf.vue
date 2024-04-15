@@ -48,19 +48,4 @@ defineProps({
     margin: 0 0 2rem;
   }
 }
-
-.nuxt-content {
-  margin-top: 32px;
-  color: $pix-neutral-70;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  border-top: 1px solid $pix-neutral-22;
-
-  h2 {
-    margin: 32px 0 8px;
-    color: $pix-neutral-90;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-}
 </style>

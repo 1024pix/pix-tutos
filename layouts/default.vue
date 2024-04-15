@@ -15,9 +15,10 @@
 
 <style lang="scss">
 #app {
+  @extend %pix-body-l;
+
   min-height: 100vh;
-  font-family: $font-roboto;
-  background-color: $background-light;
+  background-color: var(--pix-neutral-20);
 }
 
 .main-container {

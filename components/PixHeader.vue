@@ -35,7 +35,7 @@ defineProps({
       >
         <PixButtonLink
           href="https://app.pix.fr/connexion"
-          background-color="transparent-light"
+          background-color="neutral"
         >
           Se connecter
         </PixButtonLink>
@@ -49,8 +49,9 @@ defineProps({
 
 <style lang="scss">
 .main-header {
-  background-color: white;
-  box-shadow: $box-shadow-xs;
+  @extend %pix-shadow-xs;
+
+  background-color: var(--pix-neutral-0);
 }
 
 .main-header__container {

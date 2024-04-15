@@ -61,7 +61,7 @@ const tutosGroupedByArea = tutos.reduce((acc, tuto) => {
 <style lang="scss" scoped>
 a {
   text-decoration: none;
-  color: $black-90;
+  color: var(--pix-neutral-900);
 }
 
 ul {
@@ -71,11 +71,11 @@ ul {
 
 .header {
   &__title {
-    margin-bottom: 8px;
+    margin-bottom: var(--pix-spacing-2x);
   }
   &__description {
     margin-bottom: 56px;
-    color: $pix-neutral-50;
+    color: var(--pix-neutral-500);
     font-weight: 500;
   }
 }
@@ -84,31 +84,33 @@ ul {
   &__title {
     display: flex;
     flex-direction: column;
-    gap: 4px;
-    margin-top: 32px;
-    margin-bottom: 20px;
+    gap: var(--pix-spacing-1x);
+    margin-top: var(--pix-spacing-8x);
+    margin-bottom: var(--pix-spacing-4x);
   }
   &__number {
-    color: $pix-neutral-50;
+    color: var(--pix-neutral-500);
   }
 }
 
 .tutorial-list {
-  margin-bottom: 40px;
+  margin-bottom: var(--pix-spacing-10x);
 
   &__item:not(:last-child) {
-    margin-bottom: 12px;
+    margin-bottom: var(--pix-spacing-3x);
   }
 }
 
 .tuto-block {
+  @extend %pix-shadow-xs;
+
   border-radius: 10px;
-  padding: 16px 24px;
-  background: $pix-neutral-0;
-  box-shadow: $box-shadow-xs;
+  padding: var(--pix-spacing-4x) var(--pix-spacing-6x);
+  margin: var(--pix-spacing-6x) 0;
+  background: var(--pix-neutral-0);
 
   &:hover {
-    color: $blue-hover;
+    color: var(--pix-tertiary-500);
   }
 }
 </style>
