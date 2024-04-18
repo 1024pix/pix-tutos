@@ -1,5 +1,17 @@
 # pix-tutos Changelog
 
+## v3.11.0 (18/04/2024)
+
+
+### :rocket: Amélioration
+- [#295](https://github.com/1024pix/pix-tutos/pull/295) [FEATURE] Utiliser les Design Tokens de Pix UI (PIX-12060).
+
+### :arrow_up: Montée de version
+- [#311](https://github.com/1024pix/pix-tutos/pull/311) [BUMP] Update dependency @1024pix/pix-ui to ^45.1.3 (dossier racine).
+- [#310](https://github.com/1024pix/pix-tutos/pull/310) [BUMP] Update dependency @1024pix/pix-ui to ^45.1.2 (dossier racine).
+- [#309](https://github.com/1024pix/pix-tutos/pull/309) [BUMP] Update dependency @1024pix/pix-ui to ^45.1.1 (dossier racine).
+- [#308](https://github.com/1024pix/pix-tutos/pull/308) [BUMP] Update dependency @1024pix/pix-ui to ^45.0.17 (dossier racine).
+
 ## v3.10.10 (15/04/2024)
 
 
