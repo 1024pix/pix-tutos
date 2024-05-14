@@ -1,5 +1,21 @@
 # pix-tutos Changelog
 
+## v3.11.1 (14/05/2024)
+
+
+### :arrow_up: Montée de version
+- [#325](https://github.com/1024pix/pix-tutos/pull/325) [BUMP] Update dependency node to v20.13.0.
+- [#322](https://github.com/1024pix/pix-tutos/pull/322) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.44.0 (.circleci).
+- [#320](https://github.com/1024pix/pix-tutos/pull/320) [BUMP] Update dependency @1024pix/pix-ui to ^45.3.5 (dossier racine).
+- [#319](https://github.com/1024pix/pix-tutos/pull/319) [BUMP] Lock file maintenance (dossier racine).
+- [#318](https://github.com/1024pix/pix-tutos/pull/318) [BUMP] Update dependency @1024pix/pix-ui to ^45.3.4 (dossier racine).
+- [#317](https://github.com/1024pix/pix-tutos/pull/317) [BUMP] Update dependency @1024pix/pix-ui to ^45.3.3 (dossier racine).
+- [#316](https://github.com/1024pix/pix-tutos/pull/316) [BUMP] Update dependency @1024pix/pix-ui to ^45.3.2 (dossier racine).
+- [#315](https://github.com/1024pix/pix-tutos/pull/315) [BUMP] Update dependency @1024pix/pix-ui to ^45.3.1 (dossier racine).
+- [#314](https://github.com/1024pix/pix-tutos/pull/314) [BUMP] Update dependency @1024pix/pix-ui to ^45.1.4 (dossier racine).
+- [#313](https://github.com/1024pix/pix-tutos/pull/313) [BUMP] Lock file maintenance (dossier racine).
+- [#312](https://github.com/1024pix/pix-tutos/pull/312) [BUMP] Update dependency eslint to v9.
+
 ## v3.11.0 (18/04/2024)
 
 
