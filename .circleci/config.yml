@@ -1,11 +1,30 @@
----
-version: 2.0
+version: 2.1
+
+orbs:
+  browser-tools: circleci/browser-tools@1.4.8
+
+executors:
+  node:
+    parameters:
+      node-version:
+        # renovate datasource=node-version depName=node
+        default: 20.16.0
+        type: string
+    docker:
+      - image: cimg/node:<<parameters.node-version>>
+  playwright:
+    parameters:
+      playwright-version:
+        # renovate datasource=npm depName=@playwright/test
+        default: 1.45.3
+        type: string
+    docker:
+      - image: mcr.microsoft.com/playwright:v<<parameters.playwright-version>>
+    resource_class: medium
 
 jobs:
   test:
-    docker:
-      # renovate datasource=node-version depName=node
-      - image: cimg/node:20.16.0
+    executor: node
     steps:
       - checkout
       - run: cat package*.json > cachekey
@@ -27,9 +46,7 @@ jobs:
             npm run test
 
   e2e:
-    docker:
-      - image: mcr.microsoft.com/playwright:v1.45.3-focal
-    resource_class: medium
+    executor: playwright
     steps:
       - checkout
       - run: cat package*.json > cachekey
