@@ -5,7 +5,7 @@ jobs:
   test:
     docker:
       # renovate datasource=node-version depName=node
-      - image: cimg/node:20.16.0
+      - image: cimg/node:22.5.1
     steps:
       - checkout
       - run: cat package*.json > cachekey
