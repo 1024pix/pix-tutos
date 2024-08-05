@@ -4,6 +4,7 @@ version: 2.0
 jobs:
   test:
     docker:
+      # renovate datasource=node-version depName=node
       - image: cimg/node:20.16.0
     steps:
       - checkout
