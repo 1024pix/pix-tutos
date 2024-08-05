@@ -1,7 +1,7 @@
-// eslint-disable-next-line no-var, ts/no-use-before-define
-var _mtm = _mtm || []
+window._mtm = window._mtm || []
 
-if (document.querySelector('script[data-matomo-debug-mode="true"]'))
-  _mtm.push(['enableDebugMode'])
+if (document.querySelector('script[data-matomo-debug-mode="true"]')) {
+  window._mtm.push(['enableDebugMode'])
+}
 
-_mtm.push({ 'mtm.startTime': new Date().getTime(), 'event': 'mtm.Start' })
+window._mtm.push({ 'mtm.startTime': new Date().getTime(), 'event': 'mtm.Start' })
