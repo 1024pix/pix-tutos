@@ -1,5 +1,27 @@
 # pix-tutos Changelog
 
+## v3.11.2 (05/08/2024)
+
+
+### :arrow_up: Montée de version
+- [#344](https://github.com/1024pix/pix-tutos/pull/344) [BUMP] Update dependency @1024pix/pix-ui to v46.
+- [#343](https://github.com/1024pix/pix-tutos/pull/343) [BUMP] Update dependency node to v20.16.0.
+- [#342](https://github.com/1024pix/pix-tutos/pull/342) [BUMP] Update Node.js to v20.16.0.
+- [#340](https://github.com/1024pix/pix-tutos/pull/340) [BUMP] Update node.
+- [#339](https://github.com/1024pix/pix-tutos/pull/339) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.45.3 (.circleci).
+- [#336](https://github.com/1024pix/pix-tutos/pull/336) [BUMP] Update dependency node to v20.15.0.
+- [#337](https://github.com/1024pix/pix-tutos/pull/337) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.45.1 (.circleci).
+- [#338](https://github.com/1024pix/pix-tutos/pull/338) [BUMP] Update dependency vitest to v2 (dossier racine).
+- [#335](https://github.com/1024pix/pix-tutos/pull/335) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.45.0 (.circleci).
+- [#334](https://github.com/1024pix/pix-tutos/pull/334) [BUMP] Update Node.js to v20.15.0.
+- [#333](https://github.com/1024pix/pix-tutos/pull/333) [BUMP] Update dependency nuxt to ~3.12.0 (dossier racine).
+- [#331](https://github.com/1024pix/pix-tutos/pull/331) [BUMP] Update Node.js to v20.14.0.
+- [#330](https://github.com/1024pix/pix-tutos/pull/330) [BUMP] Update dependency node to v20.14.0.
+- [#329](https://github.com/1024pix/pix-tutos/pull/329) [BUMP] Update mcr.microsoft.com/playwright Docker tag to v1.44.1 (.circleci).
+- [#328](https://github.com/1024pix/pix-tutos/pull/328) [BUMP] Update Node.js to v20.13.1.
+- [#327](https://github.com/1024pix/pix-tutos/pull/327) [BUMP] Update dependency node to v20.13.1.
+- [#326](https://github.com/1024pix/pix-tutos/pull/326) [BUMP] Update Node.js to v20.13.0.
+
 ## v3.11.1 (14/05/2024)
 
 
