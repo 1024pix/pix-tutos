@@ -1,5 +1,15 @@
 # pix-tutos Changelog
 
+## v3.11.3 (05/08/2024)
+
+
+### :building_construction: Tech
+- [#349](https://github.com/1024pix/pix-tutos/pull/349) [TECH] Regrouper les montées de version Node.
+- [#347](https://github.com/1024pix/pix-tutos/pull/347) [TECH] Regrouper les montées de version Node.
+
+### :arrow_up: Montée de version
+- [#350](https://github.com/1024pix/pix-tutos/pull/350) [BUMP] Lock file maintenance.
+
 ## v3.11.2 (05/08/2024)
 
 
