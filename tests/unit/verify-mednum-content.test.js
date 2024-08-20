@@ -103,7 +103,7 @@ describe('verification du contenu dans le dossier `content/mednum`', () => {
         }
         catch {
           throw new Error(
-              `Des champs inconnus sont présents. Champs attendus : ${acceptedFieldsVideo}.`,
+            `Des champs inconnus sont présents. Champs attendus : ${acceptedFieldsVideo}.`,
           )
         }
       })
@@ -137,9 +137,9 @@ describe('verification du contenu dans le dossier `content/mednum`', () => {
         }
         catch {
           throw new Error(
-          `Le format du lien "captionFilePath" est invalide (format attendu : "/captions/mednum/{ID_VIDEO}.vtt", valeur reçue : "${
-            tutoFileMetadata.captionFilePath ?? ''
-          }")`,
+            `Le format du lien "captionFilePath" est invalide (format attendu : "/captions/mednum/{ID_VIDEO}.vtt", valeur reçue : "${
+              tutoFileMetadata.captionFilePath ?? ''
+            }")`,
           )
         }
       })
@@ -167,9 +167,9 @@ describe('verification du contenu dans le dossier `content/mednum`', () => {
         }
         catch {
           throw new Error(
-              `Le format du lien "pdfFilePath" est invalide (format attendu : "/pdf/mednum/{PDF_FILE_NAME}.pdf", valeur reçue : "${
-                  tutoFileMetadata.pdfFilePath ?? ''
-              }")`,
+            `Le format du lien "pdfFilePath" est invalide (format attendu : "/pdf/mednum/{PDF_FILE_NAME}.pdf", valeur reçue : "${
+              tutoFileMetadata.pdfFilePath ?? ''
+            }")`,
           )
         }
       })

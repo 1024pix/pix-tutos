@@ -85,7 +85,7 @@ describe('verification du contenu dans le dossier `content/sixieme`', () => {
         }
         catch {
           throw new Error(
-              `Des champs inconnus sont présents. Champs attendus : ${acceptedFields}.`,
+            `Des champs inconnus sont présents. Champs attendus : ${acceptedFields}.`,
           )
         }
       })
