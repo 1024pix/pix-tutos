@@ -1,5 +1,22 @@
 # pix-tutos Changelog
 
+## v3.11.4 (21/08/2024)
+
+
+### :rocket: Amélioration
+- [#332](https://github.com/1024pix/pix-tutos/pull/332) [FEATURE] Ajout des transcriptions et des liens de téléchargement des webinaires.
+
+### :building_construction: Tech
+- [#356](https://github.com/1024pix/pix-tutos/pull/356) [TECH] Ajoute un calculateur de taille de bundle.
+
+### :arrow_up: Montée de version
+- [#357](https://github.com/1024pix/pix-tutos/pull/357) [BUMP] Update dependency @playwright/test to v1.46.1 (.circleci).
+- [#354](https://github.com/1024pix/pix-tutos/pull/354) [BUMP] Lock file maintenance.
+- [#353](https://github.com/1024pix/pix-tutos/pull/353) [BUMP] Update dependency @1024pix/pix-ui to ^46.12.22 (dossier racine).
+- [#355](https://github.com/1024pix/pix-tutos/pull/355) [BUMP] Update dependency @playwright/test to v1.46.0 (.circleci).
+- [#351](https://github.com/1024pix/pix-tutos/pull/351) [BUMP] Update dependency @1024pix/pix-ui to ^46.12.18 (dossier racine).
+- [#352](https://github.com/1024pix/pix-tutos/pull/352) [BUMP] Update Node.js to ^20.16.0.
+
 ## v3.11.3 (05/08/2024)
 
 
