@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.11.5 (22/08/2024)
+
+
+### :coffee: Autre
+- [#358](https://github.com/1024pix/pix-tutos/pull/358) Ajouts transcriptions et liens de téléchargement aux tutos webinaires pix+ edu.
+
 ## v3.11.4 (21/08/2024)
 
 
