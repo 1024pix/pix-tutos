@@ -14,6 +14,6 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - uses: preactjs/compressed-size-action@v2
         with:
-          pattern: '.output/public/**/*'
+          pattern: '.output/public/**/*.html'
           exclude: '{.output/public/_nuxt/**/*,.output/public/api/_content/**/*}'
           minimum-change-threshold: 10000
