@@ -8,7 +8,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-Accéssibilité des apprentissages et numérique – Extrait
+Accessibilité des apprentissages et numérique – Extrait
 
 "Accessibilité des apprentissages et numérique" "Zoom sur : Permettre l'autonomie des élèves grâce à des documents accessibles" Benjamin Thily, médiateur numérique, Atelier Canopé de Caen.
 
