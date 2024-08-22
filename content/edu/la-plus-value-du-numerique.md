@@ -10,7 +10,7 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 "Les apports de la recherche pour utiliser le numérique avec discernement" "Zoom sur : La plus-value du numérique ?"
 
-"André Tricot, professeur de psychologie cognitive, Université Paul Valéry de Montpellier" 
+"André Tricot, professeur de psychologie cognitive, Université Paul Valéry de Montpellier"
 
 Quand on observe une salle de classe, on constate quelque chose que tous les enseignants savent par cœur, c'est que faire apprendre les élèves, c'est leur faire réaliser des tâches.
 
