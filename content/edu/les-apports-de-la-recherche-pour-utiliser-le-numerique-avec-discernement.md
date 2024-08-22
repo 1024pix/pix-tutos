@@ -8,8 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-EP098
-
 **Les apports de la recherche pour utiliser le numérique avec discernement**
 
 Transcription
