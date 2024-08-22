@@ -8,8 +8,6 @@ videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hl
 
 ## Transcription
 
-EP095
-
 **Le travail en équipe : un levier pour enseigner avec le numérique**
 
 Transcription
