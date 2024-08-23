@@ -1,5 +1,11 @@
 # pix-tutos Changelog
 
+## v3.11.6 (23/08/2024)
+
+
+### :rocket: Amélioration
+- [#359](https://github.com/1024pix/pix-tutos/pull/359) [FEATURE] Ajout de lien de téléchargement manquant.
+
 ## v3.11.5 (22/08/2024)
 
 
