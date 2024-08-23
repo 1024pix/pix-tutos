@@ -21,7 +21,7 @@ describe('verification du contenu dans le dossier `content/edu`', () => {
       }
     })
 
-    describe(`le fichier `, () => {
+    describe(`le fichier ${file}`, () => {
       it('doit avoir un nom alpha numérique et une extension en ".md"', () => {
         try {
           expect(file).toMatch(/^[0-9a-z-_]+\.md$/)
