@@ -3,7 +3,7 @@ area: Domaine 4
 title: Réalité augmentée et réalité virtuelle au service des apprentissages
 description: Réalité augmentée et réalité virtuelle repoussent les limites de la classe. Mais quelle différence entre virtuelle et augmentée ? Et quels intérêts pédagogiques pour ces nouvelles technologies ?
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/5ef21c8d-a0c5-48c7-a68b-fd8dc2d9dda3
-videoDownloadHref:
+videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/5ef21c8d-a0c5-48c7-a68b-fd8dc2d9dda3-1080-fragmented.mp4
 ---
 
 ## Transcription

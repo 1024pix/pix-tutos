@@ -21,7 +21,7 @@ describe('verification du contenu dans le dossier `content/edu`', () => {
       }
     })
 
-    describe(`le fichier `, () => {
+    describe(`le fichier ${file}`, () => {
       it('doit avoir un nom alpha numérique et une extension en ".md"', () => {
         try {
           expect(file).toMatch(/^[0-9a-z-_]+\.md$/)
@@ -123,12 +123,12 @@ describe('verification du contenu dans le dossier `content/edu`', () => {
           return
         try {
           expect(tutoFileMetadata.videoDownloadHref).toMatch(
-            /^https:\/\/tube\.reseau-canope\.fr\/download\/streaming-playlists\/hls\/videos\/(\w|-)+\.mp4$/,
+            /^https:\/\/tube\.reseau-canope\.fr\/download\/(streaming-playlists\/hls\/)?videos\/(\w|-)+\.mp4$/,
           )
         }
         catch {
           throw new Error(
-            `Le format du lien "videoDownloadHref" est invalide (format attendu : "https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileMetadata.videoDownloadHref}")`,
+            `Le format du lien "videoDownloadHref" est invalide (format attendu : "https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/{ID_VIDEO}.mp4" ou "https://tube.reseau-canope.fr/download/videos/{ID_VIDEO}.mp4", valeur reçue : "${tutoFileMetadata.videoDownloadHref}")`,
           )
         }
       })

@@ -3,7 +3,7 @@ area: Domaine 5
 title: Les impacts écologiques du numérique
 description: Le numérique est loin d’être un espace dématérialisé. Il implique un tas d’objets physiques qui consomment beaucoup de matières premières, d’énergie, d’espace et qui ont un impact fort sur l’environnement. Il est donc nécessaire de sensibiliser ses élèves et de prendre en compte cet enjeu sociétal dans nos usages individuels et collectifs.
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/e5d3d493-1bc9-4b88-a6ba-0cc046b80316
-videoDownloadHref:
+videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/e5d3d493-1bc9-4b88-a6ba-0cc046b80316-1080-fragmented.mp4
 ---
 
 ## Transcription
