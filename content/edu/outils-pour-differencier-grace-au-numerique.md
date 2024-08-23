@@ -3,7 +3,7 @@ area: Domaine 4
 title: Outils pour différencier grâce au numérique
 description: Comment repérer les besoins des élèves, comment adapter son enseignement en termes de contenu, structure, processus, production et avec l'aide de quels outils numériques ?
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/7447b1eb-46cc-4942-a264-801dbe24fb69
-videoDownloadHref:
+videoDownloadHref: https://tube.reseau-canope.fr/download/streaming-playlists/hls/videos/7447b1eb-46cc-4942-a264-801dbe24fb69-1080-fragmented.mp4
 ---
 
 ## Transcription

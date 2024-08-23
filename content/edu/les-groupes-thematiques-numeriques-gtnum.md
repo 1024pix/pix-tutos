@@ -3,7 +3,7 @@ area: Domaine 1
 title: Les Groupes thématiques numériques (GTnum)
 description: La Direction du numérique pour l’éducation apporte son soutien financier à des projets de recherche sur les thématiques de l’éducation et du numérique. Que sont les GTnum, quels sont leurs objectifs et comment accéder à leurs productions ?
 videoEmbedSrc: https://tube.reseau-canope.fr/videos/embed/1b9c4b3c-55fd-4f87-979b-ccf30c5ce44e
-videoDownloadHref:
+videoDownloadHref: https://tube.reseau-canope.fr/download/videos/1b9c4b3c-55fd-4f87-979b-ccf30c5ce44e-1080.mp4
 ---
 
 ## Transcription
