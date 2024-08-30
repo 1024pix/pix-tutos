@@ -1,3 +1,13 @@
+# [3.12.0](https://github.com/1024pix/pix-tutos/compare/v3.11.6...v3.12.0) (2024-08-30)
+
+### :arrow_up: Montée de version
+
+- [#362](https://github.com/1024pix/pix-tutos/pull/362) Lock file maintenance 
+- [#361](https://github.com/1024pix/pix-tutos/pull/361) Lock file maintenance 
+- [#360](https://github.com/1024pix/pix-tutos/pull/360) Update dependency @1024pix/pix-ui to ^46.12.23 (dossier racine) 
+- [#363](https://github.com/1024pix/pix-tutos/pull/363) Update dependency @1024pix/pix-ui to ^46.12.24 (dossier racine) 
+- [#365](https://github.com/1024pix/pix-tutos/pull/365) Update dependency @1024pix/pix-ui to ^46.12.25 (dossier racine)
+
 # pix-tutos Changelog
 
 ## v3.11.6 (23/08/2024)
