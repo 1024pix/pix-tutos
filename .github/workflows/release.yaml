@@ -18,6 +18,10 @@ jobs:
           echo "Check suite conclusion is: ${{ github.event.check_suite.conclusion }}" \
           exit ${{ github.event.check_suite.conclusion == 'success' && 0 || 1 }}
 
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
       - uses: 1024pix/pix-actions/release@main
         id: semantic
         env:
