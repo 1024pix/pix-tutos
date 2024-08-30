@@ -1,0 +1,24 @@
+name: release
+
+on:
+  check_suite:
+    types:
+      - completed
+  repository_dispatch:
+    types: [deploy]
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check suite is successful
+        if: github.event_name == 'check_suite'
+        run: |
+          echo "Check suite conclusion is: ${{ github.event.check_suite.conclusion }}" \
+          exit ${{ github.event.check_suite.conclusion == 'success' && 0 || 1 }}
+
+      - uses: 1024pix/pix-actions/release@main
+        id: semantic
+        env:
+          GITHUB_TOKEN: ${{ secrets.PIX_SERVICE_ACTIONS_TOKEN }}
