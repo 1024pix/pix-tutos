@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@1024pix/pix-ui": "^46.12.26",
-    "@antfu/eslint-config": "^2.0.0",
+    "@antfu/eslint-config": "^3.0.0",
     "@nuxt/content": "^2.4.3",
     "@playwright/test": "^1.30.0",
     "@types/node": "^20.0.0",
