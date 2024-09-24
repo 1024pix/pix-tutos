@@ -1,5 +1,5 @@
-import path from 'node:path'
 import fs from 'node:fs'
+import path from 'node:path'
 import { beforeEach, describe, expect, it } from 'vitest'
 import getAreas from '../../services/get-areas'
 import parseMarkdownMetadata from '../../services/parse-markdown'

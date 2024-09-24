@@ -1,6 +1,6 @@
 import { createResolver } from '@nuxt/kit'
-import isSeoIndexingEnabled from './services/is-seo-indexing-enabled'
 import { config } from './config/environment'
+import isSeoIndexingEnabled from './services/is-seo-indexing-enabled'
 
 const { resolve } = createResolver(import.meta.url)
 

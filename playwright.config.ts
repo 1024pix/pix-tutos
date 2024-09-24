@@ -1,5 +1,5 @@
-import { env } from 'node:process'
 import type { PlaywrightTestConfig } from '@playwright/test'
+import { env } from 'node:process'
 import { devices } from '@playwright/test'
 
 /**
