@@ -2,7 +2,10 @@
 definePageMeta({ layout: 'sixieme' })
 useHead({ title: 'Accueil' })
 
-const tutos = await queryContent('sixieme').sort({ title: 1 }).find()
+const tutos = await queryContent('sixieme')
+  .sort({ title: 1 })
+  .sort({ priority: -1, $numeric: true })
+  .find()
 </script>
 
 <template>

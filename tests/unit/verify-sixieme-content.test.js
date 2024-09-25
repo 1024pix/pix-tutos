@@ -76,6 +76,7 @@ describe('verification du contenu dans le dossier `content/sixieme`', () => {
           'description',
           'videoEmbedSrc',
           'captionFilePath',
+          'priority',
         ]
 
         try {
