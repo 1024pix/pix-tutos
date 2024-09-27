@@ -3,6 +3,7 @@ title: Décider ce que je dis de moi à mes applications, c'est possible ?
 description:
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Installation_application_v05_20231109.mp4
 captionFilePath:
+priority: 2
 ---
 
 ## Transcription

@@ -3,6 +3,7 @@ title: Pourquoi et comment désactiver la capacité de localisation d'un apparei
 description:
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Geolocalisation_v05_20231109.mp4
 captionFilePath:
+priority: 2
 ---
 
 ## Transcription
