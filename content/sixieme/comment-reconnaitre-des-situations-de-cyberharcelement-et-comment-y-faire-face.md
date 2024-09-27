@@ -3,7 +3,7 @@ title: Comment reconnaître des situations de cyberharcèlement et comment y fai
 description: En ligne, on peut subir des moqueries à répétition. Ce n'est pas une situation normale. Apprenez les bons réflexes pour vous défendre et défendre les autres à l'aide de cette vidéo !
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Cyberharcelement_v08_231109.mp4
 captionFilePath:
-priority: 2
+priority: 0
 ---
 
 ## Transcription
