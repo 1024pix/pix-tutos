@@ -1,3 +1,5 @@
+# [3.13.0](https://github.com/1024pix/pix-tutos/compare/v3.12.0...v3.13.0) (2024-09-30)
+
 # [3.12.0](https://github.com/1024pix/pix-tutos/compare/v3.11.6...v3.12.0) (2024-08-30)
 
 ### :arrow_up: Montée de version
