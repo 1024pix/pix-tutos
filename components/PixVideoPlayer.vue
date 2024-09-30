@@ -1,7 +1,7 @@
 <script setup>
 import player_fr from 'assets/translation/player_fr'
-import plyrSprites from 'plyr/dist/plyr.svg'
 import Plyr from 'plyr'
+import plyrSprites from 'plyr/dist/plyr.svg'
 
 defineProps({
   id: {

@@ -3,6 +3,7 @@ title: Un mot de passe robuste, c'est quoi ?
 description:
 videoEmbedSrc: https://videos.pix.fr/tutos/sixieme/PIX_Mot_de_passe_v05_20231109.mp4
 captionFilePath:
+priority: 0
 ---
 
 ## Transcription

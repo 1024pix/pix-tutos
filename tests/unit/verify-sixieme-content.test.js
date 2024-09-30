@@ -1,5 +1,5 @@
-import path from 'node:path'
 import fs from 'node:fs'
+import path from 'node:path'
 import { beforeEach, describe, expect, it } from 'vitest'
 import parseMarkdownMetadata from '../../services/parse-markdown'
 
@@ -76,6 +76,7 @@ describe('verification du contenu dans le dossier `content/sixieme`', () => {
           'description',
           'videoEmbedSrc',
           'captionFilePath',
+          'priority',
         ]
 
         try {
