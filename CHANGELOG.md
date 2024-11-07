@@ -1,5 +1,37 @@
 # [3.13.0](https://github.com/1024pix/pix-tutos/compare/v3.12.0...v3.13.0) (2024-09-30)
 
+## v3.14.0 (07/11/2024)
+
+
+### :arrow_up: Montée de version
+- [#413](https://github.com/1024pix/pix-tutos/pull/413) [BUMP] Update dependency @1024pix/pix-ui to ^48.0.4 (dossier racine).
+- [#412](https://github.com/1024pix/pix-tutos/pull/412) [BUMP] Lock file maintenance (dossier racine).
+- [#411](https://github.com/1024pix/pix-tutos/pull/411) [BUMP] Update dependency @1024pix/pix-ui to ^48.0.3 (dossier racine).
+- [#410](https://github.com/1024pix/pix-tutos/pull/410) [BUMP] Update dependency node to v22.
+- [#409](https://github.com/1024pix/pix-tutos/pull/409) [BUMP] Update dependency @1024pix/pix-ui to ^48.0.2 (dossier racine).
+- [#408](https://github.com/1024pix/pix-tutos/pull/408) [BUMP] Lock file maintenance (dossier racine).
+- [#407](https://github.com/1024pix/pix-tutos/pull/407) [BUMP] Update dependency @playwright/test to v1.48.2 (.circleci).
+- [#406](https://github.com/1024pix/pix-tutos/pull/406) [BUMP] Update dependency @types/node to v22 (dossier racine).
+- [#405](https://github.com/1024pix/pix-tutos/pull/405) [BUMP] Update dependency @1024pix/pix-ui to v48 (dossier racine).
+- [#404](https://github.com/1024pix/pix-tutos/pull/404) [BUMP] Update dependency node to v20.18.0.
+- [#364](https://github.com/1024pix/pix-tutos/pull/364) [BUMP] Update dependency node to v20.17.0.
+- [#403](https://github.com/1024pix/pix-tutos/pull/403) [BUMP] Lock file maintenance.
+- [#402](https://github.com/1024pix/pix-tutos/pull/402) [BUMP] Update dependency @playwright/test to v1.48.1 (.circleci).
+- [#401](https://github.com/1024pix/pix-tutos/pull/401) [BUMP] Update dependency @1024pix/pix-ui to ^47.2.0 (dossier racine).
+- [#400](https://github.com/1024pix/pix-tutos/pull/400) [BUMP] Lock file maintenance.
+- [#399](https://github.com/1024pix/pix-tutos/pull/399) [BUMP] Update dependency @1024pix/pix-ui to ^47.1.0 (dossier racine).
+- [#398](https://github.com/1024pix/pix-tutos/pull/398) [BUMP] Update dependency @1024pix/pix-ui to ^47.0.3 (dossier racine).
+- [#397](https://github.com/1024pix/pix-tutos/pull/397) [BUMP] Update dependency @1024pix/pix-ui to ^47.0.2 (dossier racine).
+- [#396](https://github.com/1024pix/pix-tutos/pull/396) [BUMP] Update dependency @playwright/test to v1.48.0 (.circleci).
+- [#395](https://github.com/1024pix/pix-tutos/pull/395) [BUMP] Update dependency @1024pix/pix-ui to ^47.0.1 (dossier racine).
+- [#394](https://github.com/1024pix/pix-tutos/pull/394) [BUMP] Update dependency @1024pix/pix-ui to v47 (dossier racine).
+- [#393](https://github.com/1024pix/pix-tutos/pull/393) [BUMP] Lock file maintenance.
+- [#392](https://github.com/1024pix/pix-tutos/pull/392) [BUMP] Update dependency @1024pix/pix-ui to ^46.15.2 (dossier racine).
+- [#391](https://github.com/1024pix/pix-tutos/pull/391) [BUMP] Update dependency @1024pix/pix-ui to ^46.15.1 (dossier racine).
+- [#390](https://github.com/1024pix/pix-tutos/pull/390) [BUMP] Update dependency @1024pix/pix-ui to ^46.15.0 (dossier racine).
+- [#389](https://github.com/1024pix/pix-tutos/pull/389) [BUMP] Lock file maintenance.
+- [#388](https://github.com/1024pix/pix-tutos/pull/388) [BUMP] Update dependency @1024pix/pix-ui to ^46.14.0 (dossier racine).
+
 # [3.12.0](https://github.com/1024pix/pix-tutos/compare/v3.11.6...v3.12.0) (2024-08-30)
 
 ### :arrow_up: Montée de version
