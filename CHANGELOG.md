@@ -1,3 +1,9 @@
+## [3.13.1](https://github.com/1024pix/pix-tutos/compare/v3.13.0...v3.13.1) (2024-11-08)
+
+### :rewind: Retour en arrière
+
+- [#414](https://github.com/1024pix/pix-tutos/pull/414) Remplacer Jean Pierre par le bouton de merge natif
+
 # [3.13.0](https://github.com/1024pix/pix-tutos/compare/v3.12.0...v3.13.0) (2024-09-30)
 
 ## v3.14.0 (07/11/2024)
