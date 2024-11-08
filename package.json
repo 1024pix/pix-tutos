@@ -27,7 +27,7 @@
     "plyr": "^3.7.8"
   },
   "devDependencies": {
-    "@1024pix/pix-ui": "^48.0.4",
+    "@1024pix/pix-ui": "^48.1.0",
     "@antfu/eslint-config": "^3.0.0",
     "@nuxt/content": "^2.4.3",
     "@playwright/test": "^1.30.0",
