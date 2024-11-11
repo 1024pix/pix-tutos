@@ -1,3 +1,9 @@
+## [3.13.2](https://github.com/1024pix/pix-tutos/compare/v3.13.1...v3.13.2) (2024-11-11)
+
+### :arrow_up: Montée de version
+
+- [#418](https://github.com/1024pix/pix-tutos/pull/418) Update dependency nuxt to ~3.14.0 (dossier racine)
+
 ## [3.13.1](https://github.com/1024pix/pix-tutos/compare/v3.13.0...v3.13.1) (2024-11-08)
 
 ### :rewind: Retour en arrière
