@@ -10,11 +10,6 @@
 
 - [#414](https://github.com/1024pix/pix-tutos/pull/414) Remplacer Jean Pierre par le bouton de merge natif
 
-# [3.13.0](https://github.com/1024pix/pix-tutos/compare/v3.12.0...v3.13.0) (2024-09-30)
-
-## v3.14.0 (07/11/2024)
-
-
 ### :arrow_up: Montée de version
 - [#413](https://github.com/1024pix/pix-tutos/pull/413) [BUMP] Update dependency @1024pix/pix-ui to ^48.0.4 (dossier racine).
 - [#412](https://github.com/1024pix/pix-tutos/pull/412) [BUMP] Lock file maintenance (dossier racine).
@@ -43,6 +38,29 @@
 - [#390](https://github.com/1024pix/pix-tutos/pull/390) [BUMP] Update dependency @1024pix/pix-ui to ^46.15.0 (dossier racine).
 - [#389](https://github.com/1024pix/pix-tutos/pull/389) [BUMP] Lock file maintenance.
 - [#388](https://github.com/1024pix/pix-tutos/pull/388) [BUMP] Update dependency @1024pix/pix-ui to ^46.14.0 (dossier racine).
+
+# [3.13.0](https://github.com/1024pix/pix-tutos/compare/v3.12.0...v3.13.0) (2024-09-30)
+
+### :rocket: Amélioration
+- [FEATURE] Ajout d'un nouveau tutoriel Pix sixième (#383)
+
+### :arrow_up: Montée de version
+- [BUMP] Lock file maintenance (#387)
+- [BUMP] Update dependency @playwright/test to v1.47.2 (.circleci) (#386)
+- [BUMP] Update dependency @1024pix/pix-ui to ^46.13.4 (dossier racine) (#385)
+- [BUMP] Update dependency @1024pix/pix-ui to ^46.13.3 (dossier racine) (#384)
+- [BUMP] Update dependency @1024pix/pix-ui to ^46.13.2 (dossier racine) (#382)
+- [BUMP] Lock file maintenance (#381)
+- [BUMP] Update dependency @playwright/test to v1.47.1 (.circleci) (#380)
+- [BUMP] Update dependency @1024pix/pix-ui to ^46.13.1 (dossier racine) (#379)
+- [BUMP] Lock file maintenance (#378)
+- [BUMP] Update dependency @playwright/test to v1.47.0 (.circleci) (#377)
+- [BUMP] Lock file maintenance (#376)
+- [BUMP] Update dependency @1024pix/pix-ui to ^46.12.27 (dossier racine) (#375)
+- [BUMP] Lock file maintenance (#374)
+- [BUMP] Update dependency @antfu/eslint-config to v3 (dossier racine) (#373)
+- [BUMP] Update dependency @1024pix/pix-ui to ^46.12.26 (dossier racine) (#372)
+- [BUMP] Lock file maintenance (#371)
 
 # [3.12.0](https://github.com/1024pix/pix-tutos/compare/v3.11.6...v3.12.0) (2024-08-30)
 
