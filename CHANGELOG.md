@@ -1,3 +1,9 @@
+## [3.13.3](https://github.com/1024pix/pix-tutos/compare/v3.13.2...v3.13.3) (2024-11-12)
+
+### :building_construction: Tech
+
+- [#416](https://github.com/1024pix/pix-tutos/pull/416) Remise au propre du CHANGELOG (PIX-15203)
+
 ## [3.13.2](https://github.com/1024pix/pix-tutos/compare/v3.13.1...v3.13.2) (2024-11-11)
 
 ### :arrow_up: Montée de version
