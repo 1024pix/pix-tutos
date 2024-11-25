@@ -1,3 +1,9 @@
+## [3.13.14](https://github.com/1024pix/pix-tutos/compare/v3.13.13...v3.13.14) (2024-11-25)
+
+### :arrow_up: Montée de version
+
+- [#429](https://github.com/1024pix/pix-tutos/pull/429) Update dependency @1024pix/pix-ui to ^48.8.0 (dossier racine)
+
 ## [3.13.13](https://github.com/1024pix/pix-tutos/compare/v3.13.12...v3.13.13) (2024-11-22)
 
 ### :arrow_up: Montée de version
