@@ -1,3 +1,9 @@
+## [3.13.16](https://github.com/1024pix/pix-tutos/compare/v3.13.15...v3.13.16) (2024-11-25)
+
+### :arrow_up: Montée de version
+
+- [#431](https://github.com/1024pix/pix-tutos/pull/431) Update dependency @playwright/test to v1.49.0 (.circleci)
+
 ## [3.13.15](https://github.com/1024pix/pix-tutos/compare/v3.13.14...v3.13.15) (2024-11-25)
 
 ### :arrow_up: Montée de version
