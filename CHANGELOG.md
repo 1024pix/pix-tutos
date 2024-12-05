@@ -1,3 +1,9 @@
+## [3.13.22](https://github.com/1024pix/pix-tutos/compare/v3.13.21...v3.13.22) (2024-12-05)
+
+### :arrow_up: Montée de version
+
+- [#438](https://github.com/1024pix/pix-tutos/pull/438) Update dependency browser-tools to v1.4.9 (.circleci)
+
 ## [3.13.21](https://github.com/1024pix/pix-tutos/compare/v3.13.20...v3.13.21) (2024-12-03)
 
 ### :arrow_up: Montée de version
