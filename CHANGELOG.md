@@ -1,3 +1,10 @@
+## [3.13.25](https://github.com/1024pix/pix-tutos/compare/v3.13.24...v3.13.25) (2024-12-09)
+
+### :arrow_up: Montée de version
+
+- [#439](https://github.com/1024pix/pix-tutos/pull/439) Update dependency @1024pix/pix-ui to v50 (dossier racine) 
+- [#440](https://github.com/1024pix/pix-tutos/pull/440) Update Node.js to v22.12.0
+
 ## [3.13.24](https://github.com/1024pix/pix-tutos/compare/v3.13.23...v3.13.24) (2024-12-09)
 
 ### :arrow_up: Montée de version
