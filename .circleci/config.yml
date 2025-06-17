@@ -16,7 +16,7 @@ executors:
     parameters:
       playwright-version:
         # renovate datasource=npm depName=@playwright/test
-        default: 1.52.0
+        default: 1.53.0
         type: string
     docker:
       - image: mcr.microsoft.com/playwright:v<<parameters.playwright-version>>
