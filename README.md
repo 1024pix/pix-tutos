@@ -16,8 +16,8 @@ Les noms de **fichier des composants** (classes dans `/components`) doivent êtr
 
 Exemples :
 
-- components/AppFooter.vue
-- components/slices/FeatureList.vue
+- components/PixButton.vue
+- components/PixTutorial.vue
 
 Les noms des **autres fichiers** (_.js, _.vue, *.scss, etc.) en *kebab-case\*.
 
