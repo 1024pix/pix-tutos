@@ -1,7 +1,7 @@
 {
   "name": "pix-tutos",
   "type": "module",
-  "version": "3.13.28",
+  "version": "3.13.29",
   "private": true,
   "engines": {
     "node": "^22.21.1"
