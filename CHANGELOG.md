@@ -1,3 +1,49 @@
+## [3.13.28](https://github.com/1024pix/pix-tutos/compare/v3.13.27...v3.13.28) (2025-12-31)
+
+### :bug: Correction
+
+- [#491](https://github.com/1024pix/pix-tutos/pull/491) Remmetre node en version 22
+
+### :rewind: Retour en arrière
+
+- [#445](https://github.com/1024pix/pix-tutos/pull/445) Revert "[BUMP] Update Node.js to v22.12.0"
+
+### :building_construction: Tech
+
+- [#442](https://github.com/1024pix/pix-tutos/pull/442) Pas besoin de faire le check de version Node de Scalingo 
+
+### :arrow_up: Montée de version
+
+- [#477](https://github.com/1024pix/pix-tutos/pull/477) Update actions/checkout action to v5 (workflows) 
+- [#485](https://github.com/1024pix/pix-tutos/pull/485) Update actions/checkout action to v6 (workflows) 
+- [#478](https://github.com/1024pix/pix-tutos/pull/478) Update actions/setup-node action to v5 (workflows) 
+- [#479](https://github.com/1024pix/pix-tutos/pull/479) Update actions/setup-node action to v6 (workflows) 
+- [#446](https://github.com/1024pix/pix-tutos/pull/446) Update dependency @1024pix/pix-ui to ^50.1.1 (dossier racine) 
+- [#449](https://github.com/1024pix/pix-tutos/pull/449) Update dependency @1024pix/pix-ui to ^51.2.0 (dossier racine) 
+- [#450](https://github.com/1024pix/pix-tutos/pull/450) Update dependency @1024pix/pix-ui to ^51.3.0 (dossier racine) 
+- [#448](https://github.com/1024pix/pix-tutos/pull/448) Update dependency @1024pix/pix-ui to v51 (dossier racine) 
+- [#452](https://github.com/1024pix/pix-tutos/pull/452) Update dependency @1024pix/pix-ui to v52 (dossier racine) 
+- [#461](https://github.com/1024pix/pix-tutos/pull/461) Update dependency @antfu/eslint-config to v4 (dossier racine) 
+- [#476](https://github.com/1024pix/pix-tutos/pull/476) Update dependency @antfu/eslint-config to v5 (dossier racine) 
+- [#453](https://github.com/1024pix/pix-tutos/pull/453) Update dependency @playwright/test to v1.52.0 (.circleci) 
+- [#472](https://github.com/1024pix/pix-tutos/pull/472) Update dependency @playwright/test to v1.53.0 (.circleci) 
+- [#473](https://github.com/1024pix/pix-tutos/pull/473) Update dependency @playwright/test to v1.53.1 (.circleci) 
+- [#481](https://github.com/1024pix/pix-tutos/pull/481) Update dependency @types/node to v24 (dossier racine) 
+- [#454](https://github.com/1024pix/pix-tutos/pull/454) Update dependency browser-tools to v1.5.0 (.circleci) 
+- [#462](https://github.com/1024pix/pix-tutos/pull/462) Update dependency browser-tools to v1.5.1 (.circleci) 
+- [#466](https://github.com/1024pix/pix-tutos/pull/466) Update dependency browser-tools to v1.5.3 (.circleci) 
+- [#455](https://github.com/1024pix/pix-tutos/pull/455) Update dependency nuxt to ~3.15.0 (dossier racine) 
+- [#458](https://github.com/1024pix/pix-tutos/pull/458) Update dependency vitest to v3 (dossier racine) 
+- [#447](https://github.com/1024pix/pix-tutos/pull/447) Update Node.js to v22.13.0 
+- [#460](https://github.com/1024pix/pix-tutos/pull/460) Update Node.js to v22.13.1 
+- [#463](https://github.com/1024pix/pix-tutos/pull/463) Update Node.js to v22.14.0 
+- [#467](https://github.com/1024pix/pix-tutos/pull/467) Update Node.js to v22.15.0 
+- [#469](https://github.com/1024pix/pix-tutos/pull/469) Update Node.js to v22.15.1 
+- [#487](https://github.com/1024pix/pix-tutos/pull/487) Update Node.js to v22.21.1 
+- [#483](https://github.com/1024pix/pix-tutos/pull/483) Update Node.js to v24 
+- [#484](https://github.com/1024pix/pix-tutos/pull/484) Update Node.js to v24.11.1 
+- [#489](https://github.com/1024pix/pix-tutos/pull/489) Update Node.js to v24.12.0
+
 ## [3.13.27](https://github.com/1024pix/pix-tutos/compare/v3.13.26...v3.13.27) (2024-12-09)
 
 ### :arrow_up: Montée de version
