@@ -2,7 +2,7 @@
 
 ### :bug: Correction
 
-- [#491](https://github.com/1024pix/pix-tutos/pull/491) Remmetre node en version 22
+- [#491](https://github.com/1024pix/pix-tutos/pull/491) Remettre node en version 22
 
 ### :rewind: Retour en arrière
 
