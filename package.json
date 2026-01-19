@@ -4,7 +4,7 @@
   "version": "3.13.29",
   "private": true,
   "engines": {
-    "node": "^22.21.1"
+    "node": "^22.22.0"
   },
   "scripts": {
     "dev": "nuxt dev",
