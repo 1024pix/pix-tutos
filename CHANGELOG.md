@@ -1,3 +1,9 @@
+## [3.13.31](https://github.com/1024pix/pix-tutos/compare/v3.13.30...v3.13.31) (2026-01-20)
+
+### :arrow_up: Montée de version
+
+- [#496](https://github.com/1024pix/pix-tutos/pull/496) Update dependency @antfu/eslint-config to v7 (dossier racine)
+
 ## [3.13.30](https://github.com/1024pix/pix-tutos/compare/v3.13.29...v3.13.30) (2026-01-19)
 
 ### :arrow_up: Montée de version
