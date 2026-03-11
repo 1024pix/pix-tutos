@@ -1,3 +1,9 @@
+## [3.13.33](https://github.com/1024pix/pix-tutos/compare/v3.13.32...v3.13.33) (2026-03-11)
+
+### :rewind: Retour en arrière
+
+- [#502](https://github.com/1024pix/pix-tutos/pull/502) Revert "[BUMP] Update Node.js to v22.22.1"
+
 ## [3.13.32](https://github.com/1024pix/pix-tutos/compare/v3.13.31...v3.13.32) (2026-03-11)
 
 ### :arrow_up: Montée de version
