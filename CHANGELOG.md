@@ -1,3 +1,9 @@
+## [3.13.32](https://github.com/1024pix/pix-tutos/compare/v3.13.31...v3.13.32) (2026-03-11)
+
+### :arrow_up: Montée de version
+
+- [#501](https://github.com/1024pix/pix-tutos/pull/501) Update Node.js to v22.22.1
+
 ## [3.13.31](https://github.com/1024pix/pix-tutos/compare/v3.13.30...v3.13.31) (2026-01-20)
 
 ### :arrow_up: Montée de version
