@@ -1,3 +1,9 @@
+## [3.13.34](https://github.com/1024pix/pix-tutos/compare/v3.13.33...v3.13.34) (2026-03-31)
+
+### :building_construction: Tech
+
+- [#504](https://github.com/1024pix/pix-tutos/pull/504) Figer la version d'axios dans le package.json
+
 ## [3.13.33](https://github.com/1024pix/pix-tutos/compare/v3.13.32...v3.13.33) (2026-03-11)
 
 ### :rewind: Retour en arrière
