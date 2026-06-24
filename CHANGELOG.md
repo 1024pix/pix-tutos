@@ -1,3 +1,9 @@
+## [3.13.36](https://github.com/1024pix/pix-tutos/compare/v3.13.35...v3.13.36) (2026-06-24)
+
+### :arrow_up: Montée de version
+
+- [#509](https://github.com/1024pix/pix-tutos/pull/509) Update actions/checkout action to v7 (workflows)
+
 ## [3.13.34](https://github.com/1024pix/pix-tutos/compare/v3.13.33...v3.13.34) (2026-03-31)
 
 ### :building_construction: Tech
