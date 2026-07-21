@@ -1,3 +1,9 @@
+## [3.13.37](https://github.com/1024pix/pix-tutos/compare/v3.13.36...v3.13.37) (2026-07-21)
+
+### :arrow_up: Montée de version
+
+- [#510](https://github.com/1024pix/pix-tutos/pull/510) Update actions/setup-node action to v7 (workflows)
+
 ## [3.13.36](https://github.com/1024pix/pix-tutos/compare/v3.13.35...v3.13.36) (2026-06-24)
 
 ### :arrow_up: Montée de version
