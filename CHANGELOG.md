@@ -1,3 +1,9 @@
+## [3.13.38](https://github.com/1024pix/pix-tutos/compare/v3.13.37...v3.13.38) (2026-08-25)
+
+### :arrow_up: Montée de version
+
+- [#513](https://github.com/1024pix/pix-tutos/pull/513) Pin dependencies
+
 ## [3.13.37](https://github.com/1024pix/pix-tutos/compare/v3.13.36...v3.13.37) (2026-07-21)
 
 ### :arrow_up: Montée de version
