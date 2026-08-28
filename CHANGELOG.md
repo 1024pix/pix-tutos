@@ -1,3 +1,9 @@
+## [3.13.39](https://github.com/1024pix/pix-tutos/compare/v3.13.38...v3.13.39) (2026-08-28)
+
+### :building_construction: Tech
+
+- [#519](https://github.com/1024pix/pix-tutos/pull/519) Utiliser la configuration Renovate js-project
+
 ## [3.13.38](https://github.com/1024pix/pix-tutos/compare/v3.13.37...v3.13.38) (2026-08-25)
 
 ### :arrow_up: Montée de version
