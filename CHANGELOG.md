@@ -1,3 +1,9 @@
+## [3.13.40](https://github.com/1024pix/pix-tutos/compare/v3.13.39...v3.13.40) (2026-08-31)
+
+### :arrow_up: Montée de version
+
+- [#520](https://github.com/1024pix/pix-tutos/pull/520) Pin 1024pix/pix-actions action to ebfce29 (workflows)
+
 ## [3.13.39](https://github.com/1024pix/pix-tutos/compare/v3.13.38...v3.13.39) (2026-08-28)
 
 ### :building_construction: Tech
