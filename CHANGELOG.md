@@ -1,3 +1,9 @@
+## [3.13.41](https://github.com/1024pix/pix-tutos/compare/v3.13.40...v3.13.41) (2026-10-12)
+
+### :building_construction: Tech
+
+- [#558](https://github.com/1024pix/pix-tutos/pull/558) Update Renovate configuration to use local extends
+
 ## [3.13.40](https://github.com/1024pix/pix-tutos/compare/v3.13.39...v3.13.40) (2026-08-31)
 
 ### :arrow_up: Montée de version
