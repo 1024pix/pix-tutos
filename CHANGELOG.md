@@ -1,3 +1,9 @@
+## [3.13.42](https://github.com/1024pix/pix-tutos/compare/v3.13.41...v3.13.42) (2026-10-19)
+
+### :arrow_up: Montée de version
+
+- [#559](https://github.com/1024pix/pix-tutos/pull/559) Pin dependencies (dossier racine)
+
 ## [3.13.41](https://github.com/1024pix/pix-tutos/compare/v3.13.40...v3.13.41) (2026-10-12)
 
 ### :building_construction: Tech
