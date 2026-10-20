@@ -1,3 +1,9 @@
+## [3.13.44](https://github.com/1024pix/pix-tutos/compare/v3.13.43...v3.13.44) (2026-10-20)
+
+### :arrow_up: Montée de version
+
+- [#561](https://github.com/1024pix/pix-tutos/pull/561) Pin dependency eslint to 9.39.2 (dossier racine)
+
 ## [3.13.43](https://github.com/1024pix/pix-tutos/compare/v3.13.42...v3.13.43) (2026-10-20)
 
 ### :arrow_up: Montée de version
