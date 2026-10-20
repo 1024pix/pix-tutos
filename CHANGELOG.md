@@ -1,3 +1,9 @@
+## [3.13.43](https://github.com/1024pix/pix-tutos/compare/v3.13.42...v3.13.43) (2026-10-20)
+
+### :arrow_up: Montée de version
+
+- [#560](https://github.com/1024pix/pix-tutos/pull/560) Pin dependencies (workflows)
+
 ## [3.13.42](https://github.com/1024pix/pix-tutos/compare/v3.13.41...v3.13.42) (2026-10-19)
 
 ### :arrow_up: Montée de version
