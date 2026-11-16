@@ -58,6 +58,7 @@ export default defineNuxtConfig({
     css: {
       preprocessorOptions: {
         scss: {
+          loadPaths: [resolve('./node_modules/@1024pix/pix-ui/addon/styles')],
           additionalData: `
             @use "@1024pix/pix-ui/addon/styles/pix-design-tokens/index.scss" as *;
           `,
