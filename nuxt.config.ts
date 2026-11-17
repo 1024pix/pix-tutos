@@ -1,8 +1,5 @@
-import { createResolver } from '@nuxt/kit'
 import { config } from './config/environment'
 import isSeoIndexingEnabled from './services/is-seo-indexing-enabled'
-
-const { resolve } = createResolver(import.meta.url)
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
@@ -62,15 +59,6 @@ export default defineNuxtConfig({
         },
       },
     },
-  },
-
-  nitro: {
-    publicAssets: [
-      {
-        dir: resolve('./node_modules/@1024pix/pix-ui/public'),
-        baseURL: '/@1024pix/pix-ui',
-      },
-    ],
   },
 
   content: {
