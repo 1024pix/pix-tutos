@@ -1,0 +1,137 @@
+// Styles repris de @1024pix/pix-ui v52.3.5 (licence MIT, voir LICENSE.md),
+// réduits à ce qu'utilise le projet.
+//
+// Ce fichier est injecté dans chaque fichier SCSS (voir `additionalData` dans
+// nuxt.config.ts). Il ne doit donc contenir que des mixins et des placeholders,
+// qui ne produisent aucun CSS tant qu'ils ne sont pas utilisés.
+// Les règles qui produisent du CSS sont dans `index.scss`, chargé une seule fois.
+
+@use 'sass:map';
+@use 'sass:meta';
+
+$breakpoints: (
+  'mobile': (max-width: 768px),
+  'tablet': (min-width: 769px),
+  'desktop': (min-width: 992px),
+  'large-screen': (min-width: 1200px),
+);
+
+@mixin device-is($breakpoint) {
+  @if map.has-key($breakpoints, $breakpoint) {
+    @media #{meta.inspect(map.get($breakpoints, $breakpoint))} {
+      @content;
+    }
+  } @else {
+    @warn "Unknown breakpoint `#{$breakpoint}`. Available breakpoints are: #{map.keys($breakpoints)}.";
+  }
+}
+
+%pix-shadow-xs {
+  box-shadow: 0 4px 8px rgba(7, 20, 46, 0.08);
+}
+
+%-pix-title {
+  font-weight: var(--pix-font-bold);
+  font-family: var(--_pix-font-family-title);
+}
+
+%pix-title-l {
+  @extend %-pix-title;
+
+  --font-size-title: 2rem;
+
+  font-size: var(--font-size-title);
+  line-height: 1.3;
+  letter-spacing: calc(-0.02 * var(--font-size-title));
+
+  @include device-is('tablet') {
+    --font-size-title: 2.5rem;
+  }
+
+  @include device-is('desktop') {
+    --font-size-title: 3rem;
+  }
+}
+
+%pix-title-m {
+  @extend %-pix-title;
+
+  --font-size-title: 1.625rem;
+  --letter-spacing-title: -0.02;
+
+  font-size: var(--font-size-title);
+  line-height: 1.3;
+  letter-spacing: calc(var(--letter-spacing-title) * var(--font-size-title));
+
+  @include device-is('tablet') {
+    --font-size-title: 2rem;
+  }
+
+  @include device-is('desktop') {
+    --font-size-title: 2.25rem;
+    --letter-spacing-title: -0.01;
+  }
+}
+
+%pix-title-s {
+  @extend %-pix-title;
+
+  --font-size-title: 1.375rem;
+
+  font-size: var(--font-size-title);
+  line-height: 1.3;
+  letter-spacing: calc(-0.01 * var(--font-size-title));
+
+  @include device-is('tablet') {
+    --font-size-title: 1.5rem;
+  }
+
+  @include device-is('desktop') {
+    --font-size-title: 1.75rem;
+  }
+}
+
+%pix-title-xs {
+  @extend %-pix-title;
+
+  --font-size-title: 1.25rem;
+
+  font-size: var(--font-size-title);
+  line-height: 1.4;
+  letter-spacing: calc(-0.01 * var(--font-size-title));
+}
+
+%-pix-body {
+  font-weight: var(--pix-font-normal);
+  font-family: var(--_pix-font-family-body);
+}
+
+%pix-cta-s {
+  @extend %-pix-body;
+
+  font-weight: var(--pix-font-bold);
+  font-size: 0.875rem;
+  line-height: 1.429;
+}
+
+%pix-body-m {
+  @extend %-pix-body;
+
+  font-size: 0.875rem;
+  line-height: 1.5;
+
+  @include device-is('tablet') {
+    font-size: 1rem;
+  }
+}
+
+%pix-body-l {
+  @extend %-pix-body;
+
+  font-size: 1rem;
+  line-height: 1.5;
+
+  @include device-is('tablet') {
+    font-size: 1.125rem;
+  }
+}

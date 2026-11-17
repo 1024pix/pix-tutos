@@ -27,9 +27,7 @@ export default defineNuxtConfig({
   modules: ['@nuxt/content'],
 
   css: [
-    '@1024pix/pix-ui/addon/styles/normalize-reset/index.scss',
-    '@1024pix/pix-ui/addon/styles/_pix-button-base.scss',
-    '@1024pix/pix-ui/addon/styles/_pix-button.scss',
+    '~/assets/scss/pix-ui/index.scss',
     '~/assets/scss/globals.scss',
     'plyr/dist/plyr.css',
   ],
@@ -59,7 +57,7 @@ export default defineNuxtConfig({
       preprocessorOptions: {
         scss: {
           additionalData: `
-            @use "@1024pix/pix-ui/addon/styles/pix-design-tokens/index.scss" as *;
+            @use "~/assets/scss/pix-ui/tokens" as *;
           `,
         },
       },
