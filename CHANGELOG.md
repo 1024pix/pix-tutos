@@ -1,3 +1,9 @@
+## [3.13.45](https://github.com/1024pix/pix-tutos/compare/v3.13.44...v3.13.45) (2026-11-18)
+
+### :building_construction: Tech
+
+- [#563](https://github.com/1024pix/pix-tutos/pull/563) Internaliser les styles de pix-ui et supprimer la dépendance (PIX-25127)
+
 ## [3.13.44](https://github.com/1024pix/pix-tutos/compare/v3.13.43...v3.13.44) (2026-10-20)
 
 ### :arrow_up: Montée de version
