@@ -1,0 +1,79 @@
+// Styles repris de @1024pix/pix-ui v52.3.5 (licence MIT, voir LICENSE.md),
+// réduits à ce qu'utilise le projet.
+//
+// Feuille globale chargée une seule fois (voir `css` dans nuxt.config.ts) :
+// polices, variables CSS, reset, bouton et classes utilitaires.
+// Les mixins et placeholders sont dans `_tokens.scss`.
+
+@use 'tokens' as *;
+@use 'reset';
+@use 'button';
+
+@font-face {
+  font-weight: 700;
+  font-family: 'Nunito';
+  font-style: normal;
+  src: url('../../fonts/pix-ui/Nunito-Bold.woff2');
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: 'Roboto';
+  font-style: normal;
+  src: url('../../fonts/pix-ui/Roboto-Regular.woff2');
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: 'Roboto';
+  font-style: normal;
+  src: url('../../fonts/pix-ui/Roboto-Medium.woff2');
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: 'Roboto';
+  font-style: normal;
+  src: url('../../fonts/pix-ui/Roboto-Bold.woff2');
+}
+
+:root {
+  --pix-primary-500: rgb(97, 63, 221);
+  --pix-primary-700: rgb(69, 45, 157);
+  --pix-primary-900: rgb(41, 26, 93);
+  --pix-tertiary-500: rgb(61, 104, 255);
+  --pix-neutral-0: rgb(255, 255, 255);
+  --pix-neutral-20: rgb(244, 245, 247);
+  --pix-neutral-500: rgb(94, 108, 132);
+  --pix-neutral-900: rgb(18, 38, 71);
+
+  --pix-spacing-1x: 4px;
+  --pix-spacing-2x: 8px;
+  --pix-spacing-3x: 12px;
+  --pix-spacing-4x: 16px;
+  --pix-spacing-6x: 24px;
+  --pix-spacing-8x: 32px;
+  --pix-spacing-10x: 40px;
+  --pix-spacing-12x: 48px;
+
+  --pix-font-normal: 400;
+  --pix-font-bold: 700;
+  --_pix-font-family-title: 'Nunito', Arial, sans-serif;
+  --_pix-font-family-body: 'Roboto', Arial, sans-serif;
+}
+
+.pix-title-m {
+  @extend %pix-title-m;
+}
+
+.pix-title-s {
+  @extend %pix-title-s;
+}
+
+.pix-title-xs {
+  @extend %pix-title-xs;
+}
+
+.pix-body-l {
+  @extend %pix-body-l;
+}
