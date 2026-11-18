@@ -1,3 +1,9 @@
+## [3.13.46](https://github.com/1024pix/pix-tutos/compare/v3.13.45...v3.13.46) (2026-11-18)
+
+### :arrow_up: Montée de version
+
+- [#562](https://github.com/1024pix/pix-tutos/pull/562) Pin dependency vitest to 3.0.4 (dossier racine)
+
 ## [3.13.45](https://github.com/1024pix/pix-tutos/compare/v3.13.44...v3.13.45) (2026-11-18)
 
 ### :building_construction: Tech
