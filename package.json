@@ -24,7 +24,7 @@
     "captions:translate": "srt-to-vtt 'public/captions/mednum/Un pseudo pourquoi faire.mp4.srt' > public/captions/mednum/Un_pseudo_pourquoi_faire.vtt"
   },
   "dependencies": {
-    "plyr": "3.7.8"
+    "plyr": "3.8.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "7.1.0",
