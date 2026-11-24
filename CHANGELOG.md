@@ -1,3 +1,9 @@
+## [3.13.49](https://github.com/1024pix/pix-tutos/compare/v3.13.48...v3.13.49) (2026-11-24)
+
+### :arrow_up: Montée de version
+
+- [#568](https://github.com/1024pix/pix-tutos/pull/568) Update dependency axios to v1.21.1 (root)
+
 ## [3.13.48](https://github.com/1024pix/pix-tutos/compare/v3.13.47...v3.13.48) (2026-11-24)
 
 ### :arrow_up: Montée de version
