@@ -29,7 +29,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "7.1.0",
     "@nuxt/content": "2.13.4",
-    "@playwright/test": "1.48.2",
+    "@playwright/test": "1.65.1",
     "@types/node": "24.9.1",
     "axios": "1.21.1",
     "eslint": "9.39.5",
