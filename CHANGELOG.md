@@ -1,3 +1,9 @@
+## [3.13.47](https://github.com/1024pix/pix-tutos/compare/v3.13.46...v3.13.47) (2026-11-24)
+
+### :arrow_up: Montée de version
+
+- [#564](https://github.com/1024pix/pix-tutos/pull/564) Update 1024pix/pix-actions digest to 44ba0bb (.github/workflows)
+
 ## [3.13.46](https://github.com/1024pix/pix-tutos/compare/v3.13.45...v3.13.46) (2026-11-18)
 
 ### :arrow_up: Montée de version
