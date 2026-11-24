@@ -1,3 +1,9 @@
+## [3.13.50](https://github.com/1024pix/pix-tutos/compare/v3.13.49...v3.13.50) (2026-11-24)
+
+### :arrow_up: Montée de version
+
+- [#571](https://github.com/1024pix/pix-tutos/pull/571) Update dependency sass to v1.108.2 (root)
+
 ## [3.13.49](https://github.com/1024pix/pix-tutos/compare/v3.13.48...v3.13.49) (2026-11-24)
 
 ### :arrow_up: Montée de version
