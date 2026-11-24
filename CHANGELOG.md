@@ -1,3 +1,9 @@
+## [3.13.51](https://github.com/1024pix/pix-tutos/compare/v3.13.50...v3.13.51) (2026-11-24)
+
+### :arrow_up: Montée de version
+
+- [#572](https://github.com/1024pix/pix-tutos/pull/572) Update dependency vitest to v3.2.7 (root)
+
 ## [3.13.50](https://github.com/1024pix/pix-tutos/compare/v3.13.49...v3.13.50) (2026-11-24)
 
 ### :arrow_up: Montée de version
